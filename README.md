@@ -9,7 +9,7 @@ Dieses Repository rekonstruiert stündlich die **marginale Technologie**, deren 
 ## Funktionsumfang (Überblick)
 
 1. **Datenimport & Zeitachsenharmonisierung** (UTC→Europe/Berlin, Schaltjahr 8784 h) für Last, Brennstoffpreise, Flüsse und Nachbarpreise/-erzeugung. Fehlende Stunden werden streng reindiziert und kurze Lücken ≤ 3 h interpoliert. fileciteturn28file1 fileciteturn28file4 fileciteturn28file5  
-2. **Flow‑Modi**: `scheduled`, `physical` oder `hybrid` mit Ambivalenz‑Maske (Schwellenwert standardmäßig 0,40). fileciteturn28file14  
+2. **Flow‑Modi**: `scheduled`, `physical` oder `hybrid` mit Ambivalenz‑Maske (Schwellenwert standardmäßig 0,40). Im Rahmen der Masterarbeit wird die Verwendung von scheduled benutzt. fileciteturn28file14  
 3. **Zonale Preiskopplung**: Clusterbildung nach Preisähnlichkeit (ε) und Ankerlogik (`off|closest|threshold`) mit Toleranzband. fileciteturn28file10  
 4. **Must‑Run‑Behandlung**: EE‑Abzug + stoffstrom‑spezifische Must‑Run‑Profile (Waste, Nuclear, Bio, Öl, fossile MU). Optional **kostenbasierte** MU‑Profile auf Basis Preis × Wirkungsgradverteilungen (NEI). fileciteturn28file12 fileciteturn28file7  
 5. **Einheitliche Residual‑Load‑Leiter (RL0–RL8)**: konsistent pro Stunde angewandt; optionale Reihenfolgevariante „domestic EE nach Must‑Run“. fileciteturn28file10  
