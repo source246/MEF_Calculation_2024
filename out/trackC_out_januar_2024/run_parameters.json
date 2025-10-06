@@ -1,0 +1,12 @@
+{
+  "fleet": "input/de/fleet/fleet_de_units.csv",
+  "fuel_prices": "input/de/fuels/prices_2024.csv",
+  "flows": "flows/flows_scheduled_DE_LU_2024.csv",
+  "start": "2024-01-01",
+  "end": "2024-02-01",
+  "neighbor_gen_dir": "entsoe_full_2024/gen",
+  "neighbor_load_dir": "entsoe_full_2024/load",
+  "neighbor_prices": "entsoe_full_2024/prices/prices_DE_LU_neighbors.csv",
+  "year": 2024,
+  "outdir": "trackC_out_januar_2024"
+}

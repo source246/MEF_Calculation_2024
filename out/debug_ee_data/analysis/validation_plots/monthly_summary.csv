@@ -1,0 +1,2 @@
+month,mean_price_DE,std_price_DE,min_price_DE,max_price_DE,mean_marginal_srmc_eur_per_mwh,std_marginal_srmc_eur_per_mwh,min_marginal_srmc_eur_per_mwh,max_marginal_srmc_eur_per_mwh,mean_mef_g_per_kwh,std_mef_g_per_kwh,min_mef_g_per_kwh,max_mef_g_per_kwh,mean_abs_error,std_abs_error,median_abs_error,p95_abs_error,mean_net_import_total_MW
+1,0.0,0.01,0.0,0.01,62.52,,62.52,62.52,883.56,10.09,876.43,890.7,62.52,,62.52,,-11176.2

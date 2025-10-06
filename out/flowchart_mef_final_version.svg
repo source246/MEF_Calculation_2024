@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+  <style>
+    .box { fill:#f7f7fb; stroke:#333; stroke-width:1.2px; rx:6; ry:6 }
+    .title { font: 14px sans-serif; fill:#111 }
+    .small { font: 12px sans-serif; fill:#222 }
+    .arrow { stroke:#555; stroke-width:1.4; fill:none; marker-end: url(#arrowhead) }
+  </style>
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#555" />
+    </marker>
+  </defs>
+
+  <!-- Boxes -->
+  <rect class="box" x="100" y="20" width="1000" height="50" />
+  <text x="120" y="52" class="title">Start / CLI args</text>
+
+  <rect class="box" x="100" y="100" width="1000" height="60" />
+  <text x="120" y="140" class="title">Load inputs</text>
+  <text x="120" y="160" class="small">fleet, fuel_prices, flows, neighbor_prices, neighbor_gen/load</text>
+
+  <rect class="box" x="100" y="200" width="420" height="60" />
+  <text x="120" y="235" class="title">Preprocessing</text>
+  <text x="120" y="255" class="small">timestamps, hourly, unit SRMC (DE), neighbor η</text>
+
+  <rect class="box" x="660" y="200" width="420" height="60" />
+  <text x="680" y="235" class="title">Compute auto-profiles</text>
+  <text x="680" y="255" class="small">price_based_lignite, price_based_oil</text>
+
+  <rect class="box" x="100" y="320" width="1000" height="60" />
+  <text x="120" y="357" class="title">Prepare fossil_min profiles per zone</text>
+
+  <rect class="box" x="100" y="420" width="420" height="60" />
+  <text x="120" y="455" class="title">mu_cost_mode == "q_vs_cost" ?</text>
+
+  <rect class="box" x="660" y="420" width="420" height="60" />
+  <text x="680" y="455" class="title">compute_fossil_min_profiles_cost_based</text>
+  <text x="680" y="475" class="small">(alpha, q, monthly, peak-split)</text>
+
+  <rect class="box" x="100" y="520" width="420" height="60" />
+  <text x="120" y="555" class="title">compute_fossil_min_profiles (classical)</text>
+
+  <rect class="box" x="100" y="620" width="1000" height="60" />
+  <text x="120" y="657" class="title">Assemble de_min_total & de_min_by_fuel</text>
+
+  <rect class="box" x="100" y="720" width="1000" height="60" />
+  <text x="120" y="757" class="title">Apply share-based overrides</text>
+  <text x="120" y="777" class="small">(de_mustrun_*_share if set)</text>
+
+  <rect class="box" x="100" y="820" width="1000" height="60" />
+  <text x="120" y="857" class="title">Derive lignite & oil MU profiles</text>
+  <text x="120" y="877" class="small">(mustrun_mode, auto profiles)</text>
+
+  <rect class="box" x="100" y="920" width="1000" height="60" />
+  <text x="120" y="957" class="title">Hourly dispatch / export-stack loop</text>
+  <text x="120" y="977" class="small">exportable_blocks_for_zone → marginal block → MEF</text>
+
+  <rect class="box" x="100" y="1020" width="1000" height="60" />
+  <text x="120" y="1057" class="title">Apply MU minima to dispatch</text>
+  <text x="120" y="1077" class="small">ensure min generation ≥ de_min_total / by_fuel</text>
+
+  <rect class="box" x="100" y="1120" width="1000" height="60" />
+  <text x="120" y="1157" class="title">Postprocess</text>
+  <text x="120" y="1177" class="small">outlier corrections, peaker override, negative pricing</text>
+
+  <rect class="box" x="100" y="1220" width="1000" height="60" />
+  <text x="120" y="1257" class="title">Validation & Plots</text>
+  <text x="120" y="1277" class="small">correlation, _validation.csv, graphs</text>
+
+  <rect class="box" x="100" y="1320" width="1000" height="60" />
+  <text x="120" y="1357" class="title">Write outputs</text>
+  <text x="120" y="1377" class="small">mef_track_c_2024.csv, _debug_hourly.csv, analysis/*</text>
+
+  <!-- Arrows -->
+  <path class="arrow" d="M600 70 L600 100" />
+  <path class="arrow" d="M600 160 L600 200" />
+  <path class="arrow" d="M520 260 L520 320" />
+  <path class="arrow" d="M520 380 L520 420" />
+  <path class="arrow" d="M520 480 L520 520" />
+  <path class="arrow" d="M520 580 L520 620" />
+  <path class="arrow" d="M520 680 L520 720" />
+  <path class="arrow" d="M520 780 L520 820" />
+  <path class="arrow" d="M520 880 L520 920" />
+  <path class="arrow" d="M520 980 L520 1020" />
+  <path class="arrow" d="M520 1080 L520 1120" />
+  <path class="arrow" d="M520 1180 L520 1220" />
+  <path class="arrow" d="M520 1280 L520 1320" />
+
+</svg>

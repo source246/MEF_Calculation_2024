@@ -1,0 +1,217 @@
+[OK] Run parameters written: out\baseline_2024_final_fb\run_parameters.json and out\baseline_2024_final_fb\run_parameters.txt
+[OK] Input metadata written: out\baseline_2024_final_fb\analysis\run_metadata.json
+[INFO] Flow mode aktiv: scheduled
+[INFO] Loading JAO FlowBased data: input\fb\fb_core_DE_2024.csv
+[OK] JAO FB data loaded: 1413 records, 862 boundary hours (61.0%)
+[HYDRO] AT 2024-01: Budget=45000MWh, Cutoff=140.5EUR/MWh, Wasserwert=123.8EUR/MWh (Floor=64.3, Ceil=123.8)
+[HYDRO] AT 2024-02: Budget=45000MWh, Cutoff=109.7EUR/MWh, Wasserwert=93.0EUR/MWh (Floor=55.1, Ceil=93.0)
+[HYDRO] AT 2024-03: Budget=45000MWh, Cutoff=129.0EUR/MWh, Wasserwert=105.1EUR/MWh (Floor=56.8, Ceil=105.1)
+[HYDRO] AT 2024-04: Budget=45000MWh, Cutoff=169.9EUR/MWh, Wasserwert=125.1EUR/MWh (Floor=50.1, Ceil=125.1)
+[HYDRO] AT 2024-05: Budget=45000MWh, Cutoff=154.9EUR/MWh, Wasserwert=127.5EUR/MWh (Floor=56.1, Ceil=127.5)
+[HYDRO] AT 2024-06: Budget=45000MWh, Cutoff=198.8EUR/MWh, Wasserwert=141.7EUR/MWh (Floor=54.9, Ceil=141.7)
+[HYDRO] AT 2024-07: Budget=45000MWh, Cutoff=184.5EUR/MWh, Wasserwert=131.4EUR/MWh (Floor=47.1, Ceil=131.4)
+[HYDRO] AT 2024-08: Budget=45000MWh, Cutoff=227.5EUR/MWh, Wasserwert=149.1EUR/MWh (Floor=70.1, Ceil=149.1)
+[HYDRO] AT 2024-09: Budget=45000MWh, Cutoff=250.0EUR/MWh, Wasserwert=140.7EUR/MWh (Floor=61.6, Ceil=140.7)
+[HYDRO] AT 2024-10: Budget=45000MWh, Cutoff=222.1EUR/MWh, Wasserwert=156.2EUR/MWh (Floor=68.8, Ceil=156.2)
+[HYDRO] AT 2024-11: Budget=45000MWh, Cutoff=341.7EUR/MWh, Wasserwert=178.3EUR/MWh (Floor=95.6, Ceil=178.3)
+[HYDRO] AT 2024-12: Budget=45000MWh, Cutoff=551.0EUR/MWh, Wasserwert=180.0EUR/MWh (Floor=74.3, Ceil=180.0)
+[HYDRO] AT: Energie-Budget System aktiviert (Budget=45000MWh/Monat, Band=Â±5.0EUR/MWh)
+[HYDRO] BE 2024-01: Budget=2500MWh, Cutoff=141.0EUR/MWh, Wasserwert=123.8EUR/MWh (Floor=64.3, Ceil=123.8)
+[HYDRO] BE 2024-02: Budget=2500MWh, Cutoff=110.1EUR/MWh, Wasserwert=93.0EUR/MWh (Floor=55.1, Ceil=93.0)
+[HYDRO] BE 2024-03: Budget=2500MWh, Cutoff=134.9EUR/MWh, Wasserwert=105.1EUR/MWh (Floor=56.8, Ceil=105.1)
+[HYDRO] BE 2024-04: Budget=2500MWh, Cutoff=171.0EUR/MWh, Wasserwert=125.1EUR/MWh (Floor=50.1, Ceil=125.1)
+[HYDRO] BE 2024-05: Budget=2500MWh, Cutoff=156.3EUR/MWh, Wasserwert=127.5EUR/MWh (Floor=56.1, Ceil=127.5)
+[HYDRO] BE 2024-06: Budget=2500MWh, Cutoff=200.0EUR/MWh, Wasserwert=141.7EUR/MWh (Floor=54.9, Ceil=141.7)
+[HYDRO] BE 2024-07: Budget=2500MWh, Cutoff=187.9EUR/MWh, Wasserwert=131.4EUR/MWh (Floor=47.1, Ceil=131.4)
+[HYDRO] BE 2024-08: Budget=2500MWh, Cutoff=230.8EUR/MWh, Wasserwert=149.1EUR/MWh (Floor=70.1, Ceil=149.1)
+[HYDRO] BE 2024-09: Budget=2500MWh, Cutoff=300.0EUR/MWh, Wasserwert=140.7EUR/MWh (Floor=61.6, Ceil=140.7)
+[HYDRO] BE 2024-10: Budget=2500MWh, Cutoff=229.5EUR/MWh, Wasserwert=156.2EUR/MWh (Floor=68.8, Ceil=156.2)
+[HYDRO] BE 2024-11: Budget=2500MWh, Cutoff=450.0EUR/MWh, Wasserwert=178.3EUR/MWh (Floor=95.6, Ceil=178.3)
+[HYDRO] BE 2024-12: Budget=2500MWh, Cutoff=646.8EUR/MWh, Wasserwert=180.0EUR/MWh (Floor=74.3, Ceil=180.0)
+[HYDRO] BE: Energie-Budget System aktiviert (Budget=2500MWh/Monat, Band=Â±3.0EUR/MWh)
+[HYDRO] CH 2024-01: Budget=85000MWh, Cutoff=141.0EUR/MWh, Wasserwert=123.8EUR/MWh (Floor=64.3, Ceil=123.8)
+[HYDRO] CH 2024-02: Budget=85000MWh, Cutoff=110.1EUR/MWh, Wasserwert=93.0EUR/MWh (Floor=55.1, Ceil=93.0)
+[HYDRO] CH 2024-03: Budget=85000MWh, Cutoff=134.9EUR/MWh, Wasserwert=105.1EUR/MWh (Floor=56.8, Ceil=105.1)
+[HYDRO] CH 2024-04: Budget=85000MWh, Cutoff=171.0EUR/MWh, Wasserwert=125.1EUR/MWh (Floor=50.1, Ceil=125.1)
+[HYDRO] CH 2024-05: Budget=85000MWh, Cutoff=156.3EUR/MWh, Wasserwert=127.5EUR/MWh (Floor=56.1, Ceil=127.5)
+[HYDRO] CH 2024-06: Budget=85000MWh, Cutoff=200.0EUR/MWh, Wasserwert=141.7EUR/MWh (Floor=54.9, Ceil=141.7)
+[HYDRO] CH 2024-07: Budget=85000MWh, Cutoff=187.9EUR/MWh, Wasserwert=131.4EUR/MWh (Floor=47.1, Ceil=131.4)
+[HYDRO] CH 2024-08: Budget=85000MWh, Cutoff=230.8EUR/MWh, Wasserwert=149.1EUR/MWh (Floor=70.1, Ceil=149.1)
+[HYDRO] CH 2024-09: Budget=85000MWh, Cutoff=300.0EUR/MWh, Wasserwert=140.7EUR/MWh (Floor=61.6, Ceil=140.7)
+[HYDRO] CH 2024-10: Budget=85000MWh, Cutoff=229.5EUR/MWh, Wasserwert=156.2EUR/MWh (Floor=68.8, Ceil=156.2)
+[HYDRO] CH 2024-11: Budget=85000MWh, Cutoff=450.0EUR/MWh, Wasserwert=178.3EUR/MWh (Floor=95.6, Ceil=178.3)
+[HYDRO] CH 2024-12: Budget=85000MWh, Cutoff=646.8EUR/MWh, Wasserwert=180.0EUR/MWh (Floor=74.3, Ceil=180.0)
+[HYDRO] CH: Energie-Budget System aktiviert (Budget=85000MWh/Monat, Band=Â±6.0EUR/MWh)
+[HYDRO] CZ 2024-01: Budget=4800MWh, Cutoff=141.0EUR/MWh, Wasserwert=123.8EUR/MWh (Floor=64.3, Ceil=123.8)
+[HYDRO] CZ 2024-02: Budget=4800MWh, Cutoff=110.1EUR/MWh, Wasserwert=93.0EUR/MWh (Floor=55.1, Ceil=93.0)
+[HYDRO] CZ 2024-03: Budget=4800MWh, Cutoff=134.9EUR/MWh, Wasserwert=105.1EUR/MWh (Floor=56.8, Ceil=105.1)
+[HYDRO] CZ 2024-04: Budget=4800MWh, Cutoff=171.0EUR/MWh, Wasserwert=125.1EUR/MWh (Floor=50.1, Ceil=125.1)
+[HYDRO] CZ 2024-05: Budget=4800MWh, Cutoff=156.3EUR/MWh, Wasserwert=127.5EUR/MWh (Floor=56.1, Ceil=127.5)
+[HYDRO] CZ 2024-06: Budget=4800MWh, Cutoff=200.0EUR/MWh, Wasserwert=141.7EUR/MWh (Floor=54.9, Ceil=141.7)
+[HYDRO] CZ 2024-07: Budget=4800MWh, Cutoff=187.9EUR/MWh, Wasserwert=131.4EUR/MWh (Floor=47.1, Ceil=131.4)
+[HYDRO] CZ 2024-08: Budget=4800MWh, Cutoff=230.8EUR/MWh, Wasserwert=149.1EUR/MWh (Floor=70.1, Ceil=149.1)
+[HYDRO] CZ 2024-09: Budget=4800MWh, Cutoff=300.0EUR/MWh, Wasserwert=140.7EUR/MWh (Floor=61.6, Ceil=140.7)
+[HYDRO] CZ 2024-10: Budget=4800MWh, Cutoff=229.5EUR/MWh, Wasserwert=156.2EUR/MWh (Floor=68.8, Ceil=156.2)
+[HYDRO] CZ 2024-11: Budget=4800MWh, Cutoff=450.0EUR/MWh, Wasserwert=178.3EUR/MWh (Floor=95.6, Ceil=178.3)
+[HYDRO] CZ 2024-12: Budget=4800MWh, Cutoff=646.8EUR/MWh, Wasserwert=180.0EUR/MWh (Floor=74.3, Ceil=180.0)
+[HYDRO] CZ: Energie-Budget System aktiviert (Budget=4800MWh/Monat, Band=Â±3.5EUR/MWh)
+[HYDRO] DE_LU 2024-01: Budget=6500MWh, Cutoff=141.0EUR/MWh, Wasserwert=123.8EUR/MWh (Floor=64.3, Ceil=123.8)
+[HYDRO] DE_LU 2024-02: Budget=6500MWh, Cutoff=110.1EUR/MWh, Wasserwert=93.0EUR/MWh (Floor=55.1, Ceil=93.0)
+[HYDRO] DE_LU 2024-03: Budget=6500MWh, Cutoff=134.9EUR/MWh, Wasserwert=105.1EUR/MWh (Floor=56.8, Ceil=105.1)
+[HYDRO] DE_LU 2024-04: Budget=6500MWh, Cutoff=171.0EUR/MWh, Wasserwert=125.1EUR/MWh (Floor=50.1, Ceil=125.1)
+[HYDRO] DE_LU 2024-05: Budget=6500MWh, Cutoff=156.3EUR/MWh, Wasserwert=127.5EUR/MWh (Floor=56.1, Ceil=127.5)
+[HYDRO] DE_LU 2024-06: Budget=6500MWh, Cutoff=200.0EUR/MWh, Wasserwert=141.7EUR/MWh (Floor=54.9, Ceil=141.7)
+[HYDRO] DE_LU 2024-07: Budget=6500MWh, Cutoff=187.9EUR/MWh, Wasserwert=131.4EUR/MWh (Floor=47.1, Ceil=131.4)
+[HYDRO] DE_LU 2024-08: Budget=6500MWh, Cutoff=230.8EUR/MWh, Wasserwert=149.1EUR/MWh (Floor=70.1, Ceil=149.1)
+[HYDRO] DE_LU 2024-09: Budget=6500MWh, Cutoff=300.0EUR/MWh, Wasserwert=140.7EUR/MWh (Floor=61.6, Ceil=140.7)
+[HYDRO] DE_LU 2024-10: Budget=6500MWh, Cutoff=229.5EUR/MWh, Wasserwert=156.2EUR/MWh (Floor=68.8, Ceil=156.2)
+[HYDRO] DE_LU 2024-11: Budget=6500MWh, Cutoff=450.0EUR/MWh, Wasserwert=178.3EUR/MWh (Floor=95.6, Ceil=178.3)
+[HYDRO] DE_LU 2024-12: Budget=6500MWh, Cutoff=646.8EUR/MWh, Wasserwert=180.0EUR/MWh (Floor=74.3, Ceil=180.0)
+[HYDRO] DE_LU: Energie-Budget System aktiviert (Budget=6500MWh/Monat, Band=Â±3.0EUR/MWh)
+[HYDRO] DK1 2024-01: Budget=500MWh, Cutoff=141.3EUR/MWh, Wasserwert=123.8EUR/MWh (Floor=64.3, Ceil=123.8)
+[HYDRO] DK1 2024-02: Budget=500MWh, Cutoff=111.8EUR/MWh, Wasserwert=93.0EUR/MWh (Floor=55.1, Ceil=93.0)
+[HYDRO] DK1 2024-03: Budget=500MWh, Cutoff=145.7EUR/MWh, Wasserwert=105.1EUR/MWh (Floor=56.8, Ceil=105.1)
+[HYDRO] DK1 2024-04: Budget=500MWh, Cutoff=180.0EUR/MWh, Wasserwert=125.1EUR/MWh (Floor=50.1, Ceil=125.1)
+[HYDRO] DK1 2024-05: Budget=500MWh, Cutoff=169.9EUR/MWh, Wasserwert=127.5EUR/MWh (Floor=56.1, Ceil=127.5)
+[HYDRO] DK1 2024-06: Budget=500MWh, Cutoff=200.1EUR/MWh, Wasserwert=141.7EUR/MWh (Floor=54.9, Ceil=141.7)
+[HYDRO] DK1 2024-07: Budget=500MWh, Cutoff=190.5EUR/MWh, Wasserwert=131.4EUR/MWh (Floor=47.1, Ceil=131.4)
+[HYDRO] DK1 2024-08: Budget=500MWh, Cutoff=231.1EUR/MWh, Wasserwert=149.1EUR/MWh (Floor=70.1, Ceil=149.1)
+[HYDRO] DK1 2024-09: Budget=500MWh, Cutoff=300.0EUR/MWh, Wasserwert=140.7EUR/MWh (Floor=61.6, Ceil=140.7)
+[HYDRO] DK1 2024-10: Budget=500MWh, Cutoff=237.7EUR/MWh, Wasserwert=156.2EUR/MWh (Floor=68.8, Ceil=156.2)
+[HYDRO] DK1 2024-11: Budget=500MWh, Cutoff=468.7EUR/MWh, Wasserwert=178.3EUR/MWh (Floor=95.6, Ceil=178.3)
+[HYDRO] DK1 2024-12: Budget=500MWh, Cutoff=655.6EUR/MWh, Wasserwert=180.0EUR/MWh (Floor=74.3, Ceil=180.0)
+[HYDRO] DK1: Energie-Budget System aktiviert (Budget=500MWh/Monat, Band=Â±2.0EUR/MWh)
+[HYDRO] DK2 2024-01: Budget=500MWh, Cutoff=141.3EUR/MWh, Wasserwert=123.8EUR/MWh (Floor=64.3, Ceil=123.8)
+[HYDRO] DK2 2024-02: Budget=500MWh, Cutoff=111.8EUR/MWh, Wasserwert=93.0EUR/MWh (Floor=55.1, Ceil=93.0)
+[HYDRO] DK2 2024-03: Budget=500MWh, Cutoff=145.7EUR/MWh, Wasserwert=105.1EUR/MWh (Floor=56.8, Ceil=105.1)
+[HYDRO] DK2 2024-04: Budget=500MWh, Cutoff=180.0EUR/MWh, Wasserwert=125.1EUR/MWh (Floor=50.1, Ceil=125.1)
+[HYDRO] DK2 2024-05: Budget=500MWh, Cutoff=169.9EUR/MWh, Wasserwert=127.5EUR/MWh (Floor=56.1, Ceil=127.5)
+[HYDRO] DK2 2024-06: Budget=500MWh, Cutoff=200.1EUR/MWh, Wasserwert=141.7EUR/MWh (Floor=54.9, Ceil=141.7)
+[HYDRO] DK2 2024-07: Budget=500MWh, Cutoff=190.5EUR/MWh, Wasserwert=131.4EUR/MWh (Floor=47.1, Ceil=131.4)
+[HYDRO] DK2 2024-08: Budget=500MWh, Cutoff=231.1EUR/MWh, Wasserwert=149.1EUR/MWh (Floor=70.1, Ceil=149.1)
+[HYDRO] DK2 2024-09: Budget=500MWh, Cutoff=300.0EUR/MWh, Wasserwert=140.7EUR/MWh (Floor=61.6, Ceil=140.7)
+[HYDRO] DK2 2024-10: Budget=500MWh, Cutoff=237.7EUR/MWh, Wasserwert=156.2EUR/MWh (Floor=68.8, Ceil=156.2)
+[HYDRO] DK2 2024-11: Budget=500MWh, Cutoff=468.7EUR/MWh, Wasserwert=178.3EUR/MWh (Floor=95.6, Ceil=178.3)
+[HYDRO] DK2 2024-12: Budget=500MWh, Cutoff=655.6EUR/MWh, Wasserwert=180.0EUR/MWh (Floor=74.3, Ceil=180.0)
+[HYDRO] DK2: Energie-Budget System aktiviert (Budget=500MWh/Monat, Band=Â±2.0EUR/MWh)
+[HYDRO] FR 2024-01: Budget=28000MWh, Cutoff=141.0EUR/MWh, Wasserwert=123.8EUR/MWh (Floor=64.3, Ceil=123.8)
+[HYDRO] FR 2024-02: Budget=28000MWh, Cutoff=110.1EUR/MWh, Wasserwert=93.0EUR/MWh (Floor=55.1, Ceil=93.0)
+[HYDRO] FR 2024-03: Budget=28000MWh, Cutoff=134.9EUR/MWh, Wasserwert=105.1EUR/MWh (Floor=56.8, Ceil=105.1)
+[HYDRO] FR 2024-04: Budget=28000MWh, Cutoff=171.0EUR/MWh, Wasserwert=125.1EUR/MWh (Floor=50.1, Ceil=125.1)
+[HYDRO] FR 2024-05: Budget=28000MWh, Cutoff=156.3EUR/MWh, Wasserwert=127.5EUR/MWh (Floor=56.1, Ceil=127.5)
+[HYDRO] FR 2024-06: Budget=28000MWh, Cutoff=200.0EUR/MWh, Wasserwert=141.7EUR/MWh (Floor=54.9, Ceil=141.7)
+[HYDRO] FR 2024-07: Budget=28000MWh, Cutoff=187.9EUR/MWh, Wasserwert=131.4EUR/MWh (Floor=47.1, Ceil=131.4)
+[HYDRO] FR 2024-08: Budget=28000MWh, Cutoff=230.8EUR/MWh, Wasserwert=149.1EUR/MWh (Floor=70.1, Ceil=149.1)
+[HYDRO] FR 2024-09: Budget=28000MWh, Cutoff=300.0EUR/MWh, Wasserwert=140.7EUR/MWh (Floor=61.6, Ceil=140.7)
+[HYDRO] FR 2024-10: Budget=28000MWh, Cutoff=229.5EUR/MWh, Wasserwert=156.2EUR/MWh (Floor=68.8, Ceil=156.2)
+[HYDRO] FR 2024-11: Budget=28000MWh, Cutoff=450.0EUR/MWh, Wasserwert=178.3EUR/MWh (Floor=95.6, Ceil=178.3)
+[HYDRO] FR 2024-12: Budget=28000MWh, Cutoff=646.8EUR/MWh, Wasserwert=180.0EUR/MWh (Floor=74.3, Ceil=180.0)
+[HYDRO] FR: Energie-Budget System aktiviert (Budget=28000MWh/Monat, Band=Â±4.0EUR/MWh)
+[HYDRO] NL 2024-01: Budget=1200MWh, Cutoff=141.0EUR/MWh, Wasserwert=123.8EUR/MWh (Floor=64.3, Ceil=123.8)
+[HYDRO] NL 2024-02: Budget=1200MWh, Cutoff=110.1EUR/MWh, Wasserwert=93.0EUR/MWh (Floor=55.1, Ceil=93.0)
+[HYDRO] NL 2024-03: Budget=1200MWh, Cutoff=134.9EUR/MWh, Wasserwert=105.1EUR/MWh (Floor=56.8, Ceil=105.1)
+[HYDRO] NL 2024-04: Budget=1200MWh, Cutoff=171.0EUR/MWh, Wasserwert=125.1EUR/MWh (Floor=50.1, Ceil=125.1)
+[HYDRO] NL 2024-05: Budget=1200MWh, Cutoff=156.3EUR/MWh, Wasserwert=127.5EUR/MWh (Floor=56.1, Ceil=127.5)
+[HYDRO] NL 2024-06: Budget=1200MWh, Cutoff=200.0EUR/MWh, Wasserwert=141.7EUR/MWh (Floor=54.9, Ceil=141.7)
+[HYDRO] NL 2024-07: Budget=1200MWh, Cutoff=187.9EUR/MWh, Wasserwert=131.4EUR/MWh (Floor=47.1, Ceil=131.4)
+[HYDRO] NL 2024-08: Budget=1200MWh, Cutoff=230.8EUR/MWh, Wasserwert=149.1EUR/MWh (Floor=70.1, Ceil=149.1)
+[HYDRO] NL 2024-09: Budget=1200MWh, Cutoff=300.0EUR/MWh, Wasserwert=140.7EUR/MWh (Floor=61.6, Ceil=140.7)
+[HYDRO] NL 2024-10: Budget=1200MWh, Cutoff=229.5EUR/MWh, Wasserwert=156.2EUR/MWh (Floor=68.8, Ceil=156.2)
+[HYDRO] NL 2024-11: Budget=1200MWh, Cutoff=450.0EUR/MWh, Wasserwert=178.3EUR/MWh (Floor=95.6, Ceil=178.3)
+[HYDRO] NL 2024-12: Budget=1200MWh, Cutoff=646.8EUR/MWh, Wasserwert=180.0EUR/MWh (Floor=74.3, Ceil=180.0)
+[HYDRO] NL: Energie-Budget System aktiviert (Budget=1200MWh/Monat, Band=Â±2.5EUR/MWh)
+[HYDRO] NO2 2024-01: Budget=120000MWh, Cutoff=141.0EUR/MWh, Wasserwert=123.8EUR/MWh (Floor=64.3, Ceil=123.8)
+[HYDRO] NO2 2024-02: Budget=120000MWh, Cutoff=110.1EUR/MWh, Wasserwert=93.0EUR/MWh (Floor=55.1, Ceil=93.0)
+[HYDRO] NO2 2024-03: Budget=120000MWh, Cutoff=134.9EUR/MWh, Wasserwert=105.1EUR/MWh (Floor=56.8, Ceil=105.1)
+[HYDRO] NO2 2024-04: Budget=120000MWh, Cutoff=171.0EUR/MWh, Wasserwert=125.1EUR/MWh (Floor=50.1, Ceil=125.1)
+[HYDRO] NO2 2024-05: Budget=120000MWh, Cutoff=156.3EUR/MWh, Wasserwert=127.5EUR/MWh (Floor=56.1, Ceil=127.5)
+[HYDRO] NO2 2024-06: Budget=120000MWh, Cutoff=200.0EUR/MWh, Wasserwert=141.7EUR/MWh (Floor=54.9, Ceil=141.7)
+[HYDRO] NO2 2024-07: Budget=120000MWh, Cutoff=187.9EUR/MWh, Wasserwert=131.4EUR/MWh (Floor=47.1, Ceil=131.4)
+[HYDRO] NO2 2024-08: Budget=120000MWh, Cutoff=230.8EUR/MWh, Wasserwert=149.1EUR/MWh (Floor=70.1, Ceil=149.1)
+[HYDRO] NO2 2024-09: Budget=120000MWh, Cutoff=300.0EUR/MWh, Wasserwert=140.7EUR/MWh (Floor=61.6, Ceil=140.7)
+[HYDRO] NO2 2024-10: Budget=120000MWh, Cutoff=229.5EUR/MWh, Wasserwert=156.2EUR/MWh (Floor=68.8, Ceil=156.2)
+[HYDRO] NO2 2024-11: Budget=120000MWh, Cutoff=450.0EUR/MWh, Wasserwert=178.3EUR/MWh (Floor=95.6, Ceil=178.3)
+[HYDRO] NO2 2024-12: Budget=120000MWh, Cutoff=646.8EUR/MWh, Wasserwert=180.0EUR/MWh (Floor=74.3, Ceil=180.0)
+[HYDRO] NO2: Energie-Budget System aktiviert (Budget=120000MWh/Monat, Band=Â±7.0EUR/MWh)
+[HYDRO] PL 2024-01: Budget=8500MWh, Cutoff=141.0EUR/MWh, Wasserwert=123.8EUR/MWh (Floor=64.3, Ceil=123.8)
+[HYDRO] PL 2024-02: Budget=8500MWh, Cutoff=110.1EUR/MWh, Wasserwert=93.0EUR/MWh (Floor=55.1, Ceil=93.0)
+[HYDRO] PL 2024-03: Budget=8500MWh, Cutoff=134.9EUR/MWh, Wasserwert=105.1EUR/MWh (Floor=56.8, Ceil=105.1)
+[HYDRO] PL 2024-04: Budget=8500MWh, Cutoff=171.0EUR/MWh, Wasserwert=125.1EUR/MWh (Floor=50.1, Ceil=125.1)
+[HYDRO] PL 2024-05: Budget=8500MWh, Cutoff=156.3EUR/MWh, Wasserwert=127.5EUR/MWh (Floor=56.1, Ceil=127.5)
+[HYDRO] PL 2024-06: Budget=8500MWh, Cutoff=200.0EUR/MWh, Wasserwert=141.7EUR/MWh (Floor=54.9, Ceil=141.7)
+[HYDRO] PL 2024-07: Budget=8500MWh, Cutoff=187.9EUR/MWh, Wasserwert=131.4EUR/MWh (Floor=47.1, Ceil=131.4)
+[HYDRO] PL 2024-08: Budget=8500MWh, Cutoff=230.8EUR/MWh, Wasserwert=149.1EUR/MWh (Floor=70.1, Ceil=149.1)
+[HYDRO] PL 2024-09: Budget=8500MWh, Cutoff=300.0EUR/MWh, Wasserwert=140.7EUR/MWh (Floor=61.6, Ceil=140.7)
+[HYDRO] PL 2024-10: Budget=8500MWh, Cutoff=229.5EUR/MWh, Wasserwert=156.2EUR/MWh (Floor=68.8, Ceil=156.2)
+[HYDRO] PL 2024-11: Budget=8500MWh, Cutoff=450.0EUR/MWh, Wasserwert=178.3EUR/MWh (Floor=95.6, Ceil=178.3)
+[HYDRO] PL 2024-12: Budget=8500MWh, Cutoff=646.8EUR/MWh, Wasserwert=180.0EUR/MWh (Floor=74.3, Ceil=180.0)
+[HYDRO] PL: Energie-Budget System aktiviert (Budget=8500MWh/Monat, Band=Â±4.0EUR/MWh)
+[HYDRO] SE4 2024-01: Budget=95000MWh, Cutoff=141.0EUR/MWh, Wasserwert=123.8EUR/MWh (Floor=64.3, Ceil=123.8)
+[HYDRO] SE4 2024-02: Budget=95000MWh, Cutoff=110.1EUR/MWh, Wasserwert=93.0EUR/MWh (Floor=55.1, Ceil=93.0)
+[HYDRO] SE4 2024-03: Budget=95000MWh, Cutoff=134.9EUR/MWh, Wasserwert=105.1EUR/MWh (Floor=56.8, Ceil=105.1)
+[HYDRO] SE4 2024-04: Budget=95000MWh, Cutoff=171.0EUR/MWh, Wasserwert=125.1EUR/MWh (Floor=50.1, Ceil=125.1)
+[HYDRO] SE4 2024-05: Budget=95000MWh, Cutoff=156.3EUR/MWh, Wasserwert=127.5EUR/MWh (Floor=56.1, Ceil=127.5)
+[HYDRO] SE4 2024-06: Budget=95000MWh, Cutoff=200.0EUR/MWh, Wasserwert=141.7EUR/MWh (Floor=54.9, Ceil=141.7)
+[HYDRO] SE4 2024-07: Budget=95000MWh, Cutoff=187.9EUR/MWh, Wasserwert=131.4EUR/MWh (Floor=47.1, Ceil=131.4)
+[HYDRO] SE4 2024-08: Budget=95000MWh, Cutoff=230.8EUR/MWh, Wasserwert=149.1EUR/MWh (Floor=70.1, Ceil=149.1)
+[HYDRO] SE4 2024-09: Budget=95000MWh, Cutoff=300.0EUR/MWh, Wasserwert=140.7EUR/MWh (Floor=61.6, Ceil=140.7)
+[HYDRO] SE4 2024-10: Budget=95000MWh, Cutoff=229.5EUR/MWh, Wasserwert=156.2EUR/MWh (Floor=68.8, Ceil=156.2)
+[HYDRO] SE4 2024-11: Budget=95000MWh, Cutoff=450.0EUR/MWh, Wasserwert=178.3EUR/MWh (Floor=95.6, Ceil=178.3)
+[HYDRO] SE4 2024-12: Budget=95000MWh, Cutoff=646.8EUR/MWh, Wasserwert=180.0EUR/MWh (Floor=74.3, Ceil=180.0)
+[HYDRO] SE4: Energie-Budget System aktiviert (Budget=95000MWh/Monat, Band=Â±6.0EUR/MWh)
+[DEBUG] Zeitreihen-LÃ¤ngen vor Index-Intersection:
+  DE_load: 8784 Stunden, 2024-01-01 00:00:00+01:00 bis 2024-12-31 23:00:00+01:00
+  fuel_prices: 8784 Stunden, 2024-01-01 01:00:00+01:00 bis 2025-01-01 00:00:00+01:00
+  flows: 8784 Stunden, 2024-01-01 00:00:00+01:00 bis 2024-12-31 23:00:00+01:00
+  nei_prices: 8784 Stunden, 2023-12-31 23:00:00+01:00 bis 2024-12-31 22:00:00+01:00
+[INFO] Voll-Index 2024: 8784 Stunden (00:00-23:00)
+[WARN] fuel_prices_reindexed: 6 fehlende Werte, interpoliere (max 3h LÃ¼cken)
+[WARN] nei_prices_reindexed: 60 fehlende Werte, interpoliere (max 3h LÃ¼cken)
+[INFO] Stunden im Lauf: 8784 | Fenster: 2024-01-01 00:00:00+01:00 .. 2025-01-01 00:00:00+01:00 (exkl.)
+[INFO] SRMC matrix created for time window: (8784, 8220)
+[INFO] interpolated short NA runs for columns: {'price_DE': 0, 'mef_g_per_kwh': 0, 'marginal_srmc_eur_per_mwh': 0}
+[OK] geschrieben: out\baseline_2024_final_fb\mef_track_c_2024.csv
+[OK] Debug:       out\baseline_2024_final_fb\_debug_hourly.csv
+[VALIDATION] geschrieben: out\baseline_2024_final_fb\analysis\_validation.csv und out\baseline_2024_final_fb\analysis\_validation_summary.csv
+[OK] Residuallast-Plots in out\baseline_2024_final_fb\analysis\plots_residuallast geschrieben.
+[OK] Marginal-Share-Plots in out\baseline_2024_final_fb\analysis\plots_marginal_shares geschrieben.
+[DEBUG] BEFORE make_validation_plots...
+[VALIDATION] Erstelle Validierungsdiagramme in out\baseline_2024_final_fb\analysis\validation_plots...
+[OK] Rohdaten exportiert: validation_raw_data.csv, monthly_summary.csv, fuel_summary.csv
+[OK] Validierungsdiagramme in out\baseline_2024_final_fb\analysis\validation_plots erstellt.
+[DEBUG] AFTER make_validation_plots - continuing to Enhanced Features...
+[DEBUG] Enhanced Features Section erreicht!
+[INFO] Enhanced Plots mit Stacked Diagrammen werden generiert...
+[DEBUG] Starting create_load_coverage_chart...
+[WARNING] Keine Generation-Daten verfÃ¼gbar fÃ¼r Load Coverage Chart
+[OK] Load Coverage Chart erstellt
+[DEBUG] Starting generate_enhanced_plots...
+[WARNING] Marginal fuel stacked failed: 'timestamp'
+[WARNING] Import-Export analysis failed: 'timestamp'
+[INFO] Enhanced Plots: 2/5 erfolgreich erstellt
+[WARNING] Enhanced Plots teilweise fehlgeschlagen
+[DEBUG] Offender Analysis Section erreicht!
+[DEBUG] Starting _filtered_corr_and_offenders...
+[VALIDATION] Filtered corr (Preis vs. SRMC) = 0.1978
+[VALIDATION] Details: analysis/_corr_offenders.csv und analysis/_corr_offenders_summary.txt
+[DEBUG] Enhanced Validation Section erreicht!
+[DEBUG] Starting run_full_enhanced_validation...
+[HASH] run_parameters.json: d90b0315
+=== ENHANCED MULTI-STAGE VALIDATION ===
+[STAGE 1] Daten & Zeitachsen...
+[STAGE 1] âœ… PASS
+[STAGE 2] Preis-SRMC Korrelation...
+[STAGE 2] âŒ FAIL
+  Raw r: 0.1949
+  Filtered r: 0.1978
+  Parameters: threshold/3.0/0.01
+[STAGE 3] 2030-Transformation...
+[STAGE 3] âœ… PASS (Placeholder)
+[STAGE 4] DR-Optimierungsmodell...
+[STAGE 4] âœ… PASS (Placeholder)
+
+[OVERALL] ðŸš« NICHT BASELINE-TAUGLICH
+[REPORT] Detailreport: out\baseline_2024_final_fb\analysis\_enhanced_validation_report.json
+[ENHANCED] ðŸš« NICHT BASELINE-TAUGLICH
+[INFO] MEF dispatch analysis completed successfully.
+[INFO] Results saved to: out\baseline_2024_final_fb

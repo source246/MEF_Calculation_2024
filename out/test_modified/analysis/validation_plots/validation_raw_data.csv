@@ -1,0 +1,3 @@
+timestamp,price_DE,marginal_srmc_eur_per_mwh,mef_g_per_kwh,marginal_side,marginal_fuel,marginal_label,abs_error,net_import_total_MW,cluster_zones,month,hour
+2024-01-01 00:00:00+01:00,0.01,,1907.3705025282995,DE,Braunkohle,SEE986331287955,,-11641.099999999999,AT|BE|CZ|FR|NL,1,0
+2024-01-01 01:00:00+01:00,0.0,100.77558135986328,467.4418526897566,DE,Erdgas,SEE920494524915,100.77558135986328,-10711.3,AT|BE|CZ|FR|NL,1,1

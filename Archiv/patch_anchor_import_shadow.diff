@@ -1,0 +1,157 @@
+*** a/mef_dispatch_v5.6.py
+--- b/mef_dispatch_v5.6.py
+***************
+*** 71,76 ****
+--- 71,137 ----
++ # =========================
++ # Anchor-Filter & Utilities
++ # =========================
++ from dataclasses import dataclass
++ 
++ FOSSIL_FUELS = {"Hard coal","Lignite","Gas CCGT","Gas OCGT","Gas conventional",
++                 "Light oil","Heavy oil","Oil","Coal","Gas"}
++ NON_ANCHOR_FUELS = {"EE","Wind","Solar","Nuclear","Waste",
++                     "Hydro Water Reservoir","Hydro Pumped Storage",
++                     "Run-of-River","RoR","Reservoir","PSP"}
++ 
++ def _is_mustrun_block(b):
++     # Heuristik: Feld oder Flag im Blockobjekt; fallback auf sehr niedrige Gebote
++     return getattr(b, "is_mustrun", False) or (getattr(b, "bid", 0.0) <= 1.5)
++ 
++ def make_anchor_stack(blocks):
++     """
++     Aus einem generischen Stack nur die für die *Seitenwahl* relevanten,
++     potenziell preissetzenden Blöcke extrahieren:
++         - fossil
++         - nicht-Must-run
++     EE/Waste/Nuclear/Reservoir/PSP bleiben draußen (dürfen später marginal werden).
++     """
++     out = []
++     for b in blocks:
++         fuel = getattr(b, "fuel", getattr(b, "fuel_group", ""))
++         if fuel in NON_ANCHOR_FUELS:
++             continue
++         if fuel not in FOSSIL_FUELS:
++             continue
++         if _is_mustrun_block(b):
++             continue
++         out.append(b)
++     return out
++ 
++ def marginal_srmc_for_anchor(blocks, required_mw):
++     """
++     Minimaler Helfer: finde die SRMC der marginalen Einheit im Anchor-Stack
++     (vereinfachte Summationslogik; greift auf vorhandene Blockstruktur zu).
++     Gibt np.nan zurück, wenn der Anchor-Stack leer ist.
++     """
++     import math
++     if not blocks or required_mw <= 1e-9:
++         return math.nan
++     # Annahme: blocks sind aufsteigend nach SRMC sortiert; ansonsten sortieren
++     bs = sorted(blocks, key=lambda b: getattr(b, "srmc", 9e9))
++     rem = required_mw
++     marg = bs[-1]
++     for b in bs:
++         cap = float(getattr(b, "avail_mw", getattr(b, "mw", 0.0)))
++         if rem <= cap + 1e-9:
++             marg = b
++             break
++         rem -= cap
++     return float(getattr(marg, "srmc", getattr(marg, "price", float("nan"))))
++ 
+***************
+*** 318,351 ****
+  # Import-Relevanz (alt):
+- import_relevant = (pos_imp_total > 1e-6) if getattr(args,"coupled_import_anyflow",True) else (net_imp > 0.0)
++ # Import-Relevanz (neu, strenger):
++ # Import-Branch nur, wenn (i) Preis­kopplung mit mind. einer gekoppelten Zone,
++ # (ii) Nettoimport_DE > Tol, (iii) Anchor-Stack (Import) ist wirklich günstiger.
++ tol_mw = float(getattr(args, "imp_tol_mw", 5.0))
++ epsilon_price = float(getattr(args, "epsilon", 0.50))
++ anchor_margin = float(getattr(args, "anchor_margin", 0.0))  # optionaler Puffer
++ 
++ coupled_equal = False
++ if "nei_prices" in locals():
++     for z in coupled_neighbors:
++         col = f"price_{z}"
++         if col in nei_prices.columns:
++             if abs(nei_prices.loc[t, col] - p_de) <= epsilon_price:
++                 coupled_equal = True
++                 break
++ 
++ # Anchor-Stacks für Seitenwahl vorbereiten
++ # domestic_flex_blocks und exportable_blocks_for_zone(z) existieren in deiner Logik
++ anchor_dom = make_anchor_stack(domestic_flex_blocks)
++ imp_anchor_srmc = float("inf")
++ if coupled_equal and net_imp > tol_mw:
++     # kombiniere exportierbare Blöcke aller tatsächlich gekoppelten Zonen
++     imp_anchor_blocks = []
++     for z in coupled_neighbors:
++         z_blocks = exportable_blocks_for_zone(z)
++         imp_anchor_blocks.extend(make_anchor_stack(z_blocks))
++     RL_anchor = max(0.0, RL_after_psp)  # oder deine präferierte RL-Stufe
++     srmc_dom_anchor = marginal_srmc_for_anchor(anchor_dom, RL_anchor)
++     imp_anchor_srmc = marginal_srmc_for_anchor(imp_anchor_blocks, RL_anchor)
++     import_relevant = (coupled_equal and (net_imp > tol_mw)
++                        and (imp_anchor_srmc + 1e-9 < srmc_dom_anchor - anchor_margin))
++ else:
++     import_relevant = False
+***************
+*** 487,520 ****
+- # Finale Marginal-Bestimmung (alt):
+- marginal_block = pick_marginal(full_stack, RL_final)
+- mef_gpkwh = marginal_block.emission_factor if marginal_block.fuel not in ( "Hydro Pumped Storage","Hydro Water Reservoir","EE","Nuclear") else 0.0
++ # Finale Marginal-Bestimmung (neu):
++ marginal_block = pick_marginal(full_stack, RL_final)
++ 
++ def _fuel_name(x):
++     return getattr(x, "fuel", getattr(x, "fuel_group", ""))
++ 
++ fuel_m = _fuel_name(marginal_block)
++ is_mu = _is_mustrun_block(marginal_block)
++ is_non_emitting_anchor = (fuel_m in NON_ANCHOR_FUELS) or is_mu
++ 
++ if is_non_emitting_anchor:
++     # Shadow-MEF: nächster thermischer Block derselben Seite
++     # Erzeuge eine Kopie der Kandidaten, entferne alle NON_ANCHOR_FUELS + Must-run
++     shadow_pool = [b for b in full_stack if (_fuel_name(b) in FOSSIL_FUELS) and (not _is_mustrun_block(b))]
++     if shadow_pool:
++         shadow_block = pick_marginal(shadow_pool, RL_final)
++         mef_gpkwh = float(getattr(shadow_block, "emission_factor", 0.0))
++         marginal_label = getattr(shadow_block, "label", getattr(shadow_block, "unit_id", "shadow"))
++         marginal_fuel  = _fuel_name(shadow_block)
++         marginal_srmc  = float(getattr(shadow_block, "srmc", getattr(shadow_block, "price", float("nan"))))
++     else:
++         # Fallback: wenn kein thermischer Schatten existiert, dann 0 (selten)
++         mef_gpkwh = 0.0
++ else:
++     mef_gpkwh = float(getattr(marginal_block, "emission_factor", 0.0))
++     marginal_label = getattr(marginal_block, "label", getattr(marginal_block, "unit_id", "marg"))
++     marginal_fuel  = fuel_m
++     marginal_srmc  = float(getattr(marginal_block, "srmc", getattr(marginal_block, "price", float("nan"))))
+***************
+*** 710,736 ****
+  # --- Validation / QA (alt) ---
+- out["suspect_price_deviation"] = (out["gap_abs"] > 100) & out["has_neighbor_close"]
++ # --- Validation / QA (neu) ---
++ # engere Schwellen + einfache Monotonie-Prüfung
++ gap_thr = float(getattr(args, "price_srmc_gap_thr", 40.0))
++ out["suspect_price_deviation"] = (out["gap_abs"] > gap_thr) & out["has_neighbor_close"]
++ 
++ # Monotonie: Preis vs. Residuallast (nach Handel/PSP)
++ try:
++     from scipy.stats import spearmanr
++     rho, pval = spearmanr(out["price_DE"].values, out["RL_after_trade"].values, nan_policy="omit")
++     out.attrs["spearman_price_vs_RL"] = float(rho)
++     out.attrs["spearman_pval"] = float(pval)
++ except Exception:
++     pass
++ 
++ # Kernmetriken für Reporting
++ import numpy as np
++ out["ae_price_vs_srmc"] = (out["price_DE"] - out["chosen_srmc"]).abs()
++ out.attrs["mae_price_vs_srmc"] = float(np.nanmean(out["ae_price_vs_srmc"]))
++ out.attrs["pearson_price_vs_srmc"] = float(np.corrcoef(
++     np.nan_to_num(out["price_DE"].values, nan=np.nan),
++     np.nan_to_num(out["chosen_srmc"].values, nan=np.nan)
++ )[0,1]) if out["chosen_srmc"].notna().any() else float("nan")

@@ -1,0 +1,12 @@
+marginal_fuel,mean_mef_g_per_kwh,std_mef_g_per_kwh,count_mef_g_per_kwh,mean_marginal_srmc_eur_per_mwh,std_marginal_srmc_eur_per_mwh,mean_abs_error,median_abs_error
+Braunkohle,976.9,96.41,1662,71.6,8.83,26.43,17.38
+EE,0.0,0.0,436,-6.17,18.54,2.07,0.08
+Erdgas,382.83,56.17,3373,99.53,26.71,21.84,10.22
+Heizöl schwer,800.0,0.0,3,171.12,7.23,71.64,80.45
+Hydro Pumped Storage,0.0,,1,193.06,,0.0,0.0
+MustrunMix,0.0,0.0,239,8.63,16.6,5.85,0.01
+Nuclear,0.0,0.0,145,62.91,30.81,0.41,0.0
+Reservoir Hydro,0.0,,1,60.0,,15.23,15.23
+Steinkohle,792.23,50.86,2898,87.63,12.51,17.18,10.99
+Waste,300.0,0.0,10,63.67,34.37,0.0,0.0
+fossil,300.0,0.0,16,36.23,3.61,10.95,12.78

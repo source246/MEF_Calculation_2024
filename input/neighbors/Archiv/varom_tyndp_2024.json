@@ -1,0 +1,21 @@
+{
+  "Nuclear": 9.0,
+  "Nuklear": 9.0,
+  "Hard coal": 6.6,
+  "Steinkohle": 6.6,
+  "Lignite": 6.6,
+  "Braunkohle": 6.6,
+  "Gas": 3.2,
+  "Erdgas": 3.2,
+  "Oil": 3.3,
+  "Heizöl schwer": 3.3,
+  "Heizöl leicht / Diesel": 3.3,
+  "Hydro": 2.0,
+  "PSP": 1.5,
+  "Pumpspeicher": 1.5,
+  "Wind": 8.0,
+  "Solar": 0.0,
+  "Wind Onshore": 8.0,
+  "Wind Offshore": 12.0,
+  "Hydro Run-of-river and poundage": 2.0
+}

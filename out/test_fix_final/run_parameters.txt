@@ -1,0 +1,15 @@
+Run parameters:
+end: 2024-01-01 02:00
+eta_col: Imputed_Effizienz_binned
+fb_np_csv: input\fb\fb_core_DE_2024.csv
+fleet: input\de\fleet\Kraftwerke_eff_binned.csv
+flows: flows\flows_scheduled_DE_LU_2024_net.csv
+fuel_prices: input\de\fuels\prices_2024.csv
+jao_fb_enable: True
+jao_fb_tolerance: 100.0
+neighbor_gen_dir: input\neighbors\gen_2024
+neighbor_load_dir: input\neighbors\out_load\2024
+neighbor_prices: input\neighbors\prices\neighbor_prices_2024.csv
+outdir: out\test_fix_final
+start: 2024-01-01 00:00
+year: 2024

@@ -1,0 +1,58 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+import pandas as pd
+from pathlib import Path
+
+TZ = "Europe/Berlin"
+
+def to_berlin(ts):
+    dt = pd.to_datetime(ts, errors="coerce", utc=True)
+    return dt.tz_convert(TZ)
+
+def reconcile_flows(flow_file, netpos_file, zone="DE_LU", out_file=None):
+    # Flows einlesen
+    df = pd.read_csv(flow_file)
+    tcol = next(c for c in df.columns if "time" in c.lower() or "timestamp" in c.lower())
+    df.index = to_berlin(df[tcol]); df = df.drop(columns=[tcol])
+    imp_cols = [c for c in df.columns if c.startswith("imp_")]
+    for c in imp_cols:
+        df[c] = pd.to_numeric(df[c], errors="coerce").fillna(0.0).clip(lower=0.0)
+    df = df.resample("1H").mean()[imp_cols]
+
+    # Net Positions einlesen
+    npdf = pd.read_csv(netpos_file)
+    tcol = next(c for c in npdf.columns if "time" in c.lower() or "timestamp" in c.lower())
+    idx = to_berlin(npdf[tcol])
+    vcol = next(c for c in npdf.columns if "net" in c.lower() or "mw" in c.lower())
+    target = pd.Series(pd.to_numeric(npdf[vcol], errors="coerce"), index=idx)
+    target = target.resample("1H").mean().clip(lower=0.0)
+
+    # Abgleichen
+    idx = df.index.intersection(target.index)
+    flows = df.reindex(idx).fillna(0.0)
+    target = target.reindex(idx).fillna(0.0)
+
+    current_total = flows.sum(axis=1)
+    scale = pd.Series(1.0, index=idx)
+
+    # reduzieren wenn nötig
+    mask_reduce = (current_total > 0) & (target < current_total)
+    scale.loc[mask_reduce] = (target[mask_reduce] / current_total[mask_reduce]).clip(lower=0.0, upper=1.0)
+    # export → alle auf 0
+    scale.loc[current_total <= 0] = 0.0
+
+    flows_scaled = flows.mul(scale, axis=0).clip(lower=0.0)
+    flows_scaled["net_import_total"] = flows_scaled.sum(axis=1)
+
+    out_file = out_file or str(Path(flow_file).with_name(Path(flow_file).stem + "_reconciled.csv"))
+    flows_scaled.reset_index().rename(columns={"index":"timestamp"}).to_csv(out_file, index=False)
+    print(f"[OK] geschrieben: {out_file}")
+
+# Beispielaufruf
+if __name__ == "__main__":
+    reconcile_flows(
+        r"C:\Users\schoenmeiery\MEF\MEF_2024\flows\flows_scheduled_DE_LU_2024_net.csv",
+        r"C:\Users\schoenmeiery\MEF\MEF_2024\flows\Net Positions_2024.csv",
+        zone="DE_LU",
+        out_file=r"C:\Users\schoenmeiery\MEF\MEF_2024\flows\flows_scheduled_DE_LU_2024_net_reconciled.csv"
+    )

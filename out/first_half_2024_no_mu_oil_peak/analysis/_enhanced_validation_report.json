@@ -1,0 +1,60 @@
+{
+  "run_parameters_hash": "44338be8",
+  "overall_pass": false,
+  "stage1_data_time": {
+    "hour_count": 4367,
+    "hour_deviation_pct": 50.28460837887068,
+    "hour_gate_pass": false,
+    "normal_gaps": "4366",
+    "dst_gaps": "0",
+    "irregular_gaps": "0",
+    "time_consistency_gate_pass": "True",
+    "imputed_analysis": {
+      "price_DE": {
+        "na_count": "0",
+        "imputed_pct": 0.0
+      },
+      "mef_g_per_kwh": {
+        "na_count": "0",
+        "imputed_pct": 0.0
+      },
+      "marginal_srmc_eur_per_mwh": {
+        "na_count": "0",
+        "imputed_pct": 0.0
+      }
+    },
+    "max_imputed_pct": 0.0,
+    "imputation_gate_pass": "True",
+    "stage1_pass": false
+  },
+  "stage2_price_srmc": {
+    "raw_correlation": 0.7168858975216006,
+    "raw_corr_gate_pass": "True",
+    "filtered_correlation": 0.6932833537700634,
+    "filtered_corr_gate_pass": "False",
+    "neg_price_hours": "224",
+    "neg_price_pct": 5.129379436684223,
+    "low_mef_hours": "265",
+    "low_mef_pct": 6.068239065720174,
+    "neg_price_target_match": "True",
+    "low_mef_target_match": "False",
+    "import_side_pct": 36.432333409663386,
+    "domestic_side_pct": 63.567666590336614,
+    "price_anchor": "threshold",
+    "price_tol": 3.0,
+    "epsilon": 0.01,
+    "corr_cap_mode": "peaker_min",
+    "corr_cap_tol": 3.0,
+    "import_bias_risk": "True",
+    "stage2_pass": false
+  },
+  "stage3_transformation": {
+    "stage3_pass": true,
+    "note": "Stage 3 (2030 Transformation) not implemented yet"
+  },
+  "stage4_dr_optimization": {
+    "stage4_pass": true,
+    "note": "Stage 4 (DR Optimization) not implemented yet"
+  },
+  "timestamp": "2025-10-05T10:55:59.413504"
+}

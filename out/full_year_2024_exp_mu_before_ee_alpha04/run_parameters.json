@@ -1,0 +1,23 @@
+{
+  "fleet": "input/de/fleet/Kraftwerke_eff_binned.csv",
+  "eta_col": "Imputed_Effizienz_binned",
+  "fuel_prices": "input/de/fuels/prices_2024.csv",
+  "flows": "flows/flows_scheduled_DE_LU_2024_net.csv",
+  "start": "2024-01-01",
+  "end": "2025-01-01",
+  "mu_cost_mode": "q_vs_cost",
+  "mu_cost_alpha": 0.4,
+  "mu_cost_q": 0.2,
+  "mu_cost_monthly": true,
+  "mu_cost_use_peak": true,
+  "neighbor_gen_dir": "input/neighbors/gen_2024",
+  "neighbor_load_dir": "input/neighbors/out_load/2024",
+  "neighbor_prices": "input/neighbors/prices/neighbor_prices_2024.csv",
+  "fb_np_csv": "input/fb/fb_core_DE_2024.csv",
+  "jao_fb_enable": true,
+  "jao_fb_tolerance": 100.0,
+  "ee_price_threshold": 10.0,
+  "import_zero_price_threshold": 10.0,
+  "year": 2024,
+  "outdir": "out\\full_year_2024_exp_mu_before_ee_alpha04"
+}

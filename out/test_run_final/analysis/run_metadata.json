@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-10-04T17:26:11.446084",
+  "fleet": {
+    "path": "input\\de\\fleet\\Kraftwerke_eff_binned.csv",
+    "size_bytes": 5568949,
+    "modified": "2025-09-06T22:31:25.570928",
+    "sha256": "f2ae747f5099be02",
+    "columns": 1,
+    "rows": 39974
+  },
+  "fuel_prices": {
+    "path": "input\\de\\fuels\\prices_2024.csv",
+    "size_bytes": 862370,
+    "modified": "2025-09-17T19:39:19.503560",
+    "sha256": "a52901d088f2d177",
+    "columns": 7,
+    "rows": 8784
+  },
+  "flows": {
+    "path": "flows\\flows_scheduled_DE_LU_2024_net.csv",
+    "size_bytes": 2837825,
+    "modified": "2025-09-05T11:29:38.187607",
+    "sha256": "9d7d7064fadf72a2",
+    "columns": 13,
+    "rows": 35136
+  },
+  "neighbor_prices": {
+    "path": "input\\neighbors\\prices\\neighbor_prices_2024.csv",
+    "size_bytes": 818659,
+    "modified": "2025-09-02T16:51:53.914207",
+    "sha256": "f89c7ee3bbdf26ef",
+    "columns": 13,
+    "rows": 8781
+  },
+  "varom_json": {
+    "path": "input\\neighbors\\neighbors_varom_from_maf2020.json",
+    "size_bytes": 523,
+    "modified": "2025-10-02T19:53:56.043383",
+    "sha256": "b491a7c327f74b0e"
+  }
+}

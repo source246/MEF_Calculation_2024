@@ -1,0 +1,4 @@
+Filtered corr (Pearson): 0.7948
+N points after filter: 71
+Cap mode: absolute
+Drop negative prices: True

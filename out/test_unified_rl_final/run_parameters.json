@@ -1,0 +1,16 @@
+{
+  "fleet": "input\\de\\fleet\\Kraftwerke_eff_binned.csv",
+  "eta_col": "Imputed_Effizienz_binned",
+  "fuel_prices": "input\\de\\fuels\\prices_2024.csv",
+  "flows": "flows\\flows_scheduled_DE_LU_2024_net.csv",
+  "start": "2024-01-01 00:00",
+  "end": "2024-01-01 03:00",
+  "neighbor_gen_dir": "input\\neighbors\\gen_2024",
+  "neighbor_load_dir": "input\\neighbors\\out_load\\2024",
+  "neighbor_prices": "input\\neighbors\\prices\\neighbor_prices_2024.csv",
+  "fb_np_csv": "input\\fb\\fb_core_DE_2024.csv",
+  "jao_fb_enable": true,
+  "jao_fb_tolerance": 100.0,
+  "year": 2024,
+  "outdir": "out\\test_unified_rl_final"
+}

@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "created": "2025-10-02T17:53:10.772496",
+    "units": "€/MWh_el",
+    "note": "Values derived from ENTSO-E MAF 2020 – 'Dataset (Other Data)' Variable O&M; CCS rows excluded; Oil uses Heavy oil where available; Coal-derived gas proxied to Hard coal.",
+    "source_file": "MAF 2020 - Dataset(Other Data) (1).csv"
+  },
+  "data": {
+    "Fossil Gas": 1.6,
+    "Fossil Hard coal": 3.3,
+    "Fossil Brown coal/Lignite": 3.3,
+    "Fossil Oil": 3.3,
+    "Nuclear": 9.0,
+    "Fossil Coal-derived gas": 3.3
+  }
+}

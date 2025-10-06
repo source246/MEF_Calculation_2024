@@ -1,0 +1,30 @@
+flowchart TD
+  A[Start / CLI args] --> B[Load inputs: fleet, fuel_prices, flows, neighbor_prices, neighbor_gen/load]
+  B --> C[Preprocessing]
+  C --> C1[parse timestamps, force hourly]
+  C --> C2[compute unit SRMC series (DE)]
+  C --> C3[compute neighbor SRMCs / eta dists]
+  C --> D[Compute auto-profiles]
+  D --> D1[price_based_lignite_mustrun_profile -> auto_lignite_profile]
+  D --> D2[price_based_oil_mustrun_profile -> auto_oil_profile]
+  D1 --> E
+  D2 --> E
+  E[Prepare fossil_min profiles per zone] --> F{mu_cost_mode == "q_vs_cost"?}
+  F -- yes --> G[compute_fossil_min_profiles_cost_based per zone]
+  F -- no  --> H[compute_fossil_min_profiles (classical mode)]
+  G --> I[If --de_fossil_mustrun_from_cost -> compute DE min via cost-based]
+  H --> I
+  I --> J[Assemble de_min_total & de_min_by_fuel]
+  J --> K[Apply share-based overrides if de_mustrun_shares set]
+  K --> L[Derive lignite and oil MU profiles (mustrun_mode / auto profiles)]
+  L --> M[Per-hour dispatch loop / export-stack logic]
+  M --> M1[For each hour: build export stack per zone (exportable_blocks_for_zone)]
+  M1 --> M2[Determine marginal block -> marginal_fuel, SRMC, MEF]
+  M2 --> N[Apply MU minima: ensure min generation >= de_min_total/min_by_fuel]
+  N --> O[Postprocess: corrections (outliers), peaker override, negative pricing rules]
+  O --> P[Validation & plots: correlation, _validation.csv, plots]
+  P --> Q[Write outputs: mef_track_c_2024.csv, _debug_hourly.csv, analysis/*]
+  Q --> Z[End]
+
+%% Legend
+%% - Das Diagramm zeigt die Hauptdatenflüsse und Entscheidungszweige der Final_Version

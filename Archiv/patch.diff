@@ -1,0 +1,13 @@
+*** Begin Patch
+*** Update File: scripts/track_c/mef_dispatch_v5.7.py
+@@
+-    p.add_argument("--flows", required=True, help="CSV: flows_scheduled_DE_LU_2024_net.csv")
++    p.add_argument("--flows", required=True, help="CSV: flows_scheduled_DE_LU_2024_net.csv")
++    p.add_argument("--flows_physical", default=None,
++                   help="CSV: flows_actual_DE_LU_2024_net.csv (physische Fl?sse, optional)")
++    p.add_argument("--flow_mode", choices=["scheduled", "physical", "hybrid"],
++                   default="scheduled",
++                   help="Welche Fl?sse f?r das Import-Gate genutzt werden (Standard: scheduled).")
++    p.add_argument("--flow_hybrid_ambiv_threshold", type=float, default=0.40,
++                   help="Schwelle (Anteil an physischer Menge) f?r Ambivalenz-Tagging in Hybrid-Flows.")
+*** End Patch

@@ -1,0 +1,12 @@
+C:\Users\schoenmeiery\Lastgangmanagement\MEF_Berechnung_2024\scripts\track_c\modules\io_utils.py:56: UserWarning: Could not infer format, so each element will be parsed individually, falling back to `dateutil`. To ensure parsing is consistent and as-expected, please specify a format.
+  ser_utc = pd.to_datetime(series, errors="coerce", utc=True)
+C:\Users\schoenmeiery\Lastgangmanagement\MEF_Berechnung_2024\scripts\track_c\modules\io_utils.py:56: UserWarning: Could not infer format, so each element will be parsed individually, falling back to `dateutil`. To ensure parsing is consistent and as-expected, please specify a format.
+  ser_utc = pd.to_datetime(series, errors="coerce", utc=True)
+C:\Users\schoenmeiery\Lastgangmanagement\MEF_Berechnung_2024\scripts\track_c\modules\io_utils.py:56: UserWarning: Could not infer format, so each element will be parsed individually, falling back to `dateutil`. To ensure parsing is consistent and as-expected, please specify a format.
+  ser_utc = pd.to_datetime(series, errors="coerce", utc=True)
+C:\Users\schoenmeiery\Lastgangmanagement\MEF_Berechnung_2024\scripts\track_c\modules\io_utils.py:56: UserWarning: Could not infer format, so each element will be parsed individually, falling back to `dateutil`. To ensure parsing is consistent and as-expected, please specify a format.
+  ser_utc = pd.to_datetime(series, errors="coerce", utc=True)
+C:\Users\schoenmeiery\Lastgangmanagement\MEF_Berechnung_2024\scripts\track_c\modules\io_utils.py:56: UserWarning: Could not infer format, so each element will be parsed individually, falling back to `dateutil`. To ensure parsing is consistent and as-expected, please specify a format.
+  ser_utc = pd.to_datetime(series, errors="coerce", utc=True)
+C:\Users\schoenmeiery\Lastgangmanagement\MEF_Berechnung_2024\scripts\track_c\modules\io_utils.py:56: UserWarning: Could not infer format, so each element will be parsed individually, falling back to `dateutil`. To ensure parsing is consistent and as-expected, please specify a format.
+  ser_utc = pd.to_datetime(series, errors="coerce", utc=True)

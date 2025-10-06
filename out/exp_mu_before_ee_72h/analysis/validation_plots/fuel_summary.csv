@@ -1,0 +1,7 @@
+marginal_fuel,mean_mef_g_per_kwh,std_mef_g_per_kwh,count_mef_g_per_kwh,mean_marginal_srmc_eur_per_mwh,std_marginal_srmc_eur_per_mwh,mean_abs_error,median_abs_error
+Braunkohle,944.8,54.78,34,67.4,3.91,24.21,16.23
+EE,0.0,0.0,11,67.11,12.25,0.05,0.0
+Erdgas,335.73,8.31,6,72.99,2.13,12.83,9.39
+MustrunMix,0.0,0.0,18,0.27,0.68,0.37,0.01
+Nuclear,0.0,,1,35.55,,0.0,0.0
+Steinkohle,723.15,1.66,2,76.9,0.18,4.1,4.1

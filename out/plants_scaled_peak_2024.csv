@@ -1,0 +1,3180 @@
+name,country,zone,fuel,tech,commissioned,capacity_mw,eta,scale,scaled_capacity_mw
+Marcinelle Energie (Carsid),BE,BE,gas,CCGT,,413.0,0.55,,413.0
+Aalst Syral GT,BE,BE,gas,OCGT,,43.0,0.37,,43.0
+Aalst Syral ST,BE,BE,gas,GT+ST,,5.0,0.48,,5.0
+AALTER TJ,BE,BE,oil,Oil,,18.0,0.36,,18.0
+Amercoeur 1 R TGV,BE,BE,gas,CCGT,,451.0,0.55,,451.0
+AWIRS 4,BE,BE,gas,GT+ST,,95.0,0.48,,95.0
+BEERSE TJ,BE,BE,oil,Oil,,32.0,0.36,,32.0
+Beveren Ineos Phenolchemie,BE,BE,gas,CCGT,,23.8,0.55,,23.8
+BUTGENBACH,BE,BE,nan,,,1.8,,,1.8
+CIERREUX TJ,BE,BE,oil,Oil,,18.0,0.36,,18.0
+COO I T,BE,BE,nan,,,474.0,,,474.0
+COO II T,BE,BE,nan,,,690.0,,,690.0
+DOEL 1,BE,BE,nan,,,445.0,,,445.0
+DOEL 2,BE,BE,nan,,,433.0,,,433.0
+DOEL 3,BE,BE,nan,,,1006.0,,,1006.0
+DOEL 4,BE,BE,nan,,,1039.0,,,1039.0
+DROGENBOS DM 51,BE,BE,oil,Oil,,2.5,0.36,,2.5
+DROGENBOS DM 52,BE,BE,oil,Oil,,2.5,0.36,,2.5
+DROGENBOS GT1,BE,BE,gas,OCGT,,150.0,0.37,,150.0
+DROGENBOS GT2,BE,BE,gas,OCGT,,150.0,0.37,,150.0
+DROGENBOS ST,BE,BE,gas,GT+ST,,160.0,0.48,,160.0
+HERDERSBRUG STEG,BE,BE,gas,CCGT,,465.0,0.55,,465.0
+IXELLES TJ,BE,BE,oil,Oil,,18.0,0.36,,18.0
+La Vierre,BE,BE,nan,,,1.9,,,1.9
+Lanaken Sappi,BE,BE,gas,CCGT,,43.0,0.55,,43.0
+LANGERBRUGGE STORA ST 1,BE,BE,nan,,,11.0,,,11.0
+LANGERBRUGGE STORA ST 2,BE,BE,nan,,,44.7,,,44.7
+Lillo Degussa GT1,BE,BE,gas,OCGT,,43.0,0.37,,43.0
+Lillo Degussa GT2,BE,BE,gas,OCGT,,32.0,0.37,,32.0
+Lillo Degussa ST,BE,BE,gas,GT+ST,,10.0,0.48,,10.0
+Noordschote TJ,BE,BE,oil,Oil,,18.0,0.36,,18.0
+Oorderen Bayer,BE,BE,gas,CCGT,,43.0,0.55,,43.0
+Oud-Lillo Monsanto,BE,BE,gas,CCGT,,43.0,0.55,,43.0
+RODENHUIZE 4,BE,BE,gas,GT+ST,,268.0,0.48,,268.0
+SAINT-GHISLAIN STEG,BE,BE,gas,CCGT,,350.0,0.55,,350.0
+Schaerbeek Siomab ST1,BE,BE,nan,,,15.0,,,15.0
+Schaerbeek Siomab ST2,BE,BE,nan,,,15.0,,,15.0
+Schaerbeek Siomab ST3,BE,BE,nan,,,15.0,,,15.0
+Scheldelaan Exxonmobil,BE,BE,gas,CCGT,,140.0,0.55,,140.0
+TIHANGE 1N,BE,BE,nan,,,481.0,,,481.0
+TIHANGE 1S,BE,BE,nan,,,481.0,,,481.0
+TIHANGE 2,BE,BE,nan,,,1008.0,,,1008.0
+TIHANGE 3,BE,BE,nan,,,1038.0,,,1038.0
+Turon TJ,BE,BE,oil,Oil,,18.6,0.36,,18.6
+VILVOORDE GT,BE,BE,gas,OCGT,,255.0,0.37,,255.0
+Wilmarsdonk Total GT1,BE,BE,gas,OCGT,,43.0,0.37,,43.0
+Wilmarsdonk Total GT2,BE,BE,gas,OCGT,,43.0,0.37,,43.0
+Wilmarsdonk Total GT3,BE,BE,gas,OCGT,,43.0,0.37,,43.0
+Wilrijk Isvag,BE,BE,nan,,,12.0,,,12.0
+Zandvliet Power,BE,BE,gas,CCGT,,386.2,0.55,,386.2
+Zedelgem TJ,BE,BE,oil,Oil,,18.0,0.36,,18.0
+Zeebrugge 2 Fluxys,BE,BE,gas,CCGT,,40.0,0.55,,40.0
+Zeebrugge TJ,BE,BE,oil,Oil,,18.0,0.36,,18.0
+Zelzate 2 Knippegroen,BE,BE,nan,,,315.0,,,315.0
+Zelzate TJ,BE,BE,oil,Oil,,18.0,0.36,,18.0
+Zwijndrecht Lanxess GT,BE,BE,gas,OCGT,,43.0,0.37,,43.0
+Zwijndrecht Lanxess ST,BE,BE,gas,GT+ST,,15.0,0.48,,15.0
+Electrawinds biomassa Oostende,BE,BE,nan,,,18.0,,,18.0
+Greenpower Oostende,BE,BE,nan,,,20.0,,,20.0
+Eurosilo,BE,BE,gas,CCGT,,12.9,0.55,,12.9
+Incinerateur THUMAIDE (IPALLE),BE,BE,nan,,,34.0,,,34.0
+Intradel Herstal,BE,BE,nan,,,34.0,,,34.0
+IVBO,BE,BE,nan,,,16.0,,,16.0
+PLATE-TAILLE T,BE,BE,nan,,,144.0,,,144.0
+ANGLEUR TG 41,BE,BE,gas,OCGT,,64.0,0.37,,64.0
+ANGLEUR TG 42,BE,BE,gas,OCGT,,64.0,0.37,,64.0
+ANGLEUR TG31,BE,BE,gas,CCGT,,25.0,0.55,,25.0
+ANGLEUR TG32,BE,BE,gas,CCGT,,25.0,0.55,,25.0
+Beveren 2 Indaver,BE,BE,nan,,,21.0,,,21.0
+Beveren 3 Indaver,BE,BE,nan,,,24.0,,,24.0
+Beveren Sleco,BE,BE,nan,,,41.0,,,41.0
+EDF Luminus Izegem WKK,BE,BE,gas,CCGT,,20.0,0.55,,20.0
+EDF Luminus Seraing GT1,BE,BE,gas,OCGT,,150.0,0.37,,150.0
+EDF Luminus Seraing GT2,BE,BE,gas,OCGT,,150.0,0.37,,150.0
+HAM31,BE,BE,gas,OCGT,,58.0,0.37,,58.0
+HAM32,BE,BE,gas,OCGT,,58.0,0.37,,58.0
+HU AMPSIN-NEUVILLE,BE,BE,nan,,,9.9,,,9.9
+HU ANDENNE,BE,BE,nan,,,9.0,,,9.0
+HU FLORIFFOUX,BE,BE,nan,,,0.8,,,0.8
+HU GRAND-MALADES,BE,BE,nan,,,5.0,,,5.0
+HU IVOZ-RAMET,BE,BE,nan,,,10.0,,,10.0
+HU LIXHE,BE,BE,nan,,,20.0,,,20.0
+HU MONSIN,BE,BE,nan,,,19.7,,,19.7
+Jemeppe-sur-Sambre GT1,BE,BE,gas,OCGT,,48.0,0.37,,48.0
+Jemeppe-sur-Sambre GT2,BE,BE,gas,OCGT,,48.0,0.37,,48.0
+Jemeppe-sur-Sambre ST,BE,BE,gas,GT+ST,,10.0,0.48,,10.0
+RINGVAART STEG,BE,BE,gas,CCGT,,385.0,0.55,,385.0
+SERAING TV,BE,BE,gas,CCGT,,170.0,0.55,,170.0
+Biostoom Oostende,BE,BE,nan,,,19.4,,,19.4
+INESCO WKK,BE,BE,gas,CCGT,,138.0,0.55,,138.0
+T-power Beringen,BE,BE,gas,CCGT,,422.0,0.55,,422.0
+AL-1,NL,NL,gas,CCGT,,62.0,0.55,,62.0
+AL-2,NL,NL,gas,CCGT,,55.0,0.55,,55.0
+Amercentrale (A8),NL,NL,hardcoal,Hardcoal,,645.0,0.4,,645.0
+Amercentrale (A9),NL,NL,hardcoal,Hardcoal,,640.0,0.4,,640.0
+Amylum,NL,NL,gas,CCGT,,7.0,0.55,,7.0
+BOZ,NL,NL,gas,CCGT,,33.0,0.55,,33.0
+Borssele 30,NL,NL,nan,,,492.0,,,492.0
+CUIJK,NL,NL,hardcoal,Hardcoal,,25.0,0.4,,25.0
+Centrale Bergum (CB10),NL,NL,gas,CCGT,,72.0,0.55,,72.0
+Centrale Bergum (CB20),NL,NL,gas,CCGT,,72.0,0.55,,72.0
+Centrale Diemen (DM33),NL,NL,gas,CCGT,,249.0,0.55,,249.0
+Centrale Diemen (DM34),NL,NL,gas,CCGT,,435.0,0.55,,435.0
+Centrale Galileistraat (FG1),NL,NL,gas,CCGT,,0.0,0.55,,0.0
+Centrale Gelderland (CG13),NL,NL,hardcoal,Hardcoal,,0.0,0.4,,0.0
+Centrale Harculo (HC60),NL,NL,gas,CCGT,,0.0,0.55,,0.0
+Centrale Hemweg (HW-7),NL,NL,gas,CCGT,,585.0,0.55,,585.0
+Centrale Hemweg (HW-8),NL,NL,hardcoal,Hardcoal,,650.0,0.4,,650.0
+Centrale Hemweg (HW-9),NL,NL,gas,CCGT,,432.0,0.55,,432.0
+Centrale IJmond,NL,NL,nan,,,144.0,,,144.0
+Centrale Lage Weide,NL,NL,gas,CCGT,,247.0,0.55,,247.0
+Centrale Maasvlakte (MV1),NL,NL,hardcoal,Hardcoal,,0.0,0.4,,0.0
+Centrale Maasvlakte (MV2),NL,NL,hardcoal,Hardcoal,,0.0,0.4,,0.0
+Centrale Maasvlakte (MV3),NL,NL,hardcoal,Hardcoal,,1068.0,0.4,,1068.0
+Centrale Merwedekanaal,NL,NL,gas,CCGT,,227.0,0.55,,227.0
+Centrale RoCa (RoCa3),NL,NL,gas,CCGT,,218.0,0.55,,218.0
+Centrale Swentibold,NL,NL,gas,CCGT,,225.0,0.55,,225.0
+Centrale Velsen (VN24),NL,NL,gas,CCGT,,459.0,0.55,,459.0
+Centrale Velsen (VN25),NL,NL,gas,CCGT,,375.0,0.55,,375.0
+Clauscentrale (A),NL,NL,gas,CCGT,,640.0,0.55,,640.0
+Clauscentrale (C1),NL,NL,gas,CCGT,,310.0,0.55,,310.0
+Clauscentrale (C2),NL,NL,gas,CCGT,,310.0,0.55,,310.0
+Clauscentrale (C3),NL,NL,gas,CCGT,,310.0,0.55,,310.0
+Clauscentrale (C4),NL,NL,nan,,,510.0,,,510.0
+Delesto (Del1),NL,NL,gas,CCGT,,180.0,0.55,,180.0
+Delesto (Del2),NL,NL,gas,CCGT,,350.0,0.55,,350.0
+Dongecentrale,NL,NL,gas,CCGT,,0.0,0.55,,0.0
+EDH,NL,NL,gas,CCGT,,112.0,0.55,,112.0
+EHV,NL,NL,gas,CCGT,,0.0,0.55,,0.0
+ELSTA,NL,NL,gas,CCGT,,456.0,0.55,,456.0
+ENSCH,NL,NL,gas,CCGT,,0.0,0.55,,0.0
+ERICA,NL,NL,gas,CCGT,,63.0,0.55,,63.0
+Eemscentrale (EC20),NL,NL,gas,CCGT,,131.0,0.55,,131.0
+Eemscentrale (EC3),NL,NL,gas,CCGT,,359.0,0.55,,359.0
+Eemscentrale (EC4),NL,NL,gas,CCGT,,359.0,0.55,,359.0
+Eemscentrale (EC5),NL,NL,gas,CCGT,,361.0,0.55,,361.0
+Eemscentrale (EC6),NL,NL,gas,CCGT,,359.0,0.55,,359.0
+Eemscentrale (EC7),NL,NL,gas,CCGT,,360.0,0.55,,360.0
+HM12,NL,NL,gas,CCGT,,0.0,0.55,,0.0
+HTB,NL,NL,gas,CCGT,,32.0,0.55,,32.0
+KLAZI,NL,NL,gas,CCGT,,63.0,0.55,,63.0
+LD12,NL,NL,gas,CCGT,,83.0,0.55,,83.0
+LWE5,NL,NL,gas,CCGT,,0.0,0.55,,0.0
+MK11,NL,NL,gas,CCGT,,103.0,0.55,,103.0
+MVL380 Centrale Rotterdam 1,NL,NL,hardcoal,Hardcoal,,731.0,0.4,,731.0
+Magnum Centrale (10),NL,NL,gas,CCGT,,437.0,0.55,,437.0
+Magnum Centrale (20),NL,NL,gas,CCGT,,437.0,0.55,,437.0
+Magnum Centrale (30),NL,NL,gas,CCGT,,437.0,0.55,,437.0
+Maxima Centrale (FL30),NL,NL,gas,CCGT,,0.0,0.55,,0.0
+Maxima Centrale (FL4),NL,NL,gas,CCGT,,435.0,0.55,,435.0
+Maxima Centrale (FL5),NL,NL,gas,CCGT,,437.0,0.55,,437.0
+Moerdijk 1,NL,NL,gas,CCGT,,348.0,0.55,,348.0
+Moerdijk 2,NL,NL,gas,CCGT,,426.0,0.55,,426.0
+PU-1,NL,NL,gas,CCGT,,67.0,0.55,,67.0
+ROC1,NL,NL,gas,CCGT,,24.0,0.55,,24.0
+ROC2,NL,NL,gas,CCGT,,24.0,0.55,,24.0
+Rijnmond II,NL,NL,gas,CCGT,,428.0,0.55,,428.0
+Rijnmond1,NL,NL,gas,CCGT,,800.0,0.55,,800.0
+SAL,NL,NL,gas,CCGT,,60.0,0.55,,60.0
+Sloecentrale (unit 10),NL,NL,gas,CCGT,,432.0,0.55,,432.0
+Sloecentrale (unit 20),NL,NL,gas,CCGT,,432.0,0.55,,432.0
+UCML,NL,NL,gas,CCGT,,79.0,0.55,,79.0
+Willem Alexander Centrale,NL,NL,hardcoal,Hardcoal,,249.0,0.4,,249.0
+corus,NL,NL,nan,,,38.0,,,38.0
+PROVENCE 4 BIOMASSE,FR,FR,gas,CCGT,2018.0,150.0,0.58,,150.0
+AMFARD14,FR,FR,gas,CCGT,2004.0,130.0,0.55,,130.0
+AMFARD15,FR,FR,gas,CCGT,2004.0,130.0,0.55,,130.0
+BLENOD 5,FR,FR,gas,CCGT,,427.0,0.55,,427.0
+BOUCHAIN 7,FR,FR,gas,CCGT,2017.0,585.0,0.58,,585.0
+COMBIGOLFE,FR,FR,gas,CCGT,2010.0,425.0,0.58,,425.0
+CYCOFOS,FR,FR,gas,CCGT,2009.0,428.0,0.58,,428.0
+Croix-de-Metz,FR,FR,gas,CCGT,2019.0,413.0,0.58,,413.0
+DK6,FR,FR,gas,CCGT,2005.0,796.0,0.55,,796.0
+EMILE HUCHET 7,FR,FR,gas,CCGT,2010.0,413.0,0.58,,413.0
+EMILE HUCHET 8,FR,FR,gas,CCGT,2010.0,413.0,0.58,,413.0
+FR-GA-MORANT1,FR,FR,gas,CCGT,2016.0,401.0,0.58,,401.0
+GENNEVILLIERS 1,FR,FR,gas,CCGT,,203.0,0.55,,203.0
+MARTIGUES PONTEAU 5,FR,FR,gas,CCGT,,465.0,0.55,,465.0
+MARTIGUES PONTEAU 6,FR,FR,gas,CCGT,,465.0,0.55,,465.0
+Pont-sur-Sambre,FR,FR,gas,CCGT,2019.0,412.0,0.58,,412.0
+SPEM,FR,FR,gas,CCGT,2010.0,435.0,0.58,,435.0
+CORDEMAIS 4,FR,FR,hardcoal,Hardcoal,,580.0,0.4,,580.0
+CORDEMAIS 5,FR,FR,hardcoal,Hardcoal,,580.0,0.4,,580.0
+EMILE HUCHET 6,FR,FR,hardcoal,Hardcoal,1981.0,595.0,0.37,,595.0
+HAVRE 4,FR,FR,hardcoal,Hardcoal,,580.0,0.4,,580.0
+PROVENCE 5,FR,FR,hardcoal,Hardcoal,1984.0,595.0,0.37,,595.0
+ARRIGHI 1,FR,FR,oil,Oil,,125.0,0.36,,125.0
+ARRIGHI 2,FR,FR,oil,Oil,,129.0,0.36,,129.0
+BRENNILIS 1,FR,FR,oil,Oil,,85.0,0.36,,85.0
+BRENNILIS 2,FR,FR,oil,Oil,,85.0,0.36,,85.0
+BRENNILIS 3,FR,FR,oil,Oil,,134.0,0.36,,134.0
+DIRINON 1,FR,FR,oil,Oil,,85.0,0.36,,85.0
+DIRINON 2,FR,FR,oil,Oil,,85.0,0.36,,85.0
+MONTEREAU 5,FR,FR,oil,Oil,,185.0,0.36,,185.0
+MONTEREAU 6,FR,FR,oil,Oil,,185.0,0.36,,185.0
+VAIRES 1,FR,FR,oil,Oil,,181.0,0.36,,181.0
+VAIRES 2,FR,FR,oil,Oil,,179.0,0.36,,179.0
+VAIRES 3,FR,FR,oil,Oil,,182.0,0.36,,182.0
+CHEYLAS,FR,FR,nan,,,485.0,,,485.0
+COCHE,FR,FR,nan,,2019.0,384.0,,,384.0
+GRAND MAISON,FR,FR,nan,,2017.0,1700.0,,,1700.0
+MONTEZIC,FR,FR,nan,,,910.0,,,910.0
+REVIN,FR,FR,nan,,,808.0,,,808.0
+SUPER BISSORTE,FR,FR,nan,,,742.3,,,742.3
+ASTON,FR,FR,nan,,,104.0,,,104.0
+AVIGNON,FR,FR,nan,,1973.0,126.0,,,126.0
+BAIX LOGIS NEUF 1,FR,FR,nan,,1960.0,140.0,,,140.0
+BEAUCHASTEL,FR,FR,nan,,1963.0,198.0,,,198.0
+BOURG les VALENCE,FR,FR,nan,,1968.0,180.0,,,180.0
+CADEROUSSE,FR,FR,nan,,1975.0,156.0,,,156.0
+CHASTANG,FR,FR,nan,,,293.0,,,293.0
+COUESQUE,FR,FR,nan,,,119.0,,,119.0
+DONZERE MONDRAGON,FR,FR,nan,,1952.0,348.0,,,348.0
+FESSENHEIM,FR,FR,nan,,,175.0,,,175.0
+FR_LA-MAREGES-P,FR,FR,nan,,2018.0,150.0,,,150.0
+FR_LA-STPIERRE-P,FR,FR,nan,,2018.0,122.0,,,122.0
+GENISSIAT,FR,FR,nan,,1948.0,420.0,,,420.0
+GERSTHEIM,FR,FR,nan,,,140.5,,,140.5
+HERMILLON,FR,FR,nan,,,115.6,,,115.6
+KEMBS,FR,FR,nan,,2016.0,162.1,,,162.1
+MARCKOLSHEIM,FR,FR,nan,,,156.2,,,156.2
+MONTELIMAR,FR,FR,nan,,1957.0,295.0,,,295.0
+OTTMARSHEIM,FR,FR,nan,,,156.0,,,156.0
+PASSY,FR,FR,nan,,,104.0,,,104.0
+RANDENS,FR,FR,nan,,,124.2,,,124.2
+RHINAU,FR,FR,nan,,2016.0,152.0,,,152.0
+SAINT PIERRE COGNET,FR,FR,nan,,,101.0,,,101.0
+SAUSSAZ,FR,FR,nan,,,145.4,,,145.4
+STRASBOURG,FR,FR,nan,,2016.0,147.8,,,147.8
+VALLABREGUES,FR,FR,nan,,1970.0,210.0,,,210.0
+VOGELGRUN,FR,FR,nan,,,140.5,,,140.5
+AIGLE,FR,FR,nan,,,360.0,,,360.0
+BATHIE,FR,FR,nan,,2018.0,592.0,,,592.0
+BORT,FR,FR,nan,,,235.0,,,235.0
+BROMMAT,FR,FR,nan,,,406.0,,,406.0
+COMBE D'AVRIEUX,FR,FR,nan,,,123.0,,,123.0
+CURBANS,FR,FR,nan,,,139.0,,,139.0
+MALGOVERT,FR,FR,nan,,,297.0,,,297.0
+MONTEYNARD,FR,FR,nan,,,366.0,,,366.0
+MONTPEZAT,FR,FR,nan,,,131.8,,,131.8
+ORAISON,FR,FR,nan,,,187.0,,,187.0
+PIED DE BORNE,FR,FR,nan,,,109.4,,,109.4
+POUGET,FR,FR,nan,,,446.9,,,446.9
+PRAGNERES,FR,FR,nan,,,189.2,,,189.2
+SAINT CHAMAS,FR,FR,nan,,,159.0,,,159.0
+SAINT ESTEVE,FR,FR,nan,,,141.0,,,141.0
+SAINT GUILLERME,FR,FR,nan,,,116.0,,,116.0
+SAINTE CROIX,FR,FR,nan,,,132.3,,,132.3
+SARRANS,FR,FR,nan,,,183.0,,,183.0
+SERRE PONCON,FR,FR,nan,,,384.0,,,384.0
+SISTERON,FR,FR,nan,,2017.0,240.0,,,240.0
+ST ETIENNE CANTALES,FR,FR,nan,,2016.0,103.3,,,103.3
+VILLARODIN,FR,FR,nan,,,357.0,,,357.0
+VOUGLANS,FR,FR,nan,,,285.0,,,285.0
+BELLEVILLE 1,FR,FR,nan,,,1310.0,,,1310.0
+BELLEVILLE 2,FR,FR,nan,,,1310.0,,,1310.0
+BLAYAIS 1,FR,FR,nan,,,910.0,,,910.0
+BLAYAIS 2,FR,FR,nan,,,910.0,,,910.0
+BLAYAIS 3,FR,FR,nan,,,910.0,,,910.0
+BLAYAIS 4,FR,FR,nan,,,910.0,,,910.0
+BUGEY 2,FR,FR,nan,,,910.0,,,910.0
+BUGEY 3,FR,FR,nan,,,910.0,,,910.0
+BUGEY 4,FR,FR,nan,,,880.0,,,880.0
+BUGEY 5,FR,FR,nan,,,880.0,,,880.0
+CATTENOM 1,FR,FR,nan,,,1300.0,,,1300.0
+CATTENOM 2,FR,FR,nan,,,1300.0,,,1300.0
+CATTENOM 3,FR,FR,nan,,,1300.0,,,1300.0
+CATTENOM 4,FR,FR,nan,,,1300.0,,,1300.0
+CHINON 1,FR,FR,nan,,,905.0,,,905.0
+CHINON 2,FR,FR,nan,,,905.0,,,905.0
+CHINON 3,FR,FR,nan,,,905.0,,,905.0
+CHINON 4,FR,FR,nan,,,905.0,,,905.0
+CHOOZ 1,FR,FR,nan,,,1500.0,,,1500.0
+CHOOZ 2,FR,FR,nan,,,1500.0,,,1500.0
+CIVAUX 1,FR,FR,nan,,,1495.0,,,1495.0
+CIVAUX 2,FR,FR,nan,,,1495.0,,,1495.0
+CRUAS 1,FR,FR,nan,,,915.0,,,915.0
+CRUAS 2,FR,FR,nan,,,915.0,,,915.0
+CRUAS 3,FR,FR,nan,,,915.0,,,915.0
+CRUAS 4,FR,FR,nan,,,915.0,,,915.0
+DAMPIERRE 1,FR,FR,nan,,,890.0,,,890.0
+DAMPIERRE 2,FR,FR,nan,,,890.0,,,890.0
+DAMPIERRE 3,FR,FR,nan,,,890.0,,,890.0
+DAMPIERRE 4,FR,FR,nan,,,890.0,,,890.0
+FESSENHEIM 1,FR,FR,nan,,,880.0,,,880.0
+FESSENHEIM 2,FR,FR,nan,,,880.0,,,880.0
+FLAMANVILLE 1,FR,FR,nan,,,1330.0,,,1330.0
+FLAMANVILLE 2,FR,FR,nan,,,1330.0,,,1330.0
+GOLFECH 1,FR,FR,nan,,,1310.0,,,1310.0
+GOLFECH 2,FR,FR,nan,,,1310.0,,,1310.0
+GRAVELINES 1,FR,FR,nan,,,910.0,,,910.0
+GRAVELINES 2,FR,FR,nan,,,910.0,,,910.0
+GRAVELINES 3,FR,FR,nan,,,910.0,,,910.0
+GRAVELINES 4,FR,FR,nan,,,910.0,,,910.0
+GRAVELINES 5,FR,FR,nan,,,910.0,,,910.0
+GRAVELINES 6,FR,FR,nan,,,910.0,,,910.0
+NOGENT 1,FR,FR,nan,,,1310.0,,,1310.0
+NOGENT 2,FR,FR,nan,,,1310.0,,,1310.0
+PALUEL 1,FR,FR,nan,,,1330.0,,,1330.0
+PALUEL 2,FR,FR,nan,,,1330.0,,,1330.0
+PALUEL 3,FR,FR,nan,,,1330.0,,,1330.0
+PALUEL 4,FR,FR,nan,,,1330.0,,,1330.0
+PENLY 1,FR,FR,nan,,,1330.0,,,1330.0
+PENLY 2,FR,FR,nan,,,1330.0,,,1330.0
+ST ALBAN 1,FR,FR,nan,,,1335.0,,,1335.0
+ST ALBAN 2,FR,FR,nan,,,1335.0,,,1335.0
+ST LAURENT 1,FR,FR,nan,,,915.0,,,915.0
+ST LAURENT 2,FR,FR,nan,,,915.0,,,915.0
+TRICASTIN 1,FR,FR,nan,,,915.0,,,915.0
+TRICASTIN 2,FR,FR,nan,,,915.0,,,915.0
+TRICASTIN 3,FR,FR,nan,,,915.0,,,915.0
+TRICASTIN 4,FR,FR,nan,,,915.0,,,915.0
+CYCOFOS TV2,FR,FR,nan,,2009.0,62.0,,,62.0
+Bełchatów B02,PL,PL,lignite,Lignite,,370.0,0.39,,370.0
+Bełchatów B03,PL,PL,lignite,Lignite,,380.0,0.39,,380.0
+Bełchatów B04,PL,PL,lignite,Lignite,,380.0,0.39,,380.0
+Bełchatów B05,PL,PL,lignite,Lignite,,380.0,0.39,,380.0
+Bełchatów B06,PL,PL,lignite,Lignite,,394.0,0.39,,394.0
+Bełchatów B07,PL,PL,lignite,Lignite,,390.0,0.39,,390.0
+Bełchatów B08,PL,PL,lignite,Lignite,,390.0,0.39,,390.0
+Bełchatów B09,PL,PL,lignite,Lignite,,390.0,0.39,,390.0
+Bełchatów B10,PL,PL,lignite,Lignite,,390.0,0.39,,390.0
+Bełchatów B11,PL,PL,lignite,Lignite,,390.0,0.39,,390.0
+Bełchatów B12,PL,PL,lignite,Lignite,,390.0,0.39,,390.0
+Bełchatów B14,PL,PL,lignite,Lignite,,858.0,0.39,,858.0
+Dolna Odra B1,PL,PL,hardcoal,Hardcoal,,222.0,0.4,,222.0
+Dolna Odra B2,PL,PL,hardcoal,Hardcoal,,232.0,0.4,,232.0
+Dolna Odra B5,PL,PL,hardcoal,Hardcoal,,222.0,0.4,,222.0
+Dolna Odra B6,PL,PL,hardcoal,Hardcoal,,222.0,0.4,,222.0
+Dolna Odra B7,PL,PL,hardcoal,Hardcoal,,227.0,0.4,,227.0
+Dolna Odra B8,PL,PL,hardcoal,Hardcoal,,232.0,0.4,,232.0
+Dychów H1,PL,PL,nan,,,28.0,,,28.0
+Dychów H2,PL,PL,nan,,,29.0,,,29.0
+Dychów H3,PL,PL,nan,,,28.0,,,28.0
+Jaworzno 3 B1,PL,PL,hardcoal,Hardcoal,,225.0,0.4,,225.0
+Jaworzno 3 B2,PL,PL,hardcoal,Hardcoal,,225.0,0.4,,225.0
+Jaworzno 3 B3,PL,PL,hardcoal,Hardcoal,,225.0,0.4,,225.0
+Jaworzno 3 B4,PL,PL,hardcoal,Hardcoal,,225.0,0.4,,225.0
+Jaworzno 3 B5,PL,PL,hardcoal,Hardcoal,,220.0,0.4,,220.0
+Jaworzno 3 B6,PL,PL,hardcoal,Hardcoal,,225.0,0.4,,225.0
+Karolin B2,PL,PL,hardcoal,Hardcoal,,100.0,0.4,,100.0
+Karolin B3,PL,PL,hardcoal,Hardcoal,,112.0,0.4,,112.0
+Kozienice 1 B1,PL,PL,hardcoal,Hardcoal,,228.0,0.4,,228.0
+Kozienice 1 B2,PL,PL,hardcoal,Hardcoal,,228.0,0.4,,228.0
+Kozienice 1 B3,PL,PL,hardcoal,Hardcoal,,225.0,0.4,,225.0
+Kozienice 1 B4,PL,PL,hardcoal,Hardcoal,,228.0,0.4,,228.0
+Kozienice 1 B5,PL,PL,hardcoal,Hardcoal,,228.0,0.4,,228.0
+Kozienice 1 B6,PL,PL,hardcoal,Hardcoal,,228.0,0.4,,228.0
+Kozienice 1 B7,PL,PL,hardcoal,Hardcoal,,228.0,0.4,,228.0
+Kozienice 1 B8,PL,PL,hardcoal,Hardcoal,,228.0,0.4,,228.0
+Kozienice 2 B09,PL,PL,hardcoal,Hardcoal,,560.0,0.4,,560.0
+Kozienice 2 B10,PL,PL,hardcoal,Hardcoal,,560.0,0.4,,560.0
+Kozienice 2 B11,PL,PL,hardcoal,Hardcoal,,1075.0,0.4,,1075.0
+Łagisza B10,PL,PL,hardcoal,Hardcoal,,460.0,0.4,,460.0
+Łagisza B6,PL,PL,hardcoal,Hardcoal,,120.0,0.4,,120.0
+Łagisza B7,PL,PL,hardcoal,Hardcoal,,120.0,0.4,,120.0
+Łaziska 2 B1,PL,PL,hardcoal,Hardcoal,,125.0,0.4,,125.0
+Łaziska 2 B2,PL,PL,hardcoal,Hardcoal,,125.0,0.4,,125.0
+Łaziska 3 B09,PL,PL,hardcoal,Hardcoal,,230.0,0.4,,230.0
+Łaziska 3 B10,PL,PL,hardcoal,Hardcoal,,225.0,0.4,,225.0
+Łaziska 3 B11,PL,PL,hardcoal,Hardcoal,,225.0,0.4,,225.0
+Łaziska 3 B12,PL,PL,hardcoal,Hardcoal,,225.0,0.4,,225.0
+Opole B1,PL,PL,hardcoal,Hardcoal,,386.0,0.4,,386.0
+Opole B2,PL,PL,hardcoal,Hardcoal,,383.0,0.4,,383.0
+Opole B3,PL,PL,hardcoal,Hardcoal,,383.0,0.4,,383.0
+Opole B4,PL,PL,hardcoal,Hardcoal,,380.0,0.4,,380.0
+Opole B5,PL,PL,hardcoal,Hardcoal,,905.0,0.4,,905.0
+Opole B6,PL,PL,hardcoal,Hardcoal,,905.0,0.4,,905.0
+Ostrołęka B B01,PL,PL,hardcoal,Hardcoal,,230.0,0.4,,230.0
+Ostrołęka B B02,PL,PL,hardcoal,Hardcoal,,230.0,0.4,,230.0
+Ostrołęka B B03,PL,PL,hardcoal,Hardcoal,,230.0,0.4,,230.0
+Pątnów 1 B1,PL,PL,lignite,Lignite,,222.0,0.39,,222.0
+Pątnów 1 B2,PL,PL,lignite,Lignite,,222.0,0.39,,222.0
+Pątnów 1 B3,PL,PL,lignite,Lignite,,200.0,0.39,,200.0
+Pątnów 1 B4,PL,PL,lignite,Lignite,,200.0,0.39,,200.0
+Pątnów 1 B5,PL,PL,lignite,Lignite,,200.0,0.39,,200.0
+Pątnów 1 B6,PL,PL,lignite,Lignite,,200.0,0.39,,200.0
+Pątnów 2 B9,PL,PL,lignite,Lignite,,474.0,0.39,,474.0
+Połaniec B1,PL,PL,hardcoal,Hardcoal,,225.0,0.4,,225.0
+Połaniec B2,PL,PL,hardcoal,Hardcoal,,242.0,0.4,,242.0
+Połaniec B3,PL,PL,hardcoal,Hardcoal,,242.0,0.4,,242.0
+Połaniec B4,PL,PL,hardcoal,Hardcoal,,242.0,0.4,,242.0
+Połaniec B5,PL,PL,hardcoal,Hardcoal,,225.0,0.4,,225.0
+Połaniec B6,PL,PL,hardcoal,Hardcoal,,242.0,0.4,,242.0
+Połaniec B7,PL,PL,hardcoal,Hardcoal,,239.0,0.4,,239.0
+Porąbka Żar H1,PL,PL,nan,,,135.0,,,135.0
+Porąbka Żar H2,PL,PL,nan,,,135.0,,,135.0
+Porąbka Żar H3,PL,PL,nan,,,135.0,,,135.0
+Porąbka Żar H4,PL,PL,nan,,,135.0,,,135.0
+Rybnik B1,PL,PL,hardcoal,Hardcoal,,225.0,0.4,,225.0
+Rybnik B2,PL,PL,hardcoal,Hardcoal,,225.0,0.4,,225.0
+Rybnik B3,PL,PL,hardcoal,Hardcoal,,225.0,0.4,,225.0
+Rybnik B4,PL,PL,hardcoal,Hardcoal,,225.0,0.4,,225.0
+Rybnik B5,PL,PL,hardcoal,Hardcoal,,225.0,0.4,,225.0
+Rybnik B6,PL,PL,hardcoal,Hardcoal,,225.0,0.4,,225.0
+Rybnik B7,PL,PL,hardcoal,Hardcoal,,225.0,0.4,,225.0
+Rybnik B8,PL,PL,hardcoal,Hardcoal,,225.0,0.4,,225.0
+Siersza B1,PL,PL,hardcoal,Hardcoal,,153.0,0.4,,153.0
+Siersza B2,PL,PL,hardcoal,Hardcoal,,153.0,0.4,,153.0
+Siersza B3,PL,PL,hardcoal,Hardcoal,,123.0,0.4,,123.0
+Siersza B6,PL,PL,hardcoal,Hardcoal,,128.0,0.4,,128.0
+Solina H1,PL,PL,nan,,,68.0,,,68.0
+Solina H2,PL,PL,nan,,,68.0,,,68.0
+Solina H3,PL,PL,nan,,,31.0,,,31.0
+Solina H4,PL,PL,nan,,,31.0,,,31.0
+Stalowa Wola 3 B7,PL,PL,hardcoal,Hardcoal,,125.0,0.4,,125.0
+Stalowa Wola 3 B8,PL,PL,hardcoal,Hardcoal,,125.0,0.4,,125.0
+Turów B01,PL,PL,lignite,Lignite,,235.0,0.39,,235.0
+Turów B02,PL,PL,lignite,Lignite,,235.0,0.39,,235.0
+Turów B03,PL,PL,lignite,Lignite,,235.0,0.39,,235.0
+Turów B04,PL,PL,lignite,Lignite,,261.0,0.39,,261.0
+Turów B05,PL,PL,lignite,Lignite,,261.0,0.39,,261.0
+Turów B06,PL,PL,lignite,Lignite,,261.0,0.39,,261.0
+Żarnowiec H1,PL,PL,nan,,,179.0,,,179.0
+Żarnowiec H2,PL,PL,nan,,,179.0,,,179.0
+Żarnowiec H3,PL,PL,nan,,,179.0,,,179.0
+Żarnowiec H4,PL,PL,nan,,,179.0,,,179.0
+Żydowo H1,PL,PL,nan,,,55.0,,,55.0
+Żydowo H2,PL,PL,nan,,,55.0,,,55.0
+Żydowo H3,PL,PL,nan,,,57.0,,,57.0
+Alpiq‐ECK 7,CZ,CZ,lignite,Lignite,,135.0,0.39,,135.0
+Alpiq‐ECK B5,CZ,CZ,lignite,Lignite,,135.0,0.39,,135.0
+Alpiq‐ECK B7,CZ,CZ,lignite,Lignite,,135.0,0.39,,135.0
+C.Budejovice TCB,CZ,CZ,lignite,Lignite,,66.2,0.39,,66.2
+"DRPEMO VKR,TEV",CZ,CZ,lignite,Lignite,,18.0,0.39,,18.0
+Dvur Kralove TDK,CZ,CZ,lignite,Lignite,,18.3,0.39,,18.3
+Energotrans TG1,CZ,CZ,lignite,Lignite,,60.0,0.39,,60.0
+Energotrans TG2,CZ,CZ,lignite,Lignite,,60.0,0.39,,60.0
+Energotrans TG3,CZ,CZ,lignite,Lignite,,60.0,0.39,,60.0
+Energotrans TG4,CZ,CZ,lignite,Lignite,,60.0,0.39,,60.0
+Hodonin EHO,CZ,CZ,lignite,Lignite,,107.0,0.39,,107.0
+CHEZA G1,CZ,CZ,lignite,Lignite,,275.0,0.39,,275.0
+Chvaletice B1,CZ,CZ,lignite,Lignite,,205.0,0.39,,205.0
+Chvaletice B2,CZ,CZ,lignite,Lignite,,205.0,0.39,,205.0
+Chvaletice B3,CZ,CZ,lignite,Lignite,,205.0,0.39,,205.0
+Chvaletice B4,CZ,CZ,lignite,Lignite,,205.0,0.39,,205.0
+Karlovy Vary KVT,CZ,CZ,lignite,Lignite,,1.3,0.39,,1.3
+Karvina TG4,CZ,CZ,lignite,Lignite,,15.0,0.39,,15.0
+Karvina TG5,CZ,CZ,lignite,Lignite,,40.0,0.39,,40.0
+Kauc.Kralupy TG1,CZ,CZ,lignite,Lignite,,27.0,0.39,,27.0
+Kauc.Kralupy TG2,CZ,CZ,lignite,Lignite,,33.0,0.39,,33.0
+Kolin Zalabi TG4,CZ,CZ,lignite,Lignite,,4.5,0.39,,4.5
+Kolin Zalabi TG5,CZ,CZ,lignite,Lignite,,12.0,0.39,,12.0
+Komorany TG20,CZ,CZ,lignite,Lignite,,35.0,0.39,,35.0
+Komorany TG21,CZ,CZ,lignite,Lignite,,22.0,0.39,,22.0
+Komorany TG22,CZ,CZ,lignite,Lignite,,34.0,0.39,,34.0
+Komorany TG4,CZ,CZ,lignite,Lignite,,32.0,0.39,,32.0
+Komorany TG5,CZ,CZ,lignite,Lignite,,32.0,0.39,,32.0
+Komorany TG6,CZ,CZ,lignite,Lignite,,32.0,0.39,,32.0
+Komorany TG9,CZ,CZ,lignite,Lignite,,32.0,0.39,,32.0
+Ledvice 2 B2,CZ,CZ,lignite,Lignite,,110.0,0.39,,110.0
+Ledvice 2 B3,CZ,CZ,lignite,Lignite,,110.0,0.39,,110.0
+Ledvice 3 B4,CZ,CZ,lignite,Lignite,,110.0,0.39,,110.0
+Ledvice 4 B6,CZ,CZ,lignite,Lignite,,660.0,0.39,,660.0
+Liberec TLI,CZ,CZ,lignite,Lignite,,15.0,0.39,,15.0
+Melník2 B10,CZ,CZ,lignite,Lignite,,110.0,0.39,,110.0
+Melník2 B9,CZ,CZ,lignite,Lignite,,110.0,0.39,,110.0
+Melník3 B11,CZ,CZ,lignite,Lignite,,500.0,0.39,,500.0
+Náchod TNA,CZ,CZ,lignite,Lignite,,17.0,0.39,,17.0
+Olomouc TG3,CZ,CZ,lignite,Lignite,,41.0,0.39,,41.0
+Olomouc TG4,CZ,CZ,lignite,Lignite,,8.0,0.39,,8.0
+Opatovice TG1,CZ,CZ,lignite,Lignite,,60.0,0.39,,60.0
+Opatovice TG2,CZ,CZ,lignite,Lignite,,60.0,0.39,,60.0
+Opatovice TG3,CZ,CZ,lignite,Lignite,,63.0,0.39,,63.0
+Opatovice TG4,CZ,CZ,lignite,Lignite,,60.0,0.39,,60.0
+Opatovice TG5,CZ,CZ,lignite,Lignite,,60.0,0.39,,60.0
+Opatovice TG6,CZ,CZ,lignite,Lignite,,63.0,0.39,,63.0
+Ostrava TPV,CZ,CZ,lignite,Lignite,,13.5,0.39,,13.5
+Ostrov n. O. TOS,CZ,CZ,lignite,Lignite,,6.0,0.39,,6.0
+Otrokovice TG1,CZ,CZ,lignite,Lignite,,25.0,0.39,,25.0
+Otrokovice TG2,CZ,CZ,lignite,Lignite,,27.5,0.39,,27.5
+PEVTZ PEActherm,CZ,CZ,lignite,Lignite,,26.0,0.39,,26.0
+PE CEZ Morava PESME,CZ,CZ,lignite,Lignite,,129.0,0.39,,129.0
+PE CEZ sever PESCE,CZ,CZ,lignite,Lignite,,173.7,0.39,,173.7
+PE CEZ východ PEVCE,CZ,CZ,lignite,Lignite,,135.0,0.39,,135.0
+PE CEZ západ PEZCE,CZ,CZ,lignite,Lignite,,26.0,0.39,,26.0
+PE CEZstred PESTE,CZ,CZ,lignite,Lignite,,77.2,0.39,,77.2
+PE EONvýchod PEJME,CZ,CZ,lignite,Lignite,,71.0,0.39,,71.0
+PE EONzápad PEJCE,CZ,CZ,lignite,Lignite,,48.8,0.39,,48.8
+PE PREdi PEPRE,CZ,CZ,lignite,Lignite,,11.0,0.39,,11.0
+PE Vresová TG1,CZ,CZ,lignite,Lignite,,55.0,0.39,,55.0
+PE Vresová TG2,CZ,CZ,lignite,Lignite,,55.0,0.39,,55.0
+PE Vresová TG3,CZ,CZ,lignite,Lignite,,55.0,0.39,,55.0
+PE Vresová TG4,CZ,CZ,lignite,Lignite,,55.0,0.39,,55.0
+Písek TPI,CZ,CZ,lignite,Lignite,,7.8,0.39,,7.8
+Planá n/L. TG3,CZ,CZ,lignite,Lignite,,20.7,0.39,,20.7
+Plzen teplárna TG1,CZ,CZ,lignite,Lignite,,67.0,0.39,,67.0
+Plzen teplárna TG2,CZ,CZ,lignite,Lignite,,67.0,0.39,,67.0
+Plzenská energetika TG10,CZ,CZ,lignite,Lignite,,26.0,0.39,,26.0
+Plzenská energetika TG8,CZ,CZ,lignite,Lignite,,31.0,0.39,,31.0
+Plzenská energetika TG9,CZ,CZ,lignite,Lignite,,33.0,0.39,,33.0
+Pocerady B2,CZ,CZ,lignite,Lignite,,200.0,0.39,,200.0
+Pocerady B3,CZ,CZ,lignite,Lignite,,200.0,0.39,,200.0
+Pocerady B4,CZ,CZ,lignite,Lignite,,200.0,0.39,,200.0
+Pocerady B5,CZ,CZ,lignite,Lignite,,200.0,0.39,,200.0
+Pocerady B6,CZ,CZ,lignite,Lignite,,200.0,0.39,,200.0
+Prunérov 1 B3,CZ,CZ,lignite,Lignite,,110.0,0.39,,110.0
+Prunérov 1 B4,CZ,CZ,lignite,Lignite,,110.0,0.39,,110.0
+Prunérov 1 B5,CZ,CZ,lignite,Lignite,,110.0,0.39,,110.0
+Prunérov 1 B6,CZ,CZ,lignite,Lignite,,110.0,0.39,,110.0
+Prunérov 2 B23,CZ,CZ,lignite,Lignite,,250.0,0.39,,250.0
+Prunérov 2 B24,CZ,CZ,lignite,Lignite,,250.0,0.39,,250.0
+Prunérov 2 B25,CZ,CZ,lignite,Lignite,,250.0,0.39,,250.0
+Prerov TG1,CZ,CZ,lignite,Lignite,,42.5,0.39,,42.5
+Prerov TG2,CZ,CZ,lignite,Lignite,,8.0,0.39,,8.0
+Príbram TG1,CZ,CZ,lignite,Lignite,,44.4,0.39,,44.4
+Strakonice TST,CZ,CZ,lignite,Lignite,,30.0,0.39,,30.0
+ŠKO-ENERGO ,CZ,CZ,lignite,Lignite,,87.2,0.39,,87.2
+Špitálka PS,CZ,CZ,lignite,Lignite,,80.6,0.39,,80.6
+Tábor TTB,CZ,CZ,lignite,Lignite,,22.5,0.39,,22.5
+Terea(Cheb) Terea,CZ,CZ,lignite,Lignite,,5.1,0.39,,5.1
+Tisová2 B6,CZ,CZ,lignite,Lignite,,112.0,0.39,,112.0
+Trmice TG4,CZ,CZ,lignite,Lignite,,20.0,0.39,,20.0
+Trmice TG5,CZ,CZ,lignite,Lignite,,20.0,0.39,,20.0
+Trmice TG6,CZ,CZ,lignite,Lignite,,16.0,0.39,,16.0
+Trmice TG7,CZ,CZ,lignite,Lignite,,16.0,0.39,,16.0
+Trmice TG8,CZ,CZ,lignite,Lignite,,16.0,0.39,,16.0
+Trebovice TG15,CZ,CZ,lignite,Lignite,,72.0,0.39,,72.0
+Trebovice TG16,CZ,CZ,lignite,Lignite,,72.0,0.39,,72.0
+Trebovice TG33,CZ,CZ,lignite,Lignite,,33.0,0.39,,33.0
+Tušimice 2 B21,CZ,CZ,lignite,Lignite,,200.0,0.39,,200.0
+Tušimice 2 B22,CZ,CZ,lignite,Lignite,,200.0,0.39,,200.0
+Tušimice 2 B23,CZ,CZ,lignite,Lignite,,200.0,0.39,,200.0
+Tušimice 2 B24,CZ,CZ,lignite,Lignite,,200.0,0.39,,200.0
+Detmarovice B1,CZ,CZ,hardcoal,Hardcoal,,200.0,0.4,,200.0
+Detmarovice B2,CZ,CZ,hardcoal,Hardcoal,,200.0,0.4,,200.0
+Detmarovice B3,CZ,CZ,hardcoal,Hardcoal,,200.0,0.4,,200.0
+Detmarovice B4,CZ,CZ,hardcoal,Hardcoal,,200.0,0.4,,200.0
+PEVitkovice EVI,CZ,CZ,hardcoal,Hardcoal,,79.0,0.4,,79.0
+Porici 2 EPO2,CZ,CZ,hardcoal,Hardcoal,,165.0,0.4,,165.0
+CS Armáda CSA,CZ,CZ,hardcoal,Hardcoal,,24.0,0.4,,24.0
+MITTAL NH,CZ,CZ,hardcoal,Hardcoal,,254.0,0.4,,254.0
+Trinec TZ,CZ,CZ,hardcoal,Hardcoal,,96.0,0.4,,96.0
+VCHZ Semtín VCHZ,CZ,CZ,hardcoal,Hardcoal,,75.6,0.4,,75.6
+Brno Sever PBS,CZ,CZ,hardcoal,Hardcoal,,4.0,0.4,,4.0
+Zlín ,CZ,CZ,hardcoal,Hardcoal,,69.0,0.4,,69.0
+Malešice 2 TMA,CZ,CZ,hardcoal,Hardcoal,,122.0,0.4,,122.0
+"Pražská tepl TMI,TVE",CZ,CZ,hardcoal,Hardcoal,,10.8,0.4,,10.8
+Plzen teplárna TG3,CZ,CZ,nan,,,11.5,,,11.5
+Spalovna Brno SAKO,CZ,CZ,nan,,,22.7,,,22.7
+Spalovna Malešice SMA,CZ,CZ,nan,,,17.4,,,17.4
+Pocerady2 B21,CZ,CZ,gas,CCGT,,845.0,0.55,,845.0
+PP C.Mlýn TG1,CZ,CZ,gas,CCGT,,72.0,0.55,,72.0
+PP C.Mlýn TG2,CZ,CZ,gas,CCGT,,24.0,0.55,,24.0
+PP Kyjov TG1,CZ,CZ,gas,CCGT,,7.5,0.55,,7.5
+PP Kyjov TG2,CZ,CZ,gas,CCGT,,7.5,0.55,,7.5
+PP Vresová B1,CZ,CZ,gas,CCGT,,191.0,0.55,,191.0
+PP Vresová B2,CZ,CZ,gas,CCGT,,190.0,0.55,,190.0
+Alpiq-PS ECKGB6,CZ,CZ,gas,CCGT,,66.9,0.55,,66.9
+Alpiq-PS GTB8,CZ,CZ,gas,CCGT,,45.0,0.55,,45.0
+Plzenská energetika TG11D,CZ,CZ,oil,Oil,,21.0,0.36,,21.0
+Prostejov EPRJ,CZ,CZ,gas,CCGT,,58.9,0.55,,58.9
+Planán/L. TG4P,CZ,CZ,gas,CCGT,,36.0,0.55,,36.0
+Kauc.Kralupy TG4,CZ,CZ,gas,CCGT,,32.0,0.55,,32.0
+Dukovany RE1,CZ,CZ,nan,,,510.0,,,510.0
+Dukovany RE2,CZ,CZ,nan,,,510.0,,,510.0
+Dukovany RE3,CZ,CZ,nan,,,510.0,,,510.0
+Dukovany RE4,CZ,CZ,nan,,,510.0,,,510.0
+Temelín B1,CZ,CZ,nan,,,1125.0,,,1125.0
+Temelín B2,CZ,CZ,nan,,,1125.0,,,1125.0
+fiktivníbloky Dalesice,CZ,CZ,nan,,,480.0,,,480.0
+fiktivníbloky DlouheStrane,CZ,CZ,nan,,,650.0,,,650.0
+fiktivníbloky Stechovice2,CZ,CZ,nan,,,45.0,,,45.0
+fiktivníbloky Malevody Cechy,CZ,CZ,nan,,,262.8,,,262.8
+fiktivníbloky MalevodyMorava,CZ,CZ,nan,,,106.5,,,106.5
+Dl.Stráne 2 TG3,CZ,CZ,nan,,,0.2,,,0.2
+fiktivníbloky Vltava,CZ,CZ,nan,,,703.3,,,703.3
+Korensko2 TG1,CZ,CZ,nan,,,0.9,,,0.9
+MVEZelina TG1,CZ,CZ,nan,,,0.3,,,0.3
+MVEZelina TG2,CZ,CZ,nan,,,0.3,,,0.3
+MVEZelina TG3,CZ,CZ,nan,,,0.0,,,0.0
+MVEZelina TG4,CZ,CZ,nan,,,0.0,,,0.0
+Val Giuf,CH,CH,nan,,1979.0,1.5,,,1.5
+Val Strem,CH,CH,nan,,2009.0,2.0,,,2.0
+Sedrun 1,CH,CH,nan,,2011.0,150.0,,,150.0
+Sedrun 2,CH,CH,nan,,1968.0,0.75,,,0.75
+Tavanasa (KVR),CH,CH,nan,,1962.0,180.0,,,180.0
+Russein,CH,CH,nan,,2015.0,24.87,,,24.87
+Ferrera,CH,CH,nan,,1999.0,4.23,,,4.23
+Trun,CH,CH,nan,,2005.0,0.6,,,0.6
+Dardin (Casut),CH,CH,nan,,2008.0,0.4,,,0.4
+Tavanasa (AHSAG),CH,CH,nan,,1946.0,10.14,,,10.14
+Kraftwerk Tschar,CH,CH,nan,,2017.0,4.26,,,4.26
+Brigels-Tavanasa,CH,CH,nan,,1960.0,12.5,,,12.5
+Ladral,CH,CH,nan,,1973.0,5.1,,,5.1
+Ilanz 1 (Stufe Tavanasa),CH,CH,nan,,1990.0,34.5,,,34.5
+Ilanz 2 (Stufe Panix (Pigniu)),CH,CH,nan,,1992.0,49.5,,,49.5
+Seekraftwerk Zervreila,CH,CH,nan,,1999.0,22.0,,,22.0
+Safien Platz,CH,CH,nan,,1997.0,90.0,,,90.0
+Rothenbrunnen,CH,CH,nan,,2011.0,135.0,,,135.0
+Rabiusa-Realta,CH,CH,nan,,2004.0,26.0,,,26.0
+Lunschania,CH,CH,nan,,1996.0,0.94,,,0.94
+Bargaus,CH,CH,nan,,1963.0,2.82,,,2.82
+Punt Gronda (Segnas),CH,CH,nan,,2012.0,2.62,,,2.62
+Punt Gronda (Platt Alva),CH,CH,nan,,2012.0,0.64,,,0.64
+Punt Gronda (Tarschlims),CH,CH,nan,,2013.0,0.3,,,0.3
+Stenna (Flims) Flembach,CH,CH,nan,,1999.0,1.73,,,1.73
+"Flims, Felsbach (Karstwasser)",CH,CH,nan,,2011.0,0.88,,,0.88
+"Flims, Felsbach (Bergwasser)",CH,CH,nan,,2011.0,0.28,,,0.28
+Mulin,CH,CH,nan,,2004.0,1.6,,,1.6
+Pintrun,CH,CH,nan,,1944.0,6.48,,,6.48
+Ferrera 1,CH,CH,nan,,2017.0,180.0,,,180.0
+Ferrera 2,CH,CH,nan,,2017.0,4.4,,,4.4
+Nufenen,CH,CH,nan,,2009.0,0.3,,,0.3
+Splügen (Tambobach),CH,CH,nan,,2012.0,1.8,,,1.8
+Stauanlage Sufers Dotieranlage,CH,CH,nan,,2010.0,0.71,,,0.71
+Bärenburg,CH,CH,nan,,2017.0,220.0,,,220.0
+Bärenburg Dotieranlage,CH,CH,nan,,2017.0,1.6,,,1.6
+Sils,CH,CH,nan,,1961.0,247.0,,,247.0
+Thusis,CH,CH,nan,,2017.0,4.6,,,4.6
+Frauenkirch,CH,CH,nan,,1963.0,0.7,,,0.7
+Glaris,CH,CH,nan,,1964.0,1.13,,,1.13
+Filisur,CH,CH,nan,,2002.0,65.0,,,65.0
+Filisur-Tiefencastel,CH,CH,nan,,1989.0,24.0,,,24.0
+Stalvedro (Julia),CH,CH,nan,,1980.0,0.65,,,0.65
+"Mulegn, Tinizong-Rona",CH,CH,nan,,2016.0,7.0,,,7.0
+Tinizong,CH,CH,nan,,1971.0,69.5,,,69.5
+Nandrò,CH,CH,nan,,2011.0,1.59,,,1.59
+Tiefencastel Ost,CH,CH,nan,,1970.0,52.0,,,52.0
+Tiefencastel West,CH,CH,nan,,1949.0,26.0,,,26.0
+Solis,CH,CH,nan,,1978.0,7.3,,,7.3
+Sils (EWZ),CH,CH,nan,,1996.0,26.0,,,26.0
+Rothenbrunnen (EWZ),CH,CH,nan,,1976.0,44.0,,,44.0
+Reichenau,CH,CH,nan,,1962.0,19.06,,,19.06
+Arosa-Litzirüti,CH,CH,nan,,1969.0,5.0,,,5.0
+KW Sagenbach,CH,CH,nan,,2013.0,3.55,,,3.55
+Molinis-Lüen,CH,CH,nan,,1990.0,7.2,,,7.2
+Plessurwerk,CH,CH,nan,,2011.0,9.4,,,9.4
+Rabiusawerk,CH,CH,nan,,2012.0,0.71,,,0.71
+Klosters,CH,CH,nan,,1982.0,16.5,,,16.5
+Schlappin,CH,CH,nan,,2000.0,6.1,,,6.1
+Küblis,CH,CH,nan,,2006.0,45.6,,,45.6
+Taschinas,CH,CH,nan,,2011.0,11.33,,,11.33
+Igiser Mülbach 1 (Landquart 1),CH,CH,nan,,1978.0,0.5,,,0.5
+Igiser Mülbach 2 (Landquart 2),CH,CH,nan,,1988.0,0.71,,,0.71
+Mapragg,CH,CH,nan,,1977.0,279.9,,,279.9
+Sarelli,CH,CH,nan,,1978.0,90.0,,,90.0
+Ragaz,CH,CH,nan,,1956.0,0.7,,,0.7
+Jenins,CH,CH,nan,,1997.0,0.46,,,0.46
+Valeis,CH,CH,nan,,2004.0,1.2,,,1.2
+Grossbach,CH,CH,nan,,1993.0,0.7,,,0.7
+Sevelen,CH,CH,nan,,1989.0,1.14,,,1.14
+Buchs-Vorderberg,CH,CH,nan,,1987.0,0.98,,,0.98
+Buchs-Tobeläckerli,CH,CH,nan,,2013.0,0.69,,,0.69
+Buchs-Altendorf,CH,CH,nan,,1987.0,3.56,,,3.56
+Grabs (Bannwald),CH,CH,nan,,1994.0,0.44,,,0.44
+Grabs (Löchli),CH,CH,nan,,1996.0,1.43,,,1.43
+Sennwald,CH,CH,nan,,1990.0,1.22,,,1.22
+Lienz,CH,CH,nan,,1989.0,0.38,,,0.38
+Blatten (SAK),CH,CH,nan,,1989.0,0.38,,,0.38
+Montlingen,CH,CH,nan,,1989.0,0.38,,,0.38
+"Gstaldenbach, Heiden",CH,CH,nan,,1982.0,0.72,,,0.72
+Lochmühle,CH,CH,nan,,2003.0,0.63,,,0.63
+Morgental (Abwasser),CH,CH,nan,,2014.0,1.2,,,1.2
+Schaffhausen,CH,CH,nan,,1964.0,28.9,,,28.9
+Engeweiher,CH,CH,nan,,1993.0,5.0,,,5.0
+Neuhausen,CH,CH,nan,,2011.0,5.6,,,5.6
+Rheinau,CH,CH,nan,,2005.0,36.8,,,36.8
+Giessen,CH,CH,nan,,2001.0,1.9,,,1.9
+Nesslau (Ijentalerbach),CH,CH,nan,,2010.0,1.25,,,1.25
+Herrentöbeli,CH,CH,nan,,1991.0,0.84,,,0.84
+Trempel,CH,CH,nan,,2007.0,1.8,,,1.8
+Im Roos,CH,CH,nan,,2004.0,0.86,,,0.86
+"Stadtbrücke, Lichtensteig",CH,CH,nan,,2013.0,0.57,,,0.57
+Dietfurt,CH,CH,nan,,2002.0,0.98,,,0.98
+Soor,CH,CH,nan,,2001.0,0.98,,,0.98
+Mülau,CH,CH,nan,,2010.0,1.37,,,1.37
+Niederglatt-Gossau,CH,CH,nan,,1967.0,0.35,,,0.35
+Bischofszell,CH,CH,nan,,1935.0,1.02,,,1.02
+Seealp - Wasserauen,CH,CH,nan,,2005.0,2.5,,,2.5
+Rossfall,CH,CH,nan,,1991.0,0.38,,,0.38
+EW Zürchersmühle,CH,CH,nan,,1987.0,0.36,,,0.36
+Kubel,CH,CH,nan,,1976.0,15.0,,,15.0
+Sittertal,CH,CH,nan,,2007.0,0.46,,,0.46
+Kraftwerk Grafenau,CH,CH,nan,,2018.0,0.31,,,0.31
+Burentobel,CH,CH,nan,,2008.0,0.3,,,0.3
+Erlenholz,CH,CH,nan,,2003.0,0.48,,,0.48
+Thurfeld,CH,CH,nan,,2011.0,1.7,,,1.7
+Au-Schönenberg,CH,CH,nan,,2002.0,2.3,,,2.3
+Bürglen (Säge),CH,CH,nan,,2008.0,0.44,,,0.44
+Kleinwasserkraftwerk Bürglen,CH,CH,nan,,2016.0,0.99,,,0.99
+Thur,CH,CH,nan,,1976.0,0.7,,,0.7
+Weinfelden (Model),CH,CH,nan,,1948.0,0.4,,,0.4
+Weinfelden (Mühle),CH,CH,nan,,1948.0,0.4,,,0.4
+Widen,CH,CH,nan,,1989.0,0.83,,,0.83
+Murkart,CH,CH,nan,,2008.0,0.34,,,0.34
+"Schlossmühle, Frauenfeld",CH,CH,nan,,2012.0,0.31,,,0.31
+Kollbrunn,CH,CH,nan,,2010.0,0.37,,,0.37
+Sennhof,CH,CH,nan,,2014.0,0.47,,,0.47
+Pfungen,CH,CH,nan,,1994.0,0.35,,,0.35
+Hard Wülflingen,CH,CH,nan,,2015.0,0.58,,,0.58
+Freienstein,CH,CH,nan,,2004.0,0.6,,,0.6
+Trümpler,CH,CH,nan,,2000.0,0.42,,,0.42
+Eglisau,CH,CH,nan,,2012.0,46.9,,,46.9
+Reckingen,CH,CH,nan,,2004.0,39.5,,,39.5
+Wunderklingen,CH,CH,nan,,1968.0,0.42,,,0.42
+Albbruck-Dogern,CH,CH,nan,,2009.0,28.4,,,28.4
+Laufenburg,CH,CH,nan,,1992.0,110.0,,,110.0
+Rheinkraftwerk Säckingen,CH,CH,nan,,1966.0,73.6,,,73.6
+Ryburg-Schwörstadt,CH,CH,nan,,1984.0,120.0,,,120.0
+Ryburg-Schwörstadt Lockstromz.,CH,CH,nan,,2014.0,0.35,,,0.35
+Rheinfelden,CH,CH,nan,,2010.0,100.0,,,100.0
+Rheinfelden-Dotierzentrale,CH,CH,nan,,2011.0,1.8,,,1.8
+Augst,CH,CH,nan,,1994.0,35.0,,,35.0
+Wyhlen,CH,CH,nan,,1994.0,38.5,,,38.5
+Birsfelden,CH,CH,nan,,1999.0,100.0,,,100.0
+Moutier,CH,CH,nan,,1979.0,0.92,,,0.92
+Choindez,CH,CH,nan,,2003.0,0.58,,,0.58
+Blanches-Fontaines Undervelier,CH,CH,nan,,2001.0,0.32,,,0.32
+Bassecourt,CH,CH,nan,,2001.0,1.03,,,1.03
+Bellerive,CH,CH,nan,,2002.0,0.52,,,0.52
+Juramill,CH,CH,nan,,1997.0,0.35,,,0.35
+Laufen (Wasserfall),CH,CH,nan,,1995.0,0.72,,,0.72
+"Zwingen, Obermatt",CH,CH,nan,,2005.0,0.38,,,0.38
+Nenzlingen,CH,CH,nan,,1997.0,0.34,,,0.34
+Moos,CH,CH,nan,,1999.0,0.98,,,0.98
+Büttenen 2,CH,CH,nan,,2000.0,0.5,,,0.5
+Büttenen 1,CH,CH,nan,,1999.0,0.55,,,0.55
+Dornachbrugg,CH,CH,nan,,1996.0,1.54,,,1.54
+Neuewelt,CH,CH,nan,,1998.0,1.07,,,1.07
+Am. de dotation du Kembs 1,CH,CH,nan,,1966.0,2.85,,,2.85
+Am. de dotation du Kembs 2,CH,CH,nan,,2016.0,8.4,,,8.4
+Kembs,CH,CH,nan,,1983.0,155.0,,,155.0
+Grimsel 2,CH,CH,nan,,1981.0,388.0,,,388.0
+KW Grimsel Nollen,CH,CH,nan,,2017.0,1.1,,,1.1
+Grimsel 1-Oberaarsee,CH,CH,nan,,2006.0,33.6,,,33.6
+Grimsel 1-Grimselsee,CH,CH,nan,,2007.0,32.2,,,32.2
+Handeck 1,CH,CH,nan,,1932.0,44.8,,,44.8
+Handeck 2,CH,CH,nan,,1958.0,215.6,,,215.6
+Handeck 3 - Isogyre,CH,CH,nan,,1976.0,55.1,,,55.1
+Kraftwerk Hostetbach AG,CH,CH,nan,,2016.0,1.29,,,1.29
+Innertkirchen 3,CH,CH,nan,,2016.0,2.95,,,2.95
+Innertkirchen 1,CH,CH,nan,,2007.0,393.5,,,393.5
+Gental,CH,CH,nan,,1961.0,9.6,,,9.6
+Gental,CH,CH,nan,,1961.0,0.0,,,0.0
+Hopflauenen-Trift,CH,CH,nan,,1974.0,81.6,,,81.6
+Hopflauenen-Leimboden,CH,CH,nan,,1967.0,5.4,,,5.4
+Innertkirchen 2,CH,CH,nan,,1974.0,54.8,,,54.8
+Meiringen 2,CH,CH,nan,,1950.0,1.65,,,1.65
+Meiringen 1,CH,CH,nan,,1946.0,1.0,,,1.0
+Schattenhalb 1+,CH,CH,nan,,2017.0,2.3,,,2.3
+Schattenhalb 3,CH,CH,nan,,2010.0,9.7,,,9.7
+Giessbach,CH,CH,nan,,2005.0,0.9,,,0.9
+Grindelwald,CH,CH,nan,,1960.0,1.4,,,1.4
+Burglauenen-Lütschental,CH,CH,nan,,2011.0,11.9,,,11.9
+Stechelberg,CH,CH,nan,,1979.0,4.3,,,4.3
+Saxettal-Geissbrunnen,CH,CH,nan,,1999.0,0.48,,,0.48
+Saxettal-Kammri,CH,CH,nan,,1998.0,0.8,,,0.8
+Interlaken,CH,CH,nan,,1932.0,0.82,,,0.82
+Interlaken,CH,CH,nan,,1996.0,0.3,,,0.3
+Kandersteg (Eggeschwand),CH,CH,nan,,2009.0,2.1,,,2.1
+Kandersteg (Zilfuri),CH,CH,nan,,1958.0,1.09,,,1.09
+Kandersteg (Dorf),CH,CH,nan,,2012.0,1.03,,,1.03
+Kandergrund,CH,CH,nan,,1991.0,19.0,,,19.0
+Engstligenalp,CH,CH,nan,,2011.0,0.6,,,0.6
+WKA Spiggenbach Reichenbach,CH,CH,nan,,2017.0,2.75,,,2.75
+Moosweid,CH,CH,nan,,2014.0,0.35,,,0.35
+Engstlige,CH,CH,nan,,1996.0,0.9,,,0.9
+Spiez,CH,CH,nan,,1986.0,18.66,,,18.66
+"Färmelbach, St. Stephan",CH,CH,nan,,2016.0,2.09,,,2.09
+KW Simelemoos,CH,CH,nan,,2016.0,0.35,,,0.35
+Laubegg (Garstatt),CH,CH,nan,,2016.0,2.6,,,2.6
+Berner Green Power GmbH,CH,CH,nan,,1999.0,0.37,,,0.37
+Klusi,CH,CH,nan,,1996.0,1.3,,,1.3
+Erlenbach,CH,CH,nan,,2005.0,18.0,,,18.0
+Simmenfluh,CH,CH,nan,,2000.0,9.0,,,9.0
+AAREwerk 62 Thun,CH,CH,nan,,1962.0,6.32,,,6.32
+AAREwerk 94 Thun,CH,CH,nan,,1994.0,2.83,,,2.83
+Thun (Eidg.),CH,CH,nan,,1937.0,0.44,,,0.44
+Blumenstein,CH,CH,nan,,1990.0,0.64,,,0.64
+Matte,CH,CH,nan,,1986.0,1.16,,,1.16
+Felsenau,CH,CH,nan,,1998.0,0.44,,,0.44
+Felsenau,CH,CH,nan,,1989.0,11.5,,,11.5
+Mühleberg,CH,CH,nan,,1965.0,44.59,,,44.59
+Sanetsch,CH,CH,nan,,1966.0,18.0,,,18.0
+Lauenen (Louibach),CH,CH,nan,,2014.0,0.9,,,0.9
+Gsteig,CH,CH,nan,,2015.0,0.72,,,0.72
+Gérignoz - La Pontia,CH,CH,nan,,1996.0,0.45,,,0.45
+Montbovon,CH,CH,nan,,1972.0,31.0,,,31.0
+Lessoc,CH,CH,nan,,1973.0,8.56,,,8.56
+Sainte - Anne,CH,CH,nan,,1999.0,2.9,,,2.9
+Jaun,CH,CH,nan,,1982.0,0.38,,,0.38
+Charmey (La Tzintre),CH,CH,nan,,2012.0,0.86,,,0.86
+Charmey (La Perré),CH,CH,nan,,1982.0,5.27,,,5.27
+Broc,CH,CH,nan,,1988.0,25.0,,,25.0
+Am.de dotation d'Hauterive 1,CH,CH,nan,,1976.0,0.7,,,0.7
+Am. de dotation d'Hauterive 2,CH,CH,nan,,2005.0,1.7,,,1.7
+Hauterive,CH,CH,nan,,1948.0,60.0,,,60.0
+Am.de dotation d'Oelberg,CH,CH,nan,,1952.0,0.58,,,0.58
+Oelberg,CH,CH,nan,,1980.0,18.3,,,18.3
+Schiffenen,CH,CH,nan,,1964.0,71.0,,,71.0
+Niederried,CH,CH,nan,,1992.0,15.0,,,15.0
+Aarberg,CH,CH,nan,,1994.0,15.2,,,15.2
+Kallnach,CH,CH,nan,,1980.0,8.3,,,8.3
+Hagneck 1,CH,CH,nan,,2016.0,2.91,,,2.91
+Hagneck 2,CH,CH,nan,,2015.0,20.96,,,20.96
+La Dernier,CH,CH,nan,,1988.0,28.0,,,28.0
+La Jougnenaz,CH,CH,nan,,1970.0,2.35,,,2.35
+Les Clées,CH,CH,nan,,1955.0,30.0,,,30.0
+Montcherand,CH,CH,nan,,1950.0,15.5,,,15.5
+Le Chalet,CH,CH,nan,,1988.0,2.6,,,2.6
+Moulinets sur l'Orbe,CH,CH,nan,,2013.0,0.77,,,0.77
+St.Sulpice,CH,CH,nan,,1988.0,3.9,,,3.9
+Le Furcil,CH,CH,nan,,1956.0,0.68,,,0.68
+Les Moyats,CH,CH,nan,,1940.0,1.6,,,1.6
+Combe-Garot,CH,CH,nan,,1961.0,4.86,,,4.86
+Usine du Chanet,CH,CH,nan,,1972.0,4.4,,,4.4
+Boudry (les Essert),CH,CH,nan,,2014.0,0.5,,,0.5
+La Serrière,CH,CH,nan,,2016.0,1.3,,,1.3
+Sous les Roches,CH,CH,nan,,2005.0,0.39,,,0.39
+Rondchâtel,CH,CH,nan,,2013.0,3.0,,,3.0
+Frinvillier,CH,CH,nan,,2005.0,0.35,,,0.35
+Taubenloch,CH,CH,nan,,2006.0,0.32,,,0.32
+Bözingen,CH,CH,nan,,2013.0,3.25,,,3.25
+Brügg,CH,CH,nan,,1995.0,5.2,,,5.2
+Wannenfluh,CH,CH,nan,,1999.0,0.42,,,0.42
+"Gohlhaus, Lützelflüh",CH,CH,nan,,2016.0,0.42,,,0.42
+Hagerhüsli,CH,CH,nan,,2002.0,0.5,,,0.5
+Bätterkinden,CH,CH,nan,,2002.0,0.4,,,0.4
+Utzenstorf,CH,CH,nan,,1949.0,0.38,,,0.38
+Gerlafingen 1,CH,CH,nan,,1995.0,0.5,,,0.5
+Biberist,CH,CH,nan,,1985.0,0.5,,,0.5
+Emmenhof,CH,CH,nan,,1986.0,0.33,,,0.33
+Untere Emmengasse,CH,CH,nan,,2001.0,0.86,,,0.86
+Luterbach,CH,CH,nan,,1988.0,0.32,,,0.32
+Flumenthal,CH,CH,nan,,2009.0,23.4,,,23.4
+Bannwil,CH,CH,nan,,2000.0,28.5,,,28.5
+Wynau I,CH,CH,nan,,1996.0,12.0,,,12.0
+Wynau II,CH,CH,nan,,1979.0,8.2,,,8.2
+Ruppoldingen,CH,CH,nan,,2000.0,23.0,,,23.0
+Aarburg,CH,CH,nan,,2006.0,0.42,,,0.42
+"Dünnern, Olten",CH,CH,nan,,2015.0,0.37,,,0.37
+Gösgen,CH,CH,nan,,2000.0,51.3,,,51.3
+Aarau Stadt,CH,CH,nan,,1964.0,16.93,,,16.93
+Rüchlig - HKW,CH,CH,nan,,2014.0,9.2,,,9.2
+Rüchlig-Dotierzentrale,CH,CH,nan,,2014.0,1.2,,,1.2
+Rupperswil-Auenstein,CH,CH,nan,,1993.0,40.0,,,40.0
+Rupperswil-Auenstein,CH,CH,nan,,2010.0,1.74,,,1.74
+Niederlenz,CH,CH,nan,,1943.0,0.4,,,0.4
+Wildegg-Brugg,CH,CH,nan,,1953.0,0.65,,,0.65
+Wildegg-Brugg,CH,CH,nan,,1997.0,51.25,,,51.25
+Beznau,CH,CH,nan,,2001.0,6.2,,,6.2
+Beznau,CH,CH,nan,,1927.0,19.5,,,19.5
+Klingnau,CH,CH,nan,,1935.0,42.6,,,42.6
+Hospental,CH,CH,nan,,1977.0,2.0,,,2.0
+Realp,CH,CH,nan,,2008.0,0.9,,,0.9
+Kraftwerk Realp II,CH,CH,nan,,2017.0,2.81,,,2.81
+Oberalp,CH,CH,nan,,2002.0,2.9,,,2.9
+Göschenen (Göscheneralp),CH,CH,nan,,1962.0,164.8,,,164.8
+Göschenen (Andermatt),CH,CH,nan,,1961.0,33.26,,,33.26
+Göschenen (Unterdorf),CH,CH,nan,,1969.0,1.62,,,1.62
+Wassen,CH,CH,nan,,1992.0,58.0,,,58.0
+Amsteg,CH,CH,nan,,1998.0,0.72,,,0.72
+Kraftwerk Gurtnellen,CH,CH,nan,,2017.0,10.0,,,10.0
+Stäubenwald,CH,CH,nan,,2007.0,0.31,,,0.31
+KW Gurtnellen,CH,CH,nan,,2018.0,2.3,,,2.3
+Kraftwerk Bristen,CH,CH,nan,,2016.0,4.3,,,4.3
+Amsteg,CH,CH,nan,,1998.0,120.0,,,120.0
+Amsteg,CH,CH,nan,,1998.0,1.73,,,1.73
+Arniberg,CH,CH,nan,,1969.0,13.0,,,13.0
+Bocki 2,CH,CH,nan,,1997.0,7.0,,,7.0
+Bocki 1,CH,CH,nan,,1997.0,1.7,,,1.7
+Äsch,CH,CH,nan,,1996.0,0.52,,,0.52
+Schächental,CH,CH,nan,,2005.0,2.2,,,2.2
+Bürglen (Unterschächen),CH,CH,nan,,1967.0,20.8,,,20.8
+Bürglen (Loreto),CH,CH,nan,,1967.0,1.5,,,1.5
+Bannwald,CH,CH,nan,,2002.0,0.3,,,0.3
+Kleintal (Isenthal),CH,CH,nan,,2009.0,1.18,,,1.18
+"Bolzbach, Seedorf Chuchib. Q.",CH,CH,nan,,2012.0,0.38,,,0.38
+Isenthal (Bolzbach),CH,CH,nan,,2009.0,12.0,,,12.0
+Ruosalp,CH,CH,nan,,1962.0,4.7,,,4.7
+Glattalp,CH,CH,nan,,1970.0,9.3,,,9.3
+Bisisthal,CH,CH,nan,,1962.0,15.8,,,15.8
+Muota,CH,CH,nan,,1960.0,8.8,,,8.8
+Hüribach,CH,CH,nan,,1960.0,4.7,,,4.7
+Wernisberg,CH,CH,nan,,1966.0,20.4,,,20.4
+Ibach,CH,CH,nan,,2004.0,0.32,,,0.32
+Kleinwasserkraftwerk Steineraa,CH,CH,nan,,2016.0,2.2,,,2.2
+Sustli,CH,CH,nan,,1998.0,1.63,,,1.63
+Tagenstal,CH,CH,nan,,1941.0,1.27,,,1.27
+Trüebsee,CH,CH,nan,,1967.0,8.5,,,8.5
+"Arni, Engelberg",CH,CH,nan,,1966.0,3.07,,,3.07
+Obermatt,CH,CH,nan,,1963.0,31.95,,,31.95
+Obermatt (Nebenkraftwerk),CH,CH,nan,,1963.0,1.97,,,1.97
+Dallenwil,CH,CH,nan,,1987.0,17.75,,,17.75
+Buoholzbach Wolfenschiessen,CH,CH,nan,,2013.0,2.0,,,2.0
+Bannalp,CH,CH,nan,,1991.0,8.7,,,8.7
+Wolfenschiessen,CH,CH,nan,,1983.0,6.6,,,6.6
+Schild,CH,CH,nan,,2003.0,1.2,,,1.2
+Unteraa - Melchaa,CH,CH,nan,,2013.0,12.0,,,12.0
+Unteraa - Lungerersee,CH,CH,nan,,1994.0,54.0,,,54.0
+"Obflue, Sachseln",CH,CH,nan,,2005.0,0.3,,,0.3
+Melchsee-Frutt,CH,CH,nan,,1960.0,14.0,,,14.0
+Wisserlen,CH,CH,nan,,1997.0,1.15,,,1.15
+Eichi,CH,CH,nan,,1957.0,2.4,,,2.4
+Rotzloch,CH,CH,nan,,1935.0,0.3,,,0.3
+Mühlenplatz,CH,CH,nan,,1998.0,0.93,,,0.93
+Wolhusen (Geistlich),CH,CH,nan,,2003.0,0.33,,,0.33
+Malters-Ettisbühl,CH,CH,nan,,2011.0,0.87,,,0.87
+Stollen,CH,CH,nan,,1999.0,0.71,,,0.71
+Thorenberg,CH,CH,nan,,2000.0,0.79,,,0.79
+Emmenweid,CH,CH,nan,,2003.0,1.08,,,1.08
+Rathausen,CH,CH,nan,,1980.0,2.1,,,2.1
+Perlen 1 (WTA HF),CH,CH,nan,,1981.0,1.0,,,1.0
+Perlen 2 (WTA PF),CH,CH,nan,,2000.0,1.15,,,1.15
+Innere Spinnerei,CH,CH,nan,,1981.0,0.45,,,0.45
+"WKW Neuägeri, Gmde Menzingen",CH,CH,nan,,2015.0,0.34,,,0.34
+Lorzentobel 2,CH,CH,nan,,1943.0,1.9,,,1.9
+Lorzentobel 1,CH,CH,nan,,2005.0,1.67,,,1.67
+Lorzentobel 3,CH,CH,nan,,2005.0,2.17,,,2.17
+Untermühle,CH,CH,nan,,2010.0,0.6,,,0.6
+Hagendorn,CH,CH,nan,,2010.0,0.58,,,0.58
+Bremgarten-Zufikon,CH,CH,nan,,1975.0,20.0,,,20.0
+Bruggmühle,CH,CH,nan,,1998.0,0.54,,,0.54
+Windisch,CH,CH,nan,,2016.0,2.09,,,2.09
+Limmern,CH,CH,nan,,2016.0,1000.0,,,1000.0
+Tierfehd (Limmern),CH,CH,nan,,1964.0,306.0,,,306.0
+Tierfehd (Umwälzwerk),CH,CH,nan,,2010.0,137.9,,,137.9
+Tierfehd (Hintersand),CH,CH,nan,,1968.0,46.0,,,46.0
+Linthal,CH,CH,nan,,1964.0,34.0,,,34.0
+Fätschbach,CH,CH,nan,,1950.0,15.0,,,15.0
+Linthkraft (Stiftung),CH,CH,nan,,2004.0,0.5,,,0.5
+Linthwerk,CH,CH,nan,,2012.0,1.6,,,1.6
+"Brummbach, Linthal",CH,CH,nan,,2010.0,3.9,,,3.9
+"Brummbach, Braunwald",CH,CH,nan,,2014.0,0.93,,,0.93
+Kraftwerk Cotlan,CH,CH,nan,,2017.0,2.53,,,2.53
+Diesbach (Linth),CH,CH,nan,,1997.0,0.93,,,0.93
+Hefti,CH,CH,nan,,2007.0,1.05,,,1.05
+Luchsingen,CH,CH,nan,,1976.0,3.5,,,3.5
+Leuggelbach,CH,CH,nan,,1993.0,1.0,,,1.0
+Haslen,CH,CH,nan,,2012.0,0.92,,,0.92
+Schwanden (F.Blumer),CH,CH,nan,,1999.0,0.9,,,0.9
+Empächli,CH,CH,nan,,1995.0,0.33,,,0.33
+Krauchbachwerk,CH,CH,nan,,1999.0,0.64,,,0.64
+"Engi, Hinterdorf (Sernf)",CH,CH,nan,,2012.0,0.53,,,0.53
+Engi,CH,CH,nan,,2009.0,3.75,,,3.75
+Kraftwerk Mühlebach AG,CH,CH,nan,,2018.0,0.53,,,0.53
+Sernf,CH,CH,nan,,2003.0,15.7,,,15.7
+Niederenbach,CH,CH,nan,,2004.0,28.2,,,28.2
+Schwanden (Gemeinde),CH,CH,nan,,2005.0,1.8,,,1.8
+Schwanden (SNE),CH,CH,nan,,2000.0,0.5,,,0.5
+Mitlödi (Seidendruckerei),CH,CH,nan,,2016.0,0.85,,,0.85
+Mühlefuhr,CH,CH,nan,,2010.0,0.82,,,0.82
+Holenstein Wehrkraftw. Glarus,CH,CH,nan,,2016.0,0.55,,,0.55
+Walzmühle 2,CH,CH,nan,,2011.0,0.32,,,0.32
+"Elggiskraft, Netstal",CH,CH,nan,,1983.0,0.8,,,0.8
+Am Löntsch,CH,CH,nan,,1975.0,89.1,,,89.1
+"Linthkraft, Netstal",CH,CH,nan,,1960.0,1.42,,,1.42
+Mels (Tobel),CH,CH,nan,,1995.0,0.99,,,0.99
+Mels (KW Stoffel),CH,CH,nan,,1989.0,3.3,,,3.3
+Mels (Halde),CH,CH,nan,,2003.0,0.55,,,0.55
+KW Weissenstein,CH,CH,nan,,2018.0,0.64,,,0.64
+Kraftwerk Mädems-Parmort,CH,CH,nan,,2018.0,1.76,,,1.76
+Flums (Pravizin 1 (Bruggwiti)),CH,CH,nan,,1988.0,5.07,,,5.07
+Flums (Pravizin 2 (Äuli)),CH,CH,nan,,1943.0,0.7,,,0.7
+"Röllbach, Flums",CH,CH,nan,,1963.0,0.34,,,0.34
+Flums (Felsen),CH,CH,nan,,1993.0,1.48,,,1.48
+Flums (Neues Sägengüetli),CH,CH,nan,,1974.0,1.19,,,1.19
+Töbeli,CH,CH,nan,,1992.0,0.6,,,0.6
+Talbach,CH,CH,nan,,1954.0,0.75,,,0.75
+Oberterzen,CH,CH,nan,,1927.0,1.16,,,1.16
+Murg (Plätz),CH,CH,nan,,2003.0,6.5,,,6.5
+Murg (Gödis),CH,CH,nan,,1990.0,2.8,,,2.8
+Murg (Säge),CH,CH,nan,,1990.0,2.32,,,2.32
+Muslen,CH,CH,nan,,1982.0,1.63,,,1.63
+Rütiberg (Obersee),CH,CH,nan,,2007.0,0.89,,,0.89
+Rütiberg (Brändbach),CH,CH,nan,,1977.0,0.85,,,0.85
+Risi,CH,CH,nan,,2011.0,4.5,,,4.5
+Niederurnen,CH,CH,nan,,1980.0,2.22,,,2.22
+Ziegelbrücke,CH,CH,nan,,2011.0,0.58,,,0.58
+"Uznaberg, Uznach",CH,CH,nan,,2015.0,0.51,,,0.51
+Wägital (Rempen),CH,CH,nan,,2012.0,66.24,,,66.24
+Wägital (Siebnen),CH,CH,nan,,1984.0,51.52,,,51.52
+"Spreitenbach, Galgenen Kistler",CH,CH,nan,,1985.0,0.3,,,0.3
+Pilgersteg,CH,CH,nan,,2013.0,0.56,,,0.56
+Etzelwerk,CH,CH,nan,,1992.0,135.0,,,135.0
+Bäch,CH,CH,nan,,1957.0,0.3,,,0.3
+Feusisberg,CH,CH,nan,,1989.0,0.87,,,0.87
+Sihl-Höfe,CH,CH,nan,,1961.0,1.45,,,1.45
+Waldhalde,CH,CH,nan,,1967.0,2.8,,,2.8
+Letten,CH,CH,nan,,2004.0,5.0,,,5.0
+Höngg,CH,CH,nan,,1988.0,1.4,,,1.4
+Wettingen-Dotieranlage,CH,CH,nan,,2007.0,2.1,,,2.1
+Wettingen,CH,CH,nan,,1964.0,25.35,,,25.35
+Aue-Dotierzentrale,CH,CH,nan,,2013.0,0.5,,,0.5
+Aue,CH,CH,nan,,2014.0,5.2,,,5.2
+Kappelerhof,CH,CH,nan,,2006.0,7.0,,,7.0
+Schiffmühle - Dotierzentrale,CH,CH,nan,,2013.0,0.38,,,0.38
+Schiffmühle,CH,CH,nan,,2013.0,3.3,,,3.3
+Turgi,CH,CH,nan,,1986.0,1.0,,,1.0
+BAG Turgi,CH,CH,nan,,2000.0,0.9,,,0.9
+"Stroppel, Untersiggenthal",CH,CH,nan,,2010.0,0.8,,,0.8
+"Rufi, Hätzingen",CH,CH,nan,,2016.0,1.06,,,1.06
+Aegina,CH,CH,nan,,1967.0,9.67,,,9.67
+Gletsch-Oberwald,CH,CH,nan,,2018.0,15.11,,,15.11
+KW Ulrichen,CH,CH,nan,,2014.0,2.35,,,2.35
+Merezenbach,CH,CH,nan,,1959.0,1.99,,,1.99
+Kraftwerk Niderbach,CH,CH,nan,,2016.0,0.86,,,0.86
+Blinne,CH,CH,nan,,2012.0,2.13,,,2.13
+Kraftwerk Walibach,CH,CH,nan,,2013.0,3.64,,,3.64
+Rappental,CH,CH,nan,,2003.0,1.2,,,1.2
+Neubrigg,CH,CH,nan,,2003.0,26.0,,,26.0
+Fieschertal,CH,CH,nan,,1999.0,64.0,,,64.0
+Fiesch,CH,CH,nan,,2012.0,3.1,,,3.1
+Ernen,CH,CH,nan,,1954.0,33.0,,,33.0
+Saflisch,CH,CH,nan,,2005.0,1.25,,,1.25
+Heiligkreuz,CH,CH,nan,,1989.0,41.0,,,41.0
+Aletsch,CH,CH,nan,,1965.0,35.3,,,35.3
+Mörel,CH,CH,nan,,1943.0,54.9,,,54.9
+Massaboden,CH,CH,nan,,1959.0,7.2,,,7.2
+Bitsch,CH,CH,nan,,1980.0,340.0,,,340.0
+Wässerwasserkraftwerk Mund,CH,CH,nan,,2015.0,1.44,,,1.44
+Bortel-Oberstufe,CH,CH,nan,,1990.0,2.35,,,2.35
+TWKW Nessel u. Mittubäch,CH,CH,nan,,2015.0,0.55,,,0.55
+Bortel-Mittelstufe,CH,CH,nan,,1990.0,5.01,,,5.01
+Ganterbach-Saltina,CH,CH,nan,,1980.0,6.1,,,6.1
+Wässerwasserkraftwerk Mund,CH,CH,nan,,2015.0,1.44,,,1.44
+Chräjubiel Ried-Brig,CH,CH,nan,,2016.0,0.3,,,0.3
+Rosswald-Gärsterna,CH,CH,nan,,1995.0,0.45,,,0.45
+Zermeiggern,CH,CH,nan,,1966.0,74.0,,,74.0
+Zermeiggern,CH,CH,nan,,1987.0,0.0,,,0.0
+Saas-Fee,CH,CH,nan,,1960.0,1.55,,,1.55
+Stalden,CH,CH,nan,,1965.0,185.0,,,185.0
+Mossjesee Kraftwerk,CH,CH,nan,,2015.0,0.43,,,0.43
+Mutt,CH,CH,nan,,2002.0,11.3,,,11.3
+Wiesti,CH,CH,nan,,1990.0,3.4,,,3.4
+Täschbach,CH,CH,nan,,1992.0,1.65,,,1.65
+KW Jungbach,CH,CH,nan,,2015.0,4.7,,,4.7
+"KW Siwibach (Eisten, VS)",CH,CH,nan,,2014.0,1.0,,,1.0
+Törbel (Gappil),CH,CH,nan,,2010.0,0.49,,,0.49
+Ackersand 1,CH,CH,nan,,1999.0,29.2,,,29.2
+Ackersand 2,CH,CH,nan,,1959.0,64.4,,,64.4
+Kraftwerk Heidadorf,CH,CH,nan,,2018.0,3.0,,,3.0
+Kraftwerk Heidadorf,CH,CH,nan,,2018.0,2.32,,,2.32
+Baltschieder,CH,CH,nan,,1994.0,0.33,,,0.33
+Kalter Brunnen,CH,CH,nan,,2000.0,0.5,,,0.5
+Ginals,CH,CH,nan,,2010.0,1.3,,,1.3
+KWKW Bachtoli,CH,CH,nan,,2014.0,0.98,,,0.98
+Unterbäch,CH,CH,nan,,1995.0,0.85,,,0.85
+Turtig,CH,CH,nan,,2007.0,1.06,,,1.06
+Chriz,CH,CH,nan,,2011.0,0.55,,,0.55
+Niedergesteln,CH,CH,nan,,2008.0,0.33,,,0.33
+Niedergesteln,CH,CH,nan,,2008.0,0.58,,,0.58
+Fafleralp,CH,CH,nan,,2012.0,1.25,,,1.25
+Blatten,CH,CH,nan,,1994.0,0.45,,,0.45
+Wiler,CH,CH,nan,,2010.0,1.4,,,1.4
+KWKW Dornbach,CH,CH,nan,,2013.0,0.99,,,0.99
+Lötschen,CH,CH,nan,,2008.0,122.0,,,122.0
+Oberems (Borterbach),CH,CH,nan,,2009.0,0.75,,,0.75
+Illsee,CH,CH,nan,,1942.0,8.2,,,8.2
+Illsee,CH,CH,nan,,1955.0,0.0,,,0.0
+Turtmann,CH,CH,nan,,1954.0,23.9,,,23.9
+Dala,CH,CH,nan,,2014.0,13.0,,,13.0
+Chippis-Rhône,CH,CH,nan,,1998.0,47.84,,,47.84
+Lona,CH,CH,nan,,1961.0,1.05,,,1.05
+Mottec,CH,CH,nan,,1958.0,71.0,,,71.0
+Vissoie,CH,CH,nan,,1958.0,50.0,,,50.0
+"Vissoie ""groupe auxiliaire""",CH,CH,nan,,1958.0,0.68,,,0.68
+Navisence,CH,CH,nan,,2014.0,52.0,,,52.0
+Croix,CH,CH,nan,,1999.0,66.0,,,66.0
+Chamarin,CH,CH,nan,,1957.0,1.9,,,1.9
+Centrale de turb. lac d'Icogne,CH,CH,nan,,2012.0,2.0,,,2.0
+St-Léonard,CH,CH,nan,,1998.0,36.0,,,36.0
+Beulet,CH,CH,nan,,1990.0,0.72,,,0.72
+Sauterot (Hérémence LYSA),CH,CH,nan,,1977.0,5.1,,,5.1
+Sauterôt (Hérémence FMdB),CH,CH,nan,,2012.0,0.6,,,0.6
+Bramois (Groupes 1 à 4),CH,CH,nan,,1915.0,25.2,,,25.2
+Bramois (Groupe 7),CH,CH,nan,,1953.0,0.43,,,0.43
+La Dixence,CH,CH,nan,,1950.0,0.0,,,0.0
+La Zour,CH,CH,nan,,2004.0,0.46,,,0.46
+Arbaz I  STEP (Comba Energies),CH,CH,nan,,2010.0,0.59,,,0.59
+Arbaz II (Sionne Energie),CH,CH,nan,,2015.0,0.58,,,0.58
+Rochers,CH,CH,nan,,2001.0,0.33,,,0.33
+"Reserv. de Péteille, Vétroz",CH,CH,nan,,2015.0,0.73,,,0.73
+Ardon,CH,CH,nan,,1996.0,52.0,,,52.0
+Balavaud,CH,CH,nan,,1971.0,0.48,,,0.48
+Grande Dixence,CH,CH,nan,,1961.0,0.0,,,0.0
+Grande Dixence,CH,CH,nan,,1965.0,0.0,,,0.0
+Grande Dixence,CH,CH,nan,,1964.0,0.0,,,0.0
+Grande Dixence,CH,CH,nan,,1963.0,0.0,,,0.0
+Cleuson-Dixence,CH,CH,nan,,1999.0,1285.0,,,1285.0
+Grande Dixence,CH,CH,nan,,1957.0,306.0,,,306.0
+Grande Dixence,CH,CH,nan,,1960.0,392.0,,,392.0
+"2ème Palier Isérables, Riddes",CH,CH,nan,,2016.0,0.65,,,0.65
+1er Palier Isérables c. Arcay,CH,CH,nan,,2013.0,0.35,,,0.35
+"Les Pontets, Com. de Riddes",CH,CH,nan,,2014.0,0.45,,,0.45
+Riddes (l'eau potable),CH,CH,nan,,2009.0,0.31,,,0.31
+Chanrion,CH,CH,nan,,1964.0,30.0,,,30.0
+Fionnay (Mauvoisin),CH,CH,nan,,1992.0,140.0,,,140.0
+Riddes,CH,CH,nan,,1992.0,258.0,,,258.0
+Turbinage Jora - Afforêts,CH,CH,nan,,2013.0,0.47,,,0.47
+Fully les Verdan,CH,CH,nan,,2017.0,2.13,,,2.13
+Fully Les Garettes,CH,CH,nan,,2017.0,0.87,,,0.87
+Champsec,CH,CH,nan,,1994.0,8.7,,,8.7
+STEP Vallée Bagnes,CH,CH,nan,,2007.0,0.4,,,0.4
+Eaux des torrent de Verbier,CH,CH,nan,,2017.0,2.3,,,2.3
+Pas-du-Lein,CH,CH,nan,,1998.0,0.47,,,0.47
+Vollèges-Cries,CH,CH,nan,,2009.0,0.9,,,0.9
+Hospitalet,CH,CH,nan,,1963.0,1.47,,,1.47
+"La Delise, Bourg-Saint-Pierre",CH,CH,nan,,2016.0,2.0,,,2.0
+Pallazuit,CH,CH,nan,,1958.0,33.4,,,33.4
+Niollet 1,CH,CH,nan,,2004.0,0.32,,,0.32
+Niollet 2,CH,CH,nan,,1996.0,1.2,,,1.2
+Orsières,CH,CH,nan,,1958.0,26.4,,,26.4
+Orsières,CH,CH,nan,,1943.0,0.0,,,0.0
+Sembrancher,CH,CH,nan,,1929.0,11.0,,,11.0
+Martigny-Bourg,CH,CH,nan,,1945.0,22.0,,,22.0
+Pont-Neuf,CH,CH,nan,,1981.0,0.93,,,0.93
+Trient,CH,CH,nan,,1995.0,1.0,,,1.0
+Châtelard-Barberine,CH,CH,nan,,1977.0,112.0,,,112.0
+Emosson,CH,CH,nan,,1978.0,260.5,,,260.5
+Emosson,CH,CH,nan,,1978.0,0.0,,,0.0
+Emosson,CH,CH,nan,,1978.0,0.0,,,0.0
+Vernayaz (CFF),CH,CH,nan,,1990.0,92.0,,,92.0
+Turbinage Salvan et Vernayaz,CH,CH,nan,,2013.0,0.46,,,0.46
+Emosson,CH,CH,nan,,1978.0,170.0,,,170.0
+Vernayaz (Pissevache),CH,CH,nan,,2016.0,1.7,,,1.7
+Salanfe,CH,CH,nan,,2012.0,70.0,,,70.0
+Salanfe,CH,CH,nan,,1965.0,0.0,,,0.0
+Salanfe,CH,CH,nan,,1963.0,0.0,,,0.0
+Aboyeu,CH,CH,nan,,1981.0,3.3,,,3.3
+La Rasse,CH,CH,nan,,1998.0,0.72,,,0.72
+Lavey,CH,CH,nan,,1990.0,90.0,,,90.0
+La Peuffeyre,CH,CH,nan,,2004.0,24.0,,,24.0
+Sublin 1,CH,CH,nan,,1993.0,8.0,,,8.0
+Sublin 2,CH,CH,nan,,2013.0,2.61,,,2.61
+Bevieux,CH,CH,nan,,1943.0,1.9,,,1.9
+Champéry Etrivouez,CH,CH,nan,,1990.0,0.97,,,0.97
+Torrent de Soi,CH,CH,nan,,2005.0,0.92,,,0.92
+Monthey (Vièze),CH,CH,nan,,1999.0,13.6,,,13.6
+Monthey (Tine),CH,CH,nan,,1994.0,9.8,,,9.8
+Monthey (Commune),CH,CH,nan,,1992.0,0.4,,,0.4
+Châble II,CH,CH,nan,,2014.0,0.42,,,0.42
+Diablerets,CH,CH,nan,,1957.0,5.4,,,5.4
+Pont de la Tine,CH,CH,nan,,1991.0,10.6,,,10.6
+Pont de la Tine  Coussy-Loudze,CH,CH,nan,,2013.0,0.39,,,0.39
+"La Douve, Aigle",CH,CH,nan,,2000.0,0.46,,,0.46
+Les Farettes,CH,CH,nan,,1967.0,20.3,,,20.3
+Micro-centrale de Fontanney,CH,CH,nan,,1997.0,0.33,,,0.33
+Eaux du torrent du Fossau,CH,CH,nan,,2018.0,2.3,,,2.3
+"Croseau, Saint-Gingolph",CH,CH,nan,,2009.0,0.35,,,0.35
+Hongrin-Léman,CH,CH,nan,,2016.0,420.0,,,420.0
+Sonzier,CH,CH,nan,,1971.0,1.65,,,1.65
+Taulan,CH,CH,nan,,1996.0,1.2,,,1.2
+Rivaz (Le Forestay),CH,CH,nan,,2014.0,0.73,,,0.73
+Plan-Dessous,CH,CH,nan,,2001.0,10.7,,,10.7
+La Petite Vaux,CH,CH,nan,,2008.0,3.31,,,3.31
+Seujet,CH,CH,nan,,1994.0,8.7,,,8.7
+Vessy,CH,CH,nan,,2007.0,0.32,,,0.32
+Verbois,CH,CH,nan,,1999.0,102.8,,,102.8
+Chancy-Pougny,CH,CH,nan,,2013.0,54.0,,,54.0
+Chancy-Pougny Dot. passe pois.,CH,CH,nan,,2013.0,0.48,,,0.48
+La Rançonnière,CH,CH,nan,,1984.0,1.6,,,1.6
+Am. de dotation du Châtelot,CH,CH,nan,,2005.0,1.0,,,1.0
+Le Châtelot,CH,CH,nan,,1953.0,31.6,,,31.6
+Refrain,CH,CH,nan,,1956.0,12.0,,,12.0
+La Goule,CH,CH,nan,,1958.0,5.6,,,5.6
+Ossasco,CH,CH,nan,,2012.0,1.27,,,1.27
+Sella,CH,CH,nan,,1991.0,1.93,,,1.93
+Lucendro,CH,CH,nan,,1947.0,60.0,,,60.0
+Lucendro,CH,CH,nan,,1947.0,0.0,,,0.0
+Calcaccia,CH,CH,nan,,1988.0,3.6,,,3.6
+Ritom,CH,CH,nan,,1958.0,44.0,,,44.0
+Stalvedro (AET),CH,CH,nan,,1968.0,14.0,,,14.0
+Tremorgio,CH,CH,nan,,1925.0,10.0,,,10.0
+Ri di Foch 2 Prato (Leventina),CH,CH,nan,,2008.0,0.31,,,0.31
+Ceresa 1,CH,CH,nan,,1950.0,2.0,,,2.0
+"Piumogna, Dalpe",CH,CH,nan,,2000.0,1.0,,,1.0
+Piottino,CH,CH,nan,,1958.0,72.9,,,72.9
+Ticinetto,CH,CH,nan,,1998.0,2.9,,,2.9
+Nuova Biaschina,CH,CH,nan,,1974.0,141.0,,,141.0
+Luzzone,CH,CH,nan,,1963.0,20.0,,,20.0
+Olivone,CH,CH,nan,,1962.0,102.0,,,102.0
+Biasca,CH,CH,nan,,2007.0,324.0,,,324.0
+Spina (Isola),CH,CH,nan,,1962.0,20.9,,,20.9
+Spina (Valbella),CH,CH,nan,,1963.0,4.2,,,4.2
+Mesocco (Nan Ros),CH,CH,nan,,2010.0,0.35,,,0.35
+Soazza,CH,CH,nan,,1961.0,83.0,,,83.0
+Lostallo,CH,CH,nan,,1958.0,25.0,,,25.0
+Tecnicama,CH,CH,nan,,1987.0,0.3,,,0.3
+Grono,CH,CH,nan,,1965.0,37.5,,,37.5
+Calancasca,CH,CH,nan,,1951.0,20.8,,,20.8
+Morobbia,CH,CH,nan,,1970.0,15.5,,,15.5
+Verzasca (Gordola),CH,CH,nan,,1965.0,132.5,,,132.5
+Verzasca (Tenero),CH,CH,nan,,1972.0,4.25,,,4.25
+Sambuco-Peccia,CH,CH,nan,,1955.0,54.0,,,54.0
+Corgello-Peccia,CH,CH,nan,,1991.0,0.98,,,0.98
+Robiei,CH,CH,nan,,2016.0,192.0,,,192.0
+Bavona,CH,CH,nan,,1966.0,140.0,,,140.0
+Kraftwerk Tomè,CH,CH,nan,,2016.0,2.12,,,2.12
+Cavergno,CH,CH,nan,,1955.0,114.0,,,114.0
+Verbano 1,CH,CH,nan,,1953.0,119.0,,,119.0
+Verbano 2,CH,CH,nan,,1973.0,62.0,,,62.0
+Cerentino,CH,CH,nan,,2004.0,1.38,,,1.38
+Giumaglio,CH,CH,nan,,1967.0,8.94,,,8.94
+Galleria Cavergno-Palagnedra,CH,CH,nan,,2018.0,2.85,,,2.85
+Ponte Brolla,CH,CH,nan,,1958.0,3.1,,,3.1
+Cassarate - Franscinone,CH,CH,nan,,1991.0,5.0,,,5.0
+Sigirino (Monteceneri),CH,CH,nan,,2015.0,0.84,,,0.84
+Valmara,CH,CH,nan,,1999.0,0.95,,,0.95
+Gabi,CH,CH,nan,,1986.0,11.33,,,11.33
+Gondo,CH,CH,nan,,2017.0,61.0,,,61.0
+Tannuwald,CH,CH,nan,,1979.0,5.2,,,5.2
+Palü,CH,CH,nan,,2004.0,9.5,,,9.5
+Palü,CH,CH,nan,,1923.0,0.0,,,0.0
+Cavaglia,CH,CH,nan,,2016.0,7.0,,,7.0
+Robbia,CH,CH,nan,,2005.0,27.0,,,27.0
+Pedecosta,CH,CH,nan,,2010.0,0.51,,,0.51
+Campocologno 1,CH,CH,nan,,2003.0,50.0,,,50.0
+Campocologno 2,CH,CH,nan,,1950.0,1.62,,,1.62
+Lizun,CH,CH,nan,,1961.0,6.6,,,6.6
+Albignawerk Löbbia,CH,CH,nan,,2004.0,86.0,,,86.0
+Plancanin,CH,CH,nan,,1991.0,0.5,,,0.5
+Fornowerk Löbbia,CH,CH,nan,,1960.0,9.0,,,9.0
+Albignawerk Löbbia,CH,CH,nan,,1967.0,0.0,,,0.0
+Albignawerk Löbbia,CH,CH,nan,,1963.0,0.0,,,0.0
+Molino,CH,CH,nan,,2017.0,0.51,,,0.51
+Castasegna,CH,CH,nan,,1980.0,100.0,,,100.0
+Silvaplana,CH,CH,nan,,1973.0,1.47,,,1.47
+Pradella - Dotierzentrale,CH,CH,nan,,2014.0,0.96,,,0.96
+Islas,CH,CH,nan,,2007.0,4.4,,,4.4
+"Roseg, Samedan",CH,CH,nan,,2003.0,0.31,,,0.31
+Morteratsch,CH,CH,nan,,2016.0,1.6,,,1.6
+Champagna 1,CH,CH,nan,,1992.0,0.36,,,0.36
+Madulain,CH,CH,nan,,1980.0,1.56,,,1.56
+Susasca,CH,CH,nan,,2015.0,5.86,,,5.86
+Ouvra Electrica Lavinuoz Lavin,CH,CH,nan,,2014.0,3.07,,,3.07
+Guarda (Ara),CH,CH,nan,,1998.0,0.35,,,0.35
+Tasnan,CH,CH,nan,,2014.0,6.6,,,6.6
+Tarasp (Ischla),CH,CH,nan,,2010.0,0.92,,,0.92
+Clemgia,CH,CH,nan,,2001.0,1.9,,,1.9
+Chasura,CH,CH,nan,,1994.0,0.3,,,0.3
+"Alp Trida-Laret, Samnaun",CH,CH,nan,,2017.0,0.46,,,0.46
+Schergenbach,CH,CH,nan,,1970.0,0.96,,,0.96
+Punt dal Gall-Dotieranlage,CH,CH,nan,,1969.0,2.8,,,2.8
+Ova Spin,CH,CH,nan,,1970.0,54.0,,,54.0
+Ova Spin-Dotieranlage,CH,CH,nan,,1969.0,0.47,,,0.47
+Pradella,CH,CH,nan,,1970.0,300.0,,,300.0
+Pradella-Martina,CH,CH,nan,,1994.0,84.0,,,84.0
+Muranzina,CH,CH,nan,,1995.0,2.0,,,2.0
+Chasseras,CH,CH,nan,,1991.0,1.07,,,1.07
+Mühleberg,CH,CH,nan,,1972.0,390.0,,,390.0
+Gösgen,CH,CH,nan,,1979.0,1035.0,,,1035.0
+Beznau 1,CH,CH,nan,,1969.0,380.0,,,380.0
+Beznau 2,CH,CH,nan,,1971.0,380.0,,,380.0
+Leibstadt,CH,CH,nan,,1984.0,1245.0,,,1245.0
+Aall-Ulefoss,NO,NO_2,nan,,1948.0,5.7,,,5.7
+Aaning,NO,NO_2,nan,,1999.0,0.016,,,0.016
+Aarskog,NO,NO_2,nan,,1996.0,0.83,,,0.83
+Aas,NO,NO_2,nan,,1908.0,1.0,,,1.0
+Adamselv,NO,NO_2,nan,,1973.0,50.0,,,50.0
+Adamselv II,NO,NO_2,nan,,2007.0,0.4,,,0.4
+Aga,NO,NO_2,nan,,2007.0,0.05,,,0.05
+Aklestad,NO,NO_2,nan,,2008.0,0.0115,,,0.0115
+Akslandselva,NO,NO_2,nan,,2013.0,1.7,,,1.7
+Alnes Vannbehandlingsanlegg,NO,NO_2,nan,,1997.0,0.06,,,0.06
+Alsaker,NO,NO_2,nan,,2009.0,1.2,,,1.2
+Alta,NO,NO_2,nan,,1987.0,150.0,,,150.0
+Andåsfossen,NO,NO_2,nan,,2001.0,2.0,,,2.0
+Anga,NO,NO_2,nan,,2019.0,7.8,,,7.8
+Angvik,NO,NO_2,nan,,1990.0,1.1,,,1.1
+Ardalen,NO,NO_2,nan,,1954.0,2.5,,,2.5
+Arna,NO,NO_2,nan,,1934.0,2.2,,,2.2
+Arneselv,NO,NO_2,nan,,2004.0,2.4,,,2.4
+Arstadfossen,NO,NO_2,nan,,2003.0,1.0,,,1.0
+Ask Kraft,NO,NO_2,nan,,2007.0,0.195,,,0.195
+Askerudfoss,NO,NO_2,nan,,1946.0,13.2,,,13.2
+Aspenes,NO,NO_2,nan,,2005.0,0.055,,,0.055
+Aunbekken,NO,NO_2,nan,,2002.0,0.018,,,0.018
+Aunfoss,NO,NO_2,nan,,1959.0,29.54,,,29.54
+Aura,NO,NO_2,nan,,1955.0,290.0,,,290.0
+Aurdal,NO,NO_2,nan,,2002.0,0.02,,,0.02
+Aurland I,NO,NO_2,nan,,1973.0,840.0,,,840.0
+Aurland II H,NO,NO_2,nan,,1983.0,70.0,,,70.0
+Aurland II L,NO,NO_2,nan,,1982.0,60.0,,,60.0
+Aurland III,NO,NO_2,nan,,1979.0,270.0,,,270.0
+Aurland IV (Vangen),NO,NO_2,nan,,1980.0,38.0,,,38.0
+Aurland V (Reppa),NO,NO_2,nan,,1984.0,9.0,,,9.0
+Austdøla,NO,NO_2,nan,,2004.0,1.3,,,1.3
+Austvass,NO,NO_2,nan,,2002.0,0.12,,,0.12
+Baggfossen,NO,NO_2,nan,,2015.0,0.132,,,0.132
+Bagn,NO,NO_2,nan,,1963.0,75.5,,,75.5
+Bakkeelva,NO,NO_2,nan,,2019.0,2.5,,,2.5
+Bakkefossen,NO,NO_2,nan,,1994.0,0.0738,,,0.0738
+Bardufoss,NO,NO_2,nan,,1953.0,41.5,,,41.5
+Bedafors,NO,NO_2,nan,,1985.0,1.0,,,1.0
+Befring,NO,NO_2,nan,,2003.0,4.5,,,4.5
+Begna,NO,NO_2,nan,,1954.0,5.6,,,5.6
+Bele,NO,NO_2,nan,,2013.0,2.9,,,2.9
+Bele mikrokraftverk,NO,NO_2,nan,,2007.0,0.082,,,0.082
+Bentsjord,NO,NO_2,nan,,2012.0,2.66,,,2.66
+Berdal,NO,NO_2,nan,,1996.0,0.2,,,0.2
+Berdalselva,NO,NO_2,nan,,2011.0,4.35,,,4.35
+Bergbekken,NO,NO_2,nan,,1998.0,0.0014,,,0.0014
+Berge,NO,NO_2,nan,,2018.0,7.96,,,7.96
+Bergelva,NO,NO_2,nan,,2008.0,0.3,,,0.3
+Bergerfoss,NO,NO_2,nan,,1938.0,3.3,,,3.3
+Bergesli,NO,NO_2,nan,,2008.0,0.78,,,0.78
+Bergsbotn,NO,NO_2,nan,,1985.0,7.9,,,7.9
+Bergselva,NO,NO_2,nan,,2013.0,5.4,,,5.4
+Bergsfjord,NO,NO_2,nan,,1959.0,1.1,,,1.1
+Bergstø,NO,NO_2,nan,,2009.0,2.9,,,2.9
+Berild,NO,NO_2,nan,,1999.0,15.9,,,15.9
+Berlifoss,NO,NO_2,nan,,1958.0,9.5,,,9.5
+Bessa Minikraftverk,NO,NO_2,nan,,1999.0,0.098,,,0.098
+Bestul,NO,NO_2,nan,,2015.0,0.71,,,0.71
+Bingsfoss,NO,NO_2,nan,,1977.0,32.5,,,32.5
+Birkedal,NO,NO_2,nan,,2017.0,0.055,,,0.055
+Birkås,NO,NO_2,nan,,2006.0,0.71,,,0.71
+Biskopstien,NO,NO_2,nan,,1999.0,0.04,,,0.04
+Bjelland,NO,NO_2,nan,,1974.0,55.0,,,55.0
+Bjelland II,NO,NO_2,nan,,2011.0,0.71,,,0.71
+Bjergaelva,NO,NO_2,nan,,2004.0,0.65,,,0.65
+Bjerka,NO,NO_2,nan,,1972.0,20.0,,,20.0
+Bjordal,NO,NO_2,nan,,2004.0,0.099,,,0.099
+Bjordal II,NO,NO_2,nan,,2009.0,0.14,,,0.14
+Bjordalen,NO,NO_2,nan,,1960.0,2.9,,,2.9
+Bjordøla,NO,NO_2,nan,,2005.0,0.132,,,0.132
+Bjoråi,NO,NO_2,nan,,2005.0,0.028,,,0.028
+Bjølvo,NO,NO_2,nan,,2003.0,99.2,,,99.2
+Bjørdal,NO,NO_2,nan,,1931.0,4.3,,,4.3
+Bjørgjo,NO,NO_2,nan,,2009.0,0.6,,,0.6
+Bjørgum,NO,NO_2,nan,,2004.0,5.495,,,5.495
+Bjørheimsbygd,NO,NO_2,nan,,2006.0,0.9,,,0.9
+Bjørkåsen,NO,NO_2,nan,,1921.0,3.68,,,3.68
+Bjørndalen,NO,NO_2,nan,,2006.0,4.95,,,4.95
+Bjørndalselva,NO,NO_2,nan,,2006.0,5.3,,,5.3
+Bjørnebykverna,NO,NO_2,nan,,2000.0,0.09,,,0.09
+Bjørnstokk,NO,NO_2,nan,,2017.0,8.2,,,8.2
+Bjørsvik,NO,NO_2,nan,,1952.0,0.495,,,0.495
+Bjøråa,NO,NO_2,nan,,1999.0,0.025,,,0.025
+Bjøråa,NO,NO_2,nan,,1997.0,0.036,,,0.036
+Bjåstad,NO,NO_2,nan,,2018.0,5.19,,,5.19
+Blikraåna,NO,NO_2,nan,,2006.0,0.25,,,0.25
+Blikåsbekken,NO,NO_2,nan,,2000.0,0.004,,,0.004
+Blokken,NO,NO_2,nan,,1917.0,0.12,,,0.12
+Blådalselva,NO,NO_2,nan,,2010.0,2.66,,,2.66
+Blåfalli III H,NO,NO_2,nan,,1968.0,100.0,,,100.0
+Blåfalli III L,NO,NO_2,nan,,1976.0,5.0,,,5.0
+Blåfalli IV,NO,NO_2,nan,,1981.0,13.0,,,13.0
+Blåfalli V,NO,NO_2,nan,,2002.0,8.1,,,8.1
+Blåfalli Vik,NO,NO_2,nan,,2007.0,230.0,,,230.0
+Blålid,NO,NO_2,nan,,2007.0,0.565,,,0.565
+Blåsvagrova,NO,NO_2,nan,,2005.0,0.017,,,0.017
+Bog,NO,NO_2,nan,,2008.0,0.09,,,0.09
+Boge 1,NO,NO_2,nan,,2007.0,1.35,,,1.35
+Boge 2,NO,NO_2,nan,,2008.0,1.25,,,1.25
+Bogna,NO,NO_2,nan,,1971.0,57.0,,,57.0
+Bordalsbekken,NO,NO_2,nan,,2012.0,1.9,,,1.9
+Borgen,NO,NO_2,nan,,2007.0,0.09,,,0.09
+Borgund,NO,NO_2,nan,,1974.0,212.0,,,212.0
+Borgåna,NO,NO_2,nan,,2017.0,1.95,,,1.95
+Borregaard,NO,NO_2,nan,,1910.0,51.0,,,51.0
+Botnabakken,NO,NO_2,nan,,2009.0,0.16,,,0.16
+Botnaelva,NO,NO_2,nan,,2005.0,0.4,,,0.4
+Botnaelva,NO,NO_2,nan,,2007.0,0.862,,,0.862
+Brandåa,NO,NO_2,nan,,2009.0,3.94,,,3.94
+Braskereidfoss,NO,NO_2,nan,,1978.0,35.95,,,35.95
+Bratsberg,NO,NO_2,nan,,1977.0,124.0,,,124.0
+Bratthus,NO,NO_2,nan,,2012.0,0.68,,,0.68
+Brattingfoss,NO,NO_2,nan,,1955.0,10.7,,,10.7
+Brattset,NO,NO_2,nan,,1982.0,80.0,,,80.0
+Brattvåg,NO,NO_2,nan,,1912.0,0.81,,,0.81
+Breiava,NO,NO_2,nan,,2006.0,14.8,,,14.8
+Breidalselva,NO,NO_2,nan,,2016.0,0.99,,,0.99
+Breiskallen,NO,NO_2,nan,,1988.0,1.0,,,1.0
+Breive,NO,NO_2,nan,,1981.0,20.0,,,20.0
+Breivikbotn,NO,NO_2,nan,,1950.0,0.84,,,0.84
+Breivold,NO,NO_2,nan,,2001.0,1.0,,,1.0
+Brekke,NO,NO_2,nan,,1987.0,1.5,,,1.5
+Brekke,NO,NO_2,nan,,1924.0,8.0,,,8.0
+Brekkebekken,NO,NO_2,nan,,2004.0,0.472,,,0.472
+Brekkefoss,NO,NO_2,nan,,1957.0,1.6,,,1.6
+Brekkefossen,NO,NO_2,nan,,2005.0,3.9,,,3.9
+Brekkefossen,NO,NO_2,nan,,2018.0,3.8,,,3.8
+Brekkestøl,NO,NO_2,nan,,2000.0,1.44,,,1.44
+Breksillan,NO,NO_2,nan,,1997.0,0.033,,,0.033
+Briksdal,NO,NO_2,nan,,2007.0,0.56,,,0.56
+Brokke,NO,NO_2,nan,,1964.0,330.0,,,330.0
+Brudalsbekken,NO,NO_2,nan,,1998.0,0.022,,,0.022
+Bruelva,NO,NO_2,nan,,2014.0,1.0,,,1.0
+Brufjell,NO,NO_2,nan,,2004.0,0.075,,,0.075
+Brufoss,NO,NO_2,nan,,1982.0,2.2,,,2.2
+Brulandsfoss,NO,NO_2,nan,,1934.0,12.5,,,12.5
+Brunstad,NO,NO_2,nan,,2010.0,3.34,,,3.34
+Bruvollelva,NO,NO_2,nan,,2010.0,3.8,,,3.8
+Brødbølfoss,NO,NO_2,nan,,1920.0,2.4,,,2.4
+Bråberg,NO,NO_2,nan,,2018.0,1.95,,,1.95
+Buavatn,NO,NO_2,nan,,1988.0,6.0,,,6.0
+Budalselva,NO,NO_2,nan,,2005.0,0.3,,,0.3
+Budalselva,NO,NO_2,nan,,2010.0,0.54,,,0.54
+Buer,NO,NO_2,nan,,1985.0,1.5,,,1.5
+Bukkskinn,NO,NO_2,nan,,2009.0,0.01,,,0.01
+Bulko,NO,NO_2,nan,,2008.0,2.35,,,2.35
+Buru,NO,NO_2,nan,,2008.0,0.015,,,0.015
+Buset,NO,NO_2,nan,,2002.0,1.2,,,1.2
+Buset mikrokraftverk,NO,NO_2,nan,,2000.0,0.018,,,0.018
+Byaelva,NO,NO_2,nan,,2006.0,0.088,,,0.088
+Byafossen,NO,NO_2,nan,,1957.0,6.0,,,6.0
+Byrkjedal,NO,NO_2,nan,,1999.0,0.63,,,0.63
+Byrkjelo,NO,NO_2,nan,,2007.0,13.27,,,13.27
+Byro,NO,NO_2,nan,,2016.0,3.2,,,3.2
+Byrte,NO,NO_2,nan,,1969.0,20.0,,,20.0
+Bæverfjord Gård Kraftverk,NO,NO_2,nan,,1971.0,0.0176,,,0.0176
+Bøaåni,NO,NO_2,nan,,1973.0,1.178,,,1.178
+Bøen I,NO,NO_2,nan,,2006.0,1.8,,,1.8
+Bøen II,NO,NO_2,nan,,2016.0,2.99,,,2.99
+Bøhnsdalen,NO,NO_2,nan,,1986.0,3.0,,,3.0
+Børter 1,NO,NO_2,nan,,1914.0,0.45,,,0.45
+Børter 2,NO,NO_2,nan,,1922.0,0.25,,,0.25
+Børtveit,NO,NO_2,nan,,1921.0,2.4,,,2.4
+Bøylefoss,NO,NO_2,nan,,1912.0,65.0,,,65.0
+Båtsvatn,NO,NO_2,nan,,1977.0,30.0,,,30.0
+Cabardasjohka,NO,NO_2,nan,,1953.0,0.7,,,0.7
+"Cermaq Norway AS avd, Dyping",NO,NO_2,nan,,2002.0,0.15,,,0.15
+Corrojavrrit,NO,NO_2,nan,,1990.0,1.7,,,1.7
+Dahlefoss,NO,NO_2,nan,,2009.0,0.98,,,0.98
+Daja,NO,NO_2,nan,,1958.0,30.0,,,30.0
+Dalabekken,NO,NO_2,nan,,2009.0,0.022,,,0.022
+Dalane,NO,NO_2,nan,,1920.0,1.44,,,1.44
+Dale,NO,NO_2,nan,,1990.0,5.2,,,5.2
+Dale,NO,NO_2,nan,,2005.0,2.95,,,2.95
+Dale II,NO,NO_2,nan,,1990.0,150.0,,,150.0
+Daleelva,NO,NO_2,nan,,2017.0,2.5,,,2.5
+Dalegjerdet,NO,NO_2,nan,,2012.0,2.3,,,2.3
+Dalelva,NO,NO_2,nan,,2010.0,3.1,,,3.1
+Dalelva,NO,NO_2,nan,,2006.0,0.9,,,0.9
+Dalen 1,NO,NO_2,nan,,2010.0,4.9,,,4.9
+Dalsbekken,NO,NO_2,nan,,2010.0,0.7,,,0.7
+Dalselva,NO,NO_2,nan,,2010.0,0.3,,,0.3
+Dalsfos,NO,NO_2,nan,,1907.0,6.2,,,6.2
+Dalvatn,NO,NO_2,nan,,1978.0,35.4,,,35.4
+Dauremål,NO,NO_2,nan,,2007.0,4.95,,,4.95
+Deilbekken,NO,NO_2,nan,,2005.0,0.027,,,0.027
+Deveggåe,NO,NO_2,nan,,2011.0,2.997,,,2.997
+Dirdal,NO,NO_2,nan,,2007.0,1.6,,,1.6
+Dittielva,NO,NO_2,nan,,2012.0,5.6,,,5.6
+Dividalen,NO,NO_2,nan,,1972.0,26.0,,,26.0
+Djupdal,NO,NO_2,nan,,1976.0,14.3,,,14.3
+Djupfjord I,NO,NO_2,nan,,1952.0,5.1,,,5.1
+Djupfjord II,NO,NO_2,nan,,1957.0,2.6,,,2.6
+Djupvika,NO,NO_2,nan,,2001.0,0.038,,,0.038
+Djupå,NO,NO_2,nan,,1998.0,0.008,,,0.008
+Djuv,NO,NO_2,nan,,2009.0,0.045,,,0.045
+Dokka,NO,NO_2,nan,,1989.0,44.6,,,44.6
+Dokkelva,NO,NO_2,nan,,2012.0,5.49,,,5.49
+Dragefossen,NO,NO_2,nan,,1987.0,3.3,,,3.3
+Drarvik,NO,NO_2,nan,,2000.0,0.022,,,0.022
+Draura,NO,NO_2,nan,,2013.0,2.5,,,2.5
+Dravlaus,NO,NO_2,nan,,2016.0,4.18,,,4.18
+Driva,NO,NO_2,nan,,1973.0,140.0,,,140.0
+Drivdal,NO,NO_2,nan,,2008.0,2.3,,,2.3
+Drivdalselva,NO,NO_2,nan,,2002.0,0.35,,,0.35
+Duge,NO,NO_2,nan,,1979.0,200.0,,,200.0
+Dvergsdalsdalen,NO,NO_2,nan,,2010.0,2.0,,,2.0
+Dversetelva,NO,NO_2,nan,,2011.0,3.68,,,3.68
+Dynjanfoss,NO,NO_2,nan,,1951.0,33.0,,,33.0
+Dyrbakk,NO,NO_2,nan,,1913.0,0.57,,,0.57
+Dyrhovden,NO,NO_2,nan,,1998.0,0.069,,,0.069
+Dyrkorn,NO,NO_2,nan,,2011.0,2.8,,,2.8
+Dyrnesli,NO,NO_2,nan,,1907.0,6.5,,,6.5
+Dyrstad,NO,NO_2,nan,,1999.0,0.99,,,0.99
+Døla,NO,NO_2,nan,,2011.0,2.1,,,2.1
+Døsen,NO,NO_2,nan,,2004.0,0.09,,,0.09
+Døvik,NO,NO_2,nan,,2004.0,0.8,,,0.8
+Døvikfoss,NO,NO_2,nan,,1975.0,15.0,,,15.0
+Eftestøl,NO,NO_2,nan,,2000.0,0.4,,,0.4
+Egge,NO,NO_2,nan,,2007.0,5.0,,,5.0
+Eid,NO,NO_2,nan,,2000.0,9.6,,,9.6
+Eide,NO,NO_2,nan,,2008.0,0.09,,,0.09
+Eidefossen,NO,NO_2,nan,,1983.0,13.2,,,13.2
+Eidesfossen,NO,NO_2,nan,,1954.0,3.8,,,3.8
+Eidet,NO,NO_2,nan,,1960.0,2.3,,,2.3
+Eidsdal,NO,NO_2,nan,,2006.0,6.085,,,6.085
+Eidsetelva,NO,NO_2,nan,,2011.0,1.8,,,1.8
+Eidsfoss,NO,NO_2,nan,,1964.0,15.0,,,15.0
+Eidsfoss,NO,NO_2,nan,,1956.0,4.1,,,4.1
+Eidsfoss,NO,NO_2,nan,,1903.0,0.9,,,0.9
+Eidsfossen,NO,NO_2,nan,,1917.0,7.0,,,7.0
+Eidsfossen,NO,NO_2,nan,,1922.0,0.4,,,0.4
+Eidsland 1,NO,NO_2,nan,,2015.0,0.48,,,0.48
+Eidsland 2,NO,NO_2,nan,,2019.0,0.63,,,0.63
+Eikedalsvatten,NO,NO_2,nan,,1986.0,0.032,,,0.032
+Eikelandsosen,NO,NO_2,nan,,1986.0,30.0,,,30.0
+Eimstad,NO,NO_2,nan,,2002.0,0.019,,,0.019
+Einunna,NO,NO_2,nan,,1955.0,9.0,,,9.0
+Eiriksdal,NO,NO_2,nan,,2013.0,80.0,,,80.0
+Eitro,NO,NO_2,nan,,2013.0,4.1,,,4.1
+Ekkjestølen,NO,NO_2,nan,,2009.0,4.0,,,4.0
+Eldao,NO,NO_2,nan,,2018.0,9.8,,,9.8
+Eldrevatn,NO,NO_2,nan,,2013.0,4.9,,,4.9
+Ellenelva,NO,NO_2,nan,,2012.0,4.8,,,4.8
+Ellingsbekken,NO,NO_2,nan,,2005.0,0.037,,,0.037
+Embla,NO,NO_2,nan,,2012.0,4.9,,,4.9
+Embretsfoss,NO,NO_2,nan,,1921.0,71.0,,,71.0
+Engeset,NO,NO_2,nan,,2007.0,5.1,,,5.1
+Epteland,NO,NO_2,nan,,2006.0,0.2,,,0.2
+Erdal,NO,NO_2,nan,,2005.0,0.725,,,0.725
+Erfjord,NO,NO_2,nan,,2008.0,0.045,,,0.045
+Ervik,NO,NO_2,nan,,1997.0,0.012,,,0.012
+Espeelvi,NO,NO_2,nan,,2018.0,4.56,,,4.56
+Espeland,NO,NO_2,nan,,2012.0,0.965,,,0.965
+Espeland,NO,NO_2,nan,,2015.0,0.27,,,0.27
+Evanger,NO,NO_2,nan,,1969.0,330.0,,,330.0
+Evebøfossen,NO,NO_2,nan,,1910.0,0.38,,,0.38
+Evenset,NO,NO_2,nan,,2006.0,0.08,,,0.08
+Evenstad,NO,NO_2,nan,,1904.0,23.5,,,23.5
+Fagerdalen,NO,NO_2,nan,,2007.0,0.8,,,0.8
+Fagerelva,NO,NO_2,nan,,2001.0,0.035,,,0.035
+Fagerli,NO,NO_2,nan,,1975.0,48.0,,,48.0
+Fagerlid,NO,NO_2,nan,,2008.0,0.32,,,0.32
+Fagervollan,NO,NO_2,nan,,1990.0,21.0,,,21.0
+Fall,NO,NO_2,nan,,2009.0,5.5,,,5.5
+Faslefoss,NO,NO_2,nan,,1980.0,17.8,,,17.8
+Fatland,NO,NO_2,nan,,2014.0,0.975,,,0.975
+Fausa I,NO,NO_2,nan,,1929.0,0.78,,,0.78
+Fausa II,NO,NO_2,nan,,1952.0,7.0,,,7.0
+Fellesanlegget Kykkelsrud-Fossumfoss,NO,NO_2,nan,,1963.0,230.0,,,230.0
+Finndøla,NO,NO_2,nan,,1972.0,108.0,,,108.0
+Finnesetbekken,NO,NO_2,nan,,2011.0,1.428,,,1.428
+Finså,NO,NO_2,nan,,1963.0,23.0,,,23.0
+Fiskefjord,NO,NO_2,nan,,1979.0,1.5,,,1.5
+Fiskløysa,NO,NO_2,nan,,2018.0,5.1,,,5.1
+Fiskå Mølle,NO,NO_2,nan,,1984.0,0.1,,,0.1
+Fivlemyr,NO,NO_2,nan,,1962.0,2.0,,,2.0
+Fjellanger,NO,NO_2,nan,,2006.0,0.8,,,0.8
+Fjellet,NO,NO_2,nan,,2015.0,4.3,,,4.3
+Fjellhaugen,NO,NO_2,nan,,2008.0,0.16,,,0.16
+Fjelna,NO,NO_2,nan,,2015.0,4.83,,,4.83
+Fjone,NO,NO_2,nan,,1970.0,50.0,,,50.0
+Fjæremsfoss,NO,NO_2,nan,,1957.0,18.8,,,18.8
+Flaen Mølle,NO,NO_2,nan,,2006.0,0.021,,,0.021
+Flatenfoss 2,NO,NO_2,nan,,1981.0,5.5,,,5.5
+Flatenfoss 3,NO,NO_2,nan,,2009.0,7.1,,,7.1
+Flatlandsåi,NO,NO_2,nan,,2006.0,1.3,,,1.3
+Flatråker,NO,NO_2,nan,,2003.0,0.9,,,0.9
+Flittig,NO,NO_2,nan,,2017.0,5.5,,,5.5
+Flørli,NO,NO_2,nan,,1999.0,80.0,,,80.0
+Fløtre,NO,NO_2,nan,,2000.0,0.05,,,0.05
+Folkedal,NO,NO_2,nan,,2013.0,4.99,,,4.99
+Folkestad,NO,NO_2,nan,,2006.0,1.85,,,1.85
+Follafoss,NO,NO_2,nan,,2005.0,48.1,,,48.1
+Follebu bruk,NO,NO_2,nan,,1950.0,0.4,,,0.4
+Follsjå,NO,NO_2,nan,,2015.0,2.9,,,2.9
+Forneselva,NO,NO_2,nan,,2014.0,5.2,,,5.2
+Forsanvatn,NO,NO_2,nan,,2013.0,8.8,,,8.8
+Forsanvatn minikraftverk,NO,NO_2,nan,,2013.0,0.723,,,0.723
+Forsland,NO,NO_2,nan,,2003.0,7.0,,,7.0
+Forså,NO,NO_2,nan,,1963.0,12.0,,,12.0
+Foss,NO,NO_2,nan,,2003.0,0.113,,,0.113
+Fossabekken,NO,NO_2,nan,,2011.0,0.45,,,0.45
+Fossan,NO,NO_2,nan,,2000.0,2.5,,,2.5
+Fossan,NO,NO_2,nan,,2013.0,4.95,,,4.95
+Fossane,NO,NO_2,nan,,2001.0,0.18,,,0.18
+Fossane,NO,NO_2,nan,,2013.0,3.6,,,3.6
+Fossane - Molla,NO,NO_2,nan,,2006.0,0.325,,,0.325
+Fossbråten,NO,NO_2,nan,,2014.0,2.9,,,2.9
+Fossdal,NO,NO_2,nan,,1987.0,3.5,,,3.5
+Fosse,NO,NO_2,nan,,1954.0,25.0,,,25.0
+Fosseelvo Mikrokraftverk,NO,NO_2,nan,,2000.0,0.011,,,0.011
+Fossekallen,NO,NO_2,nan,,1999.0,0.08,,,0.08
+Fossekallen,NO,NO_2,nan,,2007.0,0.09,,,0.09
+Fossekallen,NO,NO_2,nan,,2014.0,0.2,,,0.2
+Fossen,NO,NO_2,nan,,1972.0,0.07,,,0.07
+Fossheim,NO,NO_2,nan,,1995.0,8.32,,,8.32
+Fossheimfoss,NO,NO_2,nan,,1994.0,1.9,,,1.9
+Fossheimgardane,NO,NO_2,nan,,2013.0,0.075,,,0.075
+Fossmark,NO,NO_2,nan,,1917.0,9.0,,,9.0
+Fossmark,NO,NO_2,nan,,2007.0,2.04,,,2.04
+Fosstun,NO,NO_2,nan,,2006.0,0.09,,,0.09
+Fosstveit,NO,NO_2,nan,,2008.0,1.99,,,1.99
+Fossum,NO,NO_2,nan,,1908.0,0.81,,,0.81
+Fossum Mølle og elektrisitetsverk,NO,NO_2,nan,,2002.0,0.06,,,0.06
+Fossåno,NO,NO_2,nan,,2006.0,1.85,,,1.85
+Frammarsvik,NO,NO_2,nan,,2008.0,2.4,,,2.4
+Framruste,NO,NO_2,nan,,2005.0,75.0,,,75.0
+Freim,NO,NO_2,nan,,2013.0,0.7,,,0.7
+Fremstedalen,NO,NO_2,nan,,2007.0,0.07,,,0.07
+Friheim,NO,NO_2,nan,,2005.0,0.027,,,0.027
+Frilsjøen,NO,NO_2,nan,,2003.0,0.07,,,0.07
+Frisvold,NO,NO_2,nan,,1998.0,0.025,,,0.025
+Fritzøe,NO,NO_2,nan,,1901.0,3.3,,,3.3
+Frøland,NO,NO_2,nan,,1912.0,24.9,,,24.9
+Frøvik Gård,NO,NO_2,nan,,1996.0,0.006,,,0.006
+Frøystul,NO,NO_2,nan,,1995.0,45.6,,,45.6
+Fuglestein,NO,NO_2,nan,,2009.0,0.025,,,0.025
+Funna,NO,NO_2,nan,,1938.0,20.6,,,20.6
+Funnefoss,NO,NO_2,nan,,1975.0,40.0,,,40.0
+Furebø,NO,NO_2,nan,,2001.0,1.08,,,1.08
+Furegardane,NO,NO_2,nan,,2014.0,5.49,,,5.49
+Furset,NO,NO_2,nan,,2007.0,4.95,,,4.95
+Fykanvannet,NO,NO_2,nan,,2013.0,2.35,,,2.35
+Færåsen,NO,NO_2,nan,,2009.0,1.43,,,1.43
+Fønhus,NO,NO_2,nan,,2004.0,0.62,,,0.62
+Føssa,NO,NO_2,nan,,2011.0,1.769,,,1.769
+Gamlebrofoss,NO,NO_2,nan,,1971.0,15.0,,,15.0
+Gandvik,NO,NO_2,nan,,1952.0,4.8,,,4.8
+Gangsbekken,NO,NO_2,nan,,2007.0,0.09,,,0.09
+Gapestad,NO,NO_2,nan,,1987.0,1.5,,,1.5
+Gaudøla,NO,NO_2,nan,,2004.0,2.0,,,2.0
+Gaula,NO,NO_2,nan,,1905.0,3.0,,,3.0
+Gausbu,NO,NO_2,nan,,1996.0,7.2,,,7.2
+Gausvik I,NO,NO_2,nan,,1910.0,3.0,,,3.0
+Gausvik III,NO,NO_2,nan,,1949.0,0.95,,,0.95
+Gautvella,NO,NO_2,nan,,2007.0,1.72,,,1.72
+Geisdøla,NO,NO_2,nan,,2005.0,1.275,,,1.275
+Geithusfoss,NO,NO_2,nan,,1961.0,13.5,,,13.5
+Geitåni,NO,NO_2,nan,,2018.0,4.62,,,4.62
+Gilja,NO,NO_2,nan,,2001.0,1.44,,,1.44
+Gire,NO,NO_2,nan,,2008.0,2.38,,,2.38
+Gisnafallet,NO,NO_2,nan,,2009.0,2.9,,,2.9
+Gjedrem & Holmen,NO,NO_2,nan,,1928.0,0.28,,,0.28
+Gjerde,NO,NO_2,nan,,2007.0,1.7,,,1.7
+Gjerdsvika,NO,NO_2,nan,,1954.0,4.0,,,4.0
+Gjerland,NO,NO_2,nan,,2007.0,0.0166,,,0.0166
+Gjersvik,NO,NO_2,nan,,2012.0,0.3,,,0.3
+Gjesdal,NO,NO_2,nan,,2011.0,3.7,,,3.7
+Gjetingsdalen,NO,NO_2,nan,,2007.0,2.2,,,2.2
+Gjuva,NO,NO_2,nan,,1957.0,10.0,,,10.0
+Gjønaelva,NO,NO_2,nan,,2018.0,3.2,,,3.2
+Gjøv,NO,NO_2,nan,,2006.0,0.095,,,0.095
+Glesåa,NO,NO_2,nan,,2009.0,2.1,,,2.1
+Glisja,NO,NO_2,nan,,2000.0,0.075,,,0.075
+Glomfjord,NO,NO_2,nan,,1920.0,20.0,,,20.0
+Glomnes,NO,NO_2,nan,,2001.0,0.349,,,0.349
+Glutra,NO,NO_2,nan,,2009.0,0.85,,,0.85
+Godal,NO,NO_2,nan,,2015.0,0.52,,,0.52
+Gosland,NO,NO_2,nan,,2016.0,4.04,,,4.04
+Govddesåga,NO,NO_2,nan,,2016.0,26.8,,,26.8
+Grana,NO,NO_2,nan,,1982.0,75.0,,,75.0
+Grasbotntjørni,NO,NO_2,nan,,2016.0,0.3,,,0.3
+Grasdalen,NO,NO_2,nan,,2000.0,0.642,,,0.642
+Gravbrøtfoss,NO,NO_2,nan,,2009.0,2.1,,,2.1
+Gravfoss I,NO,NO_2,nan,,1931.0,18.6,,,18.6
+Gravfoss II,NO,NO_2,nan,,1996.0,30.2,,,30.2
+Gravvold,NO,NO_2,nan,,2007.0,0.095,,,0.095
+Gresslifoss,NO,NO_2,nan,,1966.0,25.0,,,25.0
+Grimo,NO,NO_2,nan,,2011.0,0.99,,,0.99
+Grislefoss,NO,NO_2,nan,,2001.0,0.72,,,0.72
+Grovane,NO,NO_2,nan,,1998.0,0.5,,,0.5
+Grove,NO,NO_2,nan,,2006.0,0.08,,,0.08
+Grunnevatn,NO,NO_2,nan,,2016.0,1.13,,,1.13
+Grunnåi,NO,NO_2,nan,,2006.0,25.32,,,25.32
+Gryta,NO,NO_2,nan,,2009.0,1.49,,,1.49
+Grytdalen,NO,NO_2,nan,,2012.0,1.3,,,1.3
+Gryte I,NO,NO_2,nan,,2006.0,0.956,,,0.956
+Gryte II,NO,NO_2,nan,,2018.0,0.5,,,0.5
+Grytefoss,NO,NO_2,nan,,1907.0,0.86,,,0.86
+Grytendal,NO,NO_2,nan,,2018.0,6.35,,,6.35
+Grytfossen,NO,NO_2,nan,,2005.0,1.125,,,1.125
+Grytneselva,NO,NO_2,nan,,2016.0,5.9,,,5.9
+Gryto,NO,NO_2,nan,,2006.0,3.5,,,3.5
+Grytten,NO,NO_2,nan,,1975.0,143.5,,,143.5
+Grytten,NO,NO_2,nan,,2000.0,0.07,,,0.07
+Grytåga,NO,NO_2,nan,,1963.0,48.0,,,48.0
+Grytåga Småkraftverk,NO,NO_2,nan,,2008.0,1.3,,,1.3
+Grytåi,NO,NO_2,nan,,2012.0,0.856,,,0.856
+Grytåne,NO,NO_2,nan,,2017.0,0.012,,,0.012
+Grøa,NO,NO_2,nan,,1999.0,34.7,,,34.7
+Grødem,NO,NO_2,nan,,2001.0,0.015,,,0.015
+Grødemfoss,NO,NO_2,nan,,1939.0,3.08,,,3.08
+Grøndal,NO,NO_2,nan,,1999.0,0.022,,,0.022
+Grøndalsvatn,NO,NO_2,nan,,1975.0,1.36,,,1.36
+Grøneng,NO,NO_2,nan,,2006.0,0.95,,,0.95
+Grønhaug,NO,NO_2,nan,,2000.0,1.0,,,1.0
+Grønhovdelva,NO,NO_2,nan,,2004.0,0.065,,,0.065
+Grønlielva,NO,NO_2,nan,,2015.0,2.4,,,2.4
+Grønnedal,NO,NO_2,nan,,1947.0,1.76,,,1.76
+Grønningselva,NO,NO_2,nan,,2019.0,0.95,,,0.95
+Grønsdal,NO,NO_2,nan,,1948.0,36.0,,,36.0
+Grønvollfoss,NO,NO_2,nan,,1933.0,33.0,,,33.0
+Grøslandselva,NO,NO_2,nan,,2018.0,5.02,,,5.02
+Grøtte,NO,NO_2,nan,,2004.0,0.038,,,0.038
+Grøvla,NO,NO_2,nan,,2011.0,2.433,,,2.433
+Gråklubben,NO,NO_2,nan,,2014.0,1.089,,,1.089
+Gråsjø,NO,NO_2,nan,,1970.0,15.0,,,15.0
+Gunnar Jan Gjerland,NO,NO_2,nan,,1995.0,0.182,,,0.182
+Guolásjohka,NO,NO_2,nan,,1971.0,80.0,,,80.0
+Gurebo,NO,NO_2,nan,,1998.0,0.178,,,0.178
+Gursli,NO,NO_2,nan,,2009.0,0.215,,,0.215
+Gyl,NO,NO_2,nan,,2007.0,1.38,,,1.38
+Gåseflå,NO,NO_2,nan,,2016.0,0.24,,,0.24
+Gåslonelva,NO,NO_2,nan,,2001.0,0.56,,,0.56
+Gåsvasselva,NO,NO_2,nan,,2007.0,0.9,,,0.9
+"Haavard T, Lien Mikrokraftverk",NO,NO_2,nan,,2002.0,0.015,,,0.015
+Hafslund,NO,NO_2,nan,,1899.0,31.85,,,31.85
+Hagaelva,NO,NO_2,nan,,2005.0,0.84,,,0.84
+Hakavik,NO,NO_2,nan,,1922.0,7.0,,,7.0
+Hakkstabben,NO,NO_2,nan,,1994.0,0.8,,,0.8
+Halle,NO,NO_2,nan,,2006.0,0.019,,,0.019
+Halne,NO,NO_2,nan,,2007.0,0.01,,,0.01
+Halvdagsåa,NO,NO_2,nan,,2014.0,0.591,,,0.591
+Hammerbekken,NO,NO_2,nan,,2005.0,0.05,,,0.05
+Hammeren,NO,NO_2,nan,,1901.0,4.7,,,4.7
+Hammeren,NO,NO_2,nan,,2014.0,0.132,,,0.132
+Hammerfest,NO,NO_2,nan,,1947.0,1.1,,,1.1
+Hammerstrand,NO,NO_2,nan,,1920.0,0.72,,,0.72
+Hamrabø,NO,NO_2,nan,,1997.0,0.07,,,0.07
+Hanefoss,NO,NO_2,nan,,1961.0,22.0,,,22.0
+Hanestadnea,NO,NO_2,nan,,2012.0,2.465,,,2.465
+Hansfoss,NO,NO_2,nan,,1988.0,1.2999,,,1.2999
+Harastølen I,NO,NO_2,nan,,2002.0,0.099,,,0.099
+Harastølen II,NO,NO_2,nan,,2002.0,0.099,,,0.099
+Hardeland H,NO,NO_2,nan,,1950.0,24.0,,,24.0
+Hardeland K,NO,NO_2,nan,,1958.0,12.0,,,12.0
+Harpefossen,NO,NO_2,nan,,1965.0,108.0,,,108.0
+Harstveitbekken,NO,NO_2,nan,,2009.0,1.8,,,1.8
+Hasselelva,NO,NO_2,nan,,1980.0,1.1,,,1.1
+Hatlemark,NO,NO_2,nan,,2009.0,0.215,,,0.215
+Hatlestad,NO,NO_2,nan,,2018.0,4.49,,,4.49
+Hattebergsdalen,NO,NO_2,nan,,1954.0,4.96,,,4.96
+Haugaelva,NO,NO_2,nan,,2010.0,2.0,,,2.0
+Haugafossen,NO,NO_2,nan,,2018.0,5.43,,,5.43
+Hauge,NO,NO_2,nan,,2010.0,0.48,,,0.48
+Haugfoss,NO,NO_2,nan,,1938.0,3.6,,,3.6
+Hauggard,NO,NO_2,nan,,1985.0,0.5,,,0.5
+Haugsland,NO,NO_2,nan,,2012.0,0.022,,,0.022
+Haukali,NO,NO_2,nan,,2001.0,1.65,,,1.65
+Haukeli,NO,NO_2,nan,,1957.0,4.9,,,4.9
+Haukland,NO,NO_2,nan,,1949.0,4.9,,,4.9
+Haukrei,NO,NO_2,nan,,1992.0,16.0,,,16.0
+Haukvik,NO,NO_2,nan,,1987.0,2.6,,,2.6
+Hausken,NO,NO_2,nan,,2009.0,0.008,,,0.008
+Hauskje,NO,NO_2,nan,,1990.0,0.76,,,0.76
+Havdal,NO,NO_2,nan,,2009.0,2.3,,,2.3
+Havrevoll,NO,NO_2,nan,,2010.0,0.065,,,0.065
+Heggemselva,NO,NO_2,nan,,2019.0,0.075,,,0.075
+Heggmoen,NO,NO_2,nan,,1981.0,10.0,,,10.0
+Heggtveit,NO,NO_2,nan,,2015.0,1.66,,,1.66
+Hegsetdammen,NO,NO_2,nan,,2015.0,0.28,,,0.28
+Hegsetfoss,NO,NO_2,nan,,1962.0,32.0,,,32.0
+Heidelva,NO,NO_2,nan,,1998.0,0.5,,,0.5
+Heieren,NO,NO_2,nan,,1981.0,0.32,,,0.32
+Heierenfossen,NO,NO_2,nan,,1981.0,0.6,,,0.6
+Heimerdalen,NO,NO_2,nan,,2009.0,0.25,,,0.25
+Heimseta,NO,NO_2,nan,,2008.0,1.0,,,1.0
+Heina,NO,NO_2,nan,,2008.0,2.8,,,2.8
+Heiåi,NO,NO_2,nan,,2008.0,0.4,,,0.4
+Heiåi,NO,NO_2,nan,,2012.0,2.4,,,2.4
+Hekni,NO,NO_2,nan,,1995.0,56.0,,,56.0
+Heldøla,NO,NO_2,nan,,2004.0,0.31,,,0.31
+Helganes,NO,NO_2,nan,,2003.0,3.47,,,3.47
+Helgheim,NO,NO_2,nan,,2018.0,2.7,,,2.7
+Helgøy,NO,NO_2,nan,,1997.0,0.4,,,0.4
+Helgåa,NO,NO_2,nan,,2019.0,2.08,,,2.08
+Hellandsfoss,NO,NO_2,nan,,1992.0,31.5,,,31.5
+Hellandsfossen,NO,NO_2,nan,,1977.0,2.5,,,2.5
+Helle,NO,NO_2,nan,,2007.0,1.3,,,1.3
+Helle Bruk,NO,NO_2,nan,,1945.0,0.6,,,0.6
+Hellefoss,NO,NO_2,nan,,1953.0,11.0,,,11.0
+Helleren,NO,NO_2,nan,,1958.0,2.4,,,2.4
+Hellevang,NO,NO_2,nan,,2003.0,0.176,,,0.176
+Helveteskraft,NO,NO_2,nan,,2005.0,0.03,,,0.03
+Hemsil I,NO,NO_2,nan,,1960.0,70.0,,,70.0
+Hemsil II,NO,NO_2,nan,,1960.0,98.0,,,98.0
+Hensfoss,NO,NO_2,nan,,1946.0,16.7,,,16.7
+Herad,NO,NO_2,nan,,2008.0,0.085,,,0.085
+Herje,NO,NO_2,nan,,2015.0,4.4,,,4.4
+Herjåa,NO,NO_2,nan,,2012.0,0.328,,,0.328
+Herlandsfoss,NO,NO_2,nan,,1919.0,13.8,,,13.8
+Herva,NO,NO_2,nan,,1962.0,33.0,,,33.0
+Hesjeberg,NO,NO_2,nan,,2016.0,6.14,,,6.14
+Hestdal,NO,NO_2,nan,,2005.0,1.1,,,1.1
+Hestenes,NO,NO_2,nan,,2016.0,1.88,,,1.88
+Hetland,NO,NO_2,nan,,1915.0,1.48,,,1.48
+Hetland,NO,NO_2,nan,,2008.0,0.275,,,0.275
+Hindbergelva,NO,NO_2,nan,,2009.0,0.53,,,0.53
+Hisvatn,NO,NO_2,nan,,2007.0,3.6,,,3.6
+Hjartdøla,NO,NO_2,nan,,1958.0,120.0,,,120.0
+Hjelle,NO,NO_2,nan,,2008.0,2.85,,,2.85
+Hjelledøla,NO,NO_2,nan,,2006.0,1.1,,,1.1
+Hjelmeland,NO,NO_2,nan,,1993.0,6.0,,,6.0
+Hjertvatn,NO,NO_2,nan,,1957.0,2.5,,,2.5
+Hjorteland,NO,NO_2,nan,,1986.0,6.6,,,6.6
+Hjorteland (Fjellbergsåno),NO,NO_2,nan,,2009.0,1.75,,,1.75
+Hjorteland (Hjortelandsåno),NO,NO_2,nan,,2009.0,0.48,,,0.48
+Hodnaberg,NO,NO_2,nan,,1953.0,32.5,,,32.5
+Hoelsfossen,NO,NO_2,nan,,2007.0,0.4,,,0.4
+Hofkvern,NO,NO_2,nan,,2000.0,0.06,,,0.06
+Hofsfoss,NO,NO_2,nan,,1978.0,27.0,,,27.0
+Hogga,NO,NO_2,nan,,1987.0,17.0,,,17.0
+Hogstad,NO,NO_2,nan,,1913.0,9.6,,,9.6
+Hol I (Urunda),NO,NO_2,nan,,1956.0,106.0,,,106.0
+Hol I (Votna),NO,NO_2,nan,,1949.0,114.0,,,114.0
+Hol II,NO,NO_2,nan,,1957.0,26.0,,,26.0
+Hol III,NO,NO_2,nan,,1958.0,60.0,,,60.0
+Holdal,NO,NO_2,nan,,2012.0,1.24,,,1.24
+Hole,NO,NO_2,nan,,2013.0,0.236,,,0.236
+Holen,NO,NO_2,nan,,2019.0,8.2,,,8.2
+Holen III,NO,NO_2,nan,,1987.0,160.0,,,160.0
+Holen I-II,NO,NO_2,nan,,1981.0,230.0,,,230.0
+Holmane,NO,NO_2,nan,,2005.0,0.08,,,0.08
+Holmbekken,NO,NO_2,nan,,1997.0,0.0045,,,0.0045
+Holmem,NO,NO_2,nan,,2009.0,0.65,,,0.65
+Holmen,NO,NO_2,nan,,2016.0,25.0,,,25.0
+Holsbru,NO,NO_2,nan,,2012.0,48.9,,,48.9
+Holsen,NO,NO_2,nan,,2017.0,8.6,,,8.6
+Holsfossen,NO,NO_2,nan,,1930.0,2.2,,,2.2
+Hommafossen,NO,NO_2,nan,,2009.0,0.99,,,0.99
+Hommelfoss,NO,NO_2,nan,,1944.0,2.8,,,2.8
+Hommsåne,NO,NO_2,nan,,2016.0,1.8,,,1.8
+Hongset Røye,NO,NO_2,nan,,2012.0,0.025,,,0.025
+Honnefoss,NO,NO_2,nan,,1956.0,2.88,,,2.88
+Hopla,NO,NO_2,nan,,2004.0,0.0095,,,0.0095
+Hopland,NO,NO_2,nan,,2016.0,5.89,,,5.89
+Hopselva,NO,NO_2,nan,,2010.0,4.62,,,4.62
+Hopsfossen,NO,NO_2,nan,,1939.0,0.22,,,0.22
+Horga,NO,NO_2,nan,,1990.0,7.2,,,7.2
+Horka,NO,NO_2,nan,,1998.0,0.2,,,0.2
+Horneelva,NO,NO_2,nan,,1999.0,0.1092,,,0.1092
+Horpedal,NO,NO_2,nan,,2004.0,2.5,,,2.5
+Hovatn,NO,NO_2,nan,,1971.0,45.0,,,45.0
+Hove,NO,NO_2,nan,,1969.0,60.0,,,60.0
+Hovland,NO,NO_2,nan,,2012.0,2.995,,,2.995
+Hovuduk,NO,NO_2,nan,,2003.0,0.45,,,0.45
+Hugla,NO,NO_2,nan,,2004.0,1.35,,,1.35
+Hulbak,NO,NO_2,nan,,2001.0,0.048,,,0.048
+Humberset,NO,NO_2,nan,,1998.0,0.011,,,0.011
+Hunderfossen,NO,NO_2,nan,,1963.0,112.0,,,112.0
+Hundseid,NO,NO_2,nan,,2007.0,0.08,,,0.08
+Hundtjønnsbekken,NO,NO_2,nan,,2000.0,0.012,,,0.012
+Hunnevatn,NO,NO_2,nan,,1983.0,2.0,,,2.0
+Hunsfoss,NO,NO_2,nan,,1964.0,25.1,,,25.1
+Hurunda,NO,NO_2,nan,,2006.0,0.25,,,0.25
+Husbyelva,NO,NO_2,nan,,2002.0,0.04,,,0.04
+Husefest,NO,NO_2,nan,,2014.0,0.06,,,0.06
+Husstøl,NO,NO_2,nan,,2013.0,0.55,,,0.55
+Hustveit,NO,NO_2,nan,,2014.0,0.037,,,0.037
+Hyelva,NO,NO_2,nan,,2003.0,1.33,,,1.33
+Hylen,NO,NO_2,nan,,1980.0,160.0,,,160.0
+Hylla,NO,NO_2,nan,,1986.0,2.9,,,2.9
+Hynna,NO,NO_2,nan,,2013.0,4.53,,,4.53
+Høgefoss,NO,NO_2,nan,,1919.0,25.0,,,25.0
+Høgfallet,NO,NO_2,nan,,1989.0,1.1,,,1.1
+Høglielva Kraftverk,NO,NO_2,nan,,2004.0,0.018,,,0.018
+Hølera,NO,NO_2,nan,,2013.0,0.88,,,0.88
+Hølseter,NO,NO_2,nan,,1980.0,2.0,,,2.0
+Hønefoss,NO,NO_2,nan,,1920.0,29.4,,,29.4
+Høyanger K5A,NO,NO_2,nan,,1965.0,93.0,,,93.0
+Høyanger K5B,NO,NO_2,nan,,1978.0,16.4,,,16.4
+Høydal,NO,NO_2,nan,,1998.0,1.1,,,1.1
+Høylandsfoss,NO,NO_2,nan,,1948.0,7.5,,,7.5
+Håen,NO,NO_2,nan,,1966.0,25.0,,,25.0
+Hågjøla,NO,NO_2,nan,,2007.0,0.1,,,0.1
+Håkvik,NO,NO_2,nan,,1954.0,12.0,,,12.0
+Hålandsfoss,NO,NO_2,nan,,1955.0,4.85,,,4.85
+Håra,NO,NO_2,nan,,2014.0,4.9,,,4.9
+Hårstadbekken,NO,NO_2,nan,,2001.0,0.005,,,0.005
+Håvardsvatn,NO,NO_2,nan,,2006.0,5.0,,,5.0
+Håverstad,NO,NO_2,nan,,1957.0,48.0,,,48.0
+Håvik,NO,NO_2,nan,,2007.0,0.01,,,0.01
+Ilaget,NO,NO_2,nan,,2008.0,1.7,,,1.7
+Ildgrubfossen,NO,NO_2,nan,,1950.0,6.5,,,6.5
+Imsland,NO,NO_2,nan,,2010.0,5.0,,,5.0
+Indre Fossen,NO,NO_2,nan,,1999.0,0.036,,,0.036
+Indre Norddal,NO,NO_2,nan,,2008.0,0.089,,,0.089
+Indrebø,NO,NO_2,nan,,2010.0,0.884,,,0.884
+Indreitselva,NO,NO_2,nan,,2008.0,0.425,,,0.425
+Ingstad,NO,NO_2,nan,,2007.0,0.132,,,0.132
+Innset,NO,NO_2,nan,,1960.0,90.0,,,90.0
+Innvik,NO,NO_2,nan,,2007.0,15.5,,,15.5
+Istad,NO,NO_2,nan,,1919.0,4.8,,,4.8
+Isvatn,NO,NO_2,nan,,2004.0,0.1,,,0.1
+Iungsdalshytta,NO,NO_2,nan,,2017.0,0.06,,,0.06
+Iveland,NO,NO_2,nan,,1949.0,87.0,,,87.0
+Jardøla,NO,NO_2,nan,,2008.0,5.0,,,5.0
+Joka,NO,NO_2,nan,,2005.0,1.5,,,1.5
+Jora,NO,NO_2,nan,,2008.0,1.349,,,1.349
+Jorda,NO,NO_2,nan,,2012.0,2.55,,,2.55
+Jordal,NO,NO_2,nan,,2006.0,4.95,,,4.95
+Jordal,NO,NO_2,nan,,2004.0,0.99,,,0.99
+Jordal,NO,NO_2,nan,,2018.0,6.06,,,6.06
+Jordalen,NO,NO_2,nan,,2005.0,0.45,,,0.45
+Jordalen 2,NO,NO_2,nan,,2017.0,7.5,,,7.5
+Jostedal,NO,NO_2,nan,,1989.0,288.0,,,288.0
+Jukla,NO,NO_2,nan,,1974.0,35.0,,,35.0
+Julfoss,NO,NO_2,nan,,2009.0,2.4,,,2.4
+Julskaret,NO,NO_2,nan,,1968.0,7.0,,,7.0
+Juvet,NO,NO_2,nan,,2002.0,0.45,,,0.45
+Juvfossen,NO,NO_2,nan,,2002.0,7.0,,,7.0
+Juvsbekken,NO,NO_2,nan,,1998.0,0.01,,,0.01
+Jølstraholmen,NO,NO_2,nan,,2003.0,0.144,,,0.144
+Jølåna,NO,NO_2,nan,,2011.0,1.68,,,1.68
+Jørundland,NO,NO_2,nan,,1970.0,55.2,,,55.2
+Jøssang,NO,NO_2,nan,,2010.0,34.0,,,34.0
+Jøssingfjord,NO,NO_2,nan,,2009.0,4.5,,,4.5
+Jåstadkraft,NO,NO_2,nan,,2010.0,0.99,,,0.99
+Kaggefoss,NO,NO_2,nan,,1951.0,85.5,,,85.5
+Kaldestad,NO,NO_2,nan,,1936.0,6.3,,,6.3
+Kaldestad,NO,NO_2,nan,,1964.0,24.0,,,24.0
+Kaldheim Bruk,NO,NO_2,nan,,1995.0,0.015,,,0.015
+Kaldsåni,NO,NO_2,nan,,2015.0,2.8,,,2.8
+Kaldåga,NO,NO_2,nan,,1958.0,15.0,,,15.0
+Kaldåga,NO,NO_2,nan,,2019.0,2.1,,,2.1
+Kaldåna,NO,NO_2,nan,,2014.0,2.99,,,2.99
+Kaldåni,NO,NO_2,nan,,2003.0,0.054,,,0.054
+Kalsabø,NO,NO_2,nan,,2000.0,0.09,,,0.09
+Kalvedalen,NO,NO_2,nan,,1967.0,19.0,,,19.0
+Kalvåa,NO,NO_2,nan,,2000.0,0.28,,,0.28
+Kambe Kraft,NO,NO_2,nan,,2002.0,0.05,,,0.05
+Kammerfoss,NO,NO_2,nan,,1958.0,1.9,,,1.9
+Kanalen,NO,NO_2,nan,,2005.0,0.01,,,0.01
+Kandal,NO,NO_2,nan,,2009.0,4.8,,,4.8
+Kangsliåga,NO,NO_2,nan,,2010.0,3.097,,,3.097
+Kanndalen,NO,NO_2,nan,,2012.0,5.49,,,5.49
+Karstad,NO,NO_2,nan,,2009.0,0.39,,,0.39
+Kastdalen,NO,NO_2,nan,,1969.0,1.6,,,1.6
+Kaupanger,NO,NO_2,nan,,1996.0,0.055,,,0.055
+Kaupanger 3,NO,NO_2,nan,,2010.0,5.1,,,5.1
+Kildalen,NO,NO_2,nan,,1960.0,8.2,,,8.2
+Kilsti,NO,NO_2,nan,,2004.0,0.015,,,0.015
+Kinnali,NO,NO_2,nan,,1995.0,0.07,,,0.07
+Kinnali II,NO,NO_2,nan,,1996.0,0.099,,,0.099
+Kinnforsen,NO,NO_2,nan,,2014.0,2.95,,,2.95
+Kinso,NO,NO_2,nan,,1917.0,4.1,,,4.1
+Kistafossen,NO,NO_2,nan,,2008.0,1.6,,,1.6
+Kiste,NO,NO_2,nan,,1917.0,5.87,,,5.87
+Kistefoss I,NO,NO_2,nan,,1942.0,1.3999,,,1.3999
+Kistefoss II,NO,NO_2,nan,,1955.0,4.2,,,4.2
+Kittilsviken,NO,NO_2,nan,,2007.0,1.9,,,1.9
+Kjela,NO,NO_2,nan,,1979.0,62.0,,,62.0
+Kjeldebekken,NO,NO_2,nan,,1998.0,0.285,,,0.285
+Kjeldåga,NO,NO_2,nan,,2004.0,0.47,,,0.47
+Kjensvatn,NO,NO_2,nan,,2014.0,14.0,,,14.0
+Kjetland,NO,NO_2,nan,,2004.0,1.5,,,1.5
+Kjosfoss,NO,NO_2,nan,,1944.0,4.2,,,4.2
+Kjærnes,NO,NO_2,nan,,2009.0,0.99,,,0.99
+Kjøljua,NO,NO_2,nan,,1990.0,0.8,,,0.8
+Kjølvik,NO,NO_2,nan,,2010.0,0.34,,,0.34
+Kjørstad,NO,NO_2,nan,,2016.0,2.5,,,2.5
+Kjøsnesfjorden,NO,NO_2,nan,,2010.0,84.0,,,84.0
+Kjøsstånå,NO,NO_2,nan,,1997.0,0.088,,,0.088
+Kleiva,NO,NO_2,nan,,2009.0,3.9,,,3.9
+Kleivafoss,NO,NO_2,nan,,1946.0,0.2,,,0.2
+Kleivane,NO,NO_2,nan,,2004.0,0.986,,,0.986
+Kleivane,NO,NO_2,nan,,2008.0,0.099,,,0.099
+Klosterfoss,NO,NO_2,nan,,1969.0,10.5,,,10.5
+Klubbatjern,NO,NO_2,nan,,1999.0,0.2,,,0.2
+Kløvkraft,NO,NO_2,nan,,2013.0,1.389,,,1.389
+Kløvtveit,NO,NO_2,nan,,2006.0,8.9,,,8.9
+Knutfoss,NO,NO_2,nan,,2010.0,4.85,,,4.85
+Koabekken,NO,NO_2,nan,,1999.0,0.016,,,0.016
+Kobbelv,NO,NO_2,nan,,1987.0,300.0,,,300.0
+Kobbholm,NO,NO_2,nan,,2010.0,3.2,,,3.2
+Kolfossen,NO,NO_2,nan,,1955.0,2.7,,,2.7
+Kolsvik,NO,NO_2,nan,,1979.0,128.0,,,128.0
+Kongsfjord I,NO,NO_2,nan,,1946.0,4.4,,,4.4
+Kongsfoss,NO,NO_2,nan,,2004.0,2.9,,,2.9
+Kongsmarka,NO,NO_2,nan,,1920.0,2.5,,,2.5
+Kongsvinger,NO,NO_2,nan,,1975.0,42.7,,,42.7
+Kopa,NO,NO_2,nan,,1937.0,2.6,,,2.6
+Koparvike,NO,NO_2,nan,,2003.0,0.5,,,0.5
+Krogseth,NO,NO_2,nan,,1997.0,0.015,,,0.015
+Krogstadelva,NO,NO_2,nan,,2012.0,4.7,,,4.7
+Kroka,NO,NO_2,nan,,2008.0,0.47,,,0.47
+Krokevatn,NO,NO_2,nan,,2009.0,3.3,,,3.3
+Krokvatn,NO,NO_2,nan,,1951.0,2.0,,,2.0
+Krutlet,NO,NO_2,nan,,1999.0,0.045,,,0.045
+Krutvatnet,NO,NO_2,nan,,2002.0,0.01,,,0.01
+Kråkenes,NO,NO_2,nan,,2007.0,2.16,,,2.16
+Kuli,NO,NO_2,nan,,1966.0,6.0,,,6.0
+Kulu,NO,NO_2,nan,,2014.0,2.88,,,2.88
+Kupe,NO,NO_2,nan,,2017.0,3.2,,,3.2
+Kuråsfoss,NO,NO_2,nan,,1952.0,10.6,,,10.6
+Kvalvaag,NO,NO_2,nan,,2010.0,0.5,,,0.5
+Kvamselva,NO,NO_2,nan,,2016.0,2.67,,,2.67
+Kvangreelva,NO,NO_2,nan,,2012.0,0.48,,,0.48
+Kvanndal,NO,NO_2,nan,,1967.0,40.0,,,40.0
+Kvannvatn,NO,NO_2,nan,,2008.0,4.04,,,4.04
+Kvarv,NO,NO_2,nan,,1987.0,2.2,,,2.2
+Kvassteinåga,NO,NO_2,nan,,2011.0,4.33,,,4.33
+Kveaså,NO,NO_2,nan,,2011.0,5.4,,,5.4
+Kvemma,NO,NO_2,nan,,2015.0,5.0,,,5.0
+Kvemma minikraftverk,NO,NO_2,nan,,2004.0,0.232,,,0.232
+Kvennhusbekken,NO,NO_2,nan,,2004.0,0.004,,,0.004
+Kvennhusåi,NO,NO_2,nan,,1999.0,0.995,,,0.995
+Kvennhølet,NO,NO_2,nan,,2003.0,0.014,,,0.014
+Kvernerud,NO,NO_2,nan,,1917.0,0.28,,,0.28
+Kvernfallet,NO,NO_2,nan,,1936.0,1.1,,,1.1
+Kvernhusbekken,NO,NO_2,nan,,2007.0,0.07,,,0.07
+Kvernhusdalsbekken,NO,NO_2,nan,,2005.0,0.099,,,0.099
+Kvernhuselva,NO,NO_2,nan,,2000.0,0.32,,,0.32
+Kvernhusfossen,NO,NO_2,nan,,1993.0,0.011,,,0.011
+Kvernhusfossen,NO,NO_2,nan,,1997.0,0.1424,,,0.1424
+Kverninga,NO,NO_2,nan,,2013.0,2.832,,,2.832
+Kvernstad,NO,NO_2,nan,,2008.0,2.75,,,2.75
+Kvernstufossen,NO,NO_2,nan,,1997.0,0.5,,,0.5
+Kvernåi,NO,NO_2,nan,,2017.0,2.83,,,2.83
+Kvilldal,NO,NO_2,nan,,1981.0,1240.0,,,1240.0
+Kvina,NO,NO_2,nan,,2006.0,0.32,,,0.32
+Kvinen,NO,NO_2,nan,,1981.0,80.0,,,80.0
+Kvinesdal,NO,NO_2,nan,,2006.0,1.3,,,1.3
+Kvitefella,NO,NO_2,nan,,2005.0,1.3,,,1.3
+Kvitelva,NO,NO_2,nan,,2011.0,0.45,,,0.45
+Kvitfossen,NO,NO_2,nan,,1956.0,1.8,,,1.8
+Kvitingen,NO,NO_2,nan,,1926.0,0.3,,,0.3
+Kvitno,NO,NO_2,nan,,2015.0,9.0,,,9.0
+Kvittingen,NO,NO_2,nan,,1984.0,48.0,,,48.0
+Kvitvella,NO,NO_2,nan,,2014.0,1.55,,,1.55
+Kvitåi,NO,NO_2,nan,,2019.0,2.58,,,2.58
+Kviven,NO,NO_2,nan,,2006.0,1.55,,,1.55
+Kvænangsbotn,NO,NO_2,nan,,1965.0,55.0,,,55.0
+Kvåle,NO,NO_2,nan,,2009.0,4.6,,,4.6
+Kvåmm,NO,NO_2,nan,,2003.0,0.017,,,0.017
+Kylland,NO,NO_2,nan,,2010.0,1.3,,,1.3
+Kyrkjevollgrova,NO,NO_2,nan,,2010.0,0.3,,,0.3
+Kysinga,NO,NO_2,nan,,2010.0,1.25,,,1.25
+Kåven,NO,NO_2,nan,,1952.0,4.5,,,4.5
+Laksen,NO,NO_2,nan,,2012.0,4.949,,,4.949
+Lakshola,NO,NO_2,nan,,1999.0,30.0,,,30.0
+Landakraft,NO,NO_2,nan,,2010.0,2.0,,,2.0
+Langdalselva,NO,NO_2,nan,,2013.0,4.3,,,4.3
+Langedal,NO,NO_2,nan,,2018.0,3.0,,,3.0
+Langedalen,NO,NO_2,nan,,2011.0,5.0,,,5.0
+Langedalselva,NO,NO_2,nan,,2018.0,0.99,,,0.99
+Langevåg,NO,NO_2,nan,,1939.0,0.125,,,0.125
+Langfjord,NO,NO_2,nan,,1949.0,9.0,,,9.0
+Langfoss,NO,NO_2,nan,,1955.0,2.4,,,2.4
+Langli,NO,NO_2,nan,,1944.0,1.2,,,1.2
+Lang-Sima,NO,NO_2,nan,,1980.0,500.0,,,500.0
+Langsteinelva,NO,NO_2,nan,,1997.0,0.09,,,0.09
+Langvatn,NO,NO_2,nan,,1978.0,5.4,,,5.4
+Langvatn,NO,NO_2,nan,,1964.0,90.0,,,90.0
+Langåsfoss,NO,NO_2,nan,,1987.0,1.13,,,1.13
+Lappvikelva,NO,NO_2,nan,,2010.0,2.7,,,2.7
+Laskbekken,NO,NO_2,nan,,2018.0,0.99,,,0.99
+Lassajavrri,NO,NO_2,nan,,1977.0,7.2,,,7.2
+Laudal,NO,NO_2,nan,,1981.0,32.0,,,32.0
+Laugaland,NO,NO_2,nan,,2006.0,0.075,,,0.075
+Lauki og Melei,NO,NO_2,nan,,1917.0,0.1,,,0.1
+Lauvlielva,NO,NO_2,nan,,2012.0,1.25,,,1.25
+Lauvsnes,NO,NO_2,nan,,2008.0,1.4,,,1.4
+Lavkajohka,NO,NO_2,nan,,1982.0,8.7,,,8.7
+Leidesfossen,NO,NO_2,nan,,2000.0,0.3,,,0.3
+Leinafoss,NO,NO_2,nan,,1932.0,4.8,,,4.8
+Leirbekken,NO,NO_2,nan,,1915.0,0.945,,,0.945
+Leirdøla,NO,NO_2,nan,,1978.0,125.0,,,125.0
+Leirelva,NO,NO_2,nan,,2013.0,4.59,,,4.59
+Leirfossene,NO,NO_2,nan,,2008.0,45.0,,,45.0
+Leiro,NO,NO_2,nan,,2011.0,5.0,,,5.0
+Leirosen,NO,NO_2,nan,,1975.0,0.45,,,0.45
+Leiråa,NO,NO_2,nan,,2017.0,5.5,,,5.5
+Leknesvatn,NO,NO_2,nan,,2016.0,3.8,,,3.8
+Lekum,NO,NO_2,nan,,1992.0,1.5,,,1.5
+Lesjaverk,NO,NO_2,nan,,1942.0,0.0,,,0.0
+Liaelva,NO,NO_2,nan,,2016.0,1.5,,,1.5
+Liafoss,NO,NO_2,nan,,1949.0,2.9,,,2.9
+Liarelva,NO,NO_2,nan,,2013.0,1.9,,,1.9
+Liavatn,NO,NO_2,nan,,1962.0,1.8,,,1.8
+Lidal,NO,NO_2,nan,,2017.0,7.82,,,7.82
+Lielva,NO,NO_2,nan,,2012.0,1.15,,,1.15
+Lien,NO,NO_2,nan,,2004.0,0.0025,,,0.0025
+Lille Måsevatn,NO,NO_2,nan,,2016.0,0.68,,,0.68
+Lindland,NO,NO_2,nan,,2002.0,8.1,,,8.1
+Lindåna,NO,NO_2,nan,,2011.0,1.45,,,1.45
+Linvasselv,NO,NO_2,nan,,1962.0,25.0,,,25.0
+Lio,NO,NO_2,nan,,1969.0,43.0,,,43.0
+Lislevatn,NO,NO_2,nan,,2015.0,4.2,,,4.2
+Litjfossen,NO,NO_2,nan,,1982.0,75.0,,,75.0
+Litj-Hena,NO,NO_2,nan,,2014.0,4.858,,,4.858
+Litledalen,NO,NO_2,nan,,1920.0,17.0,,,17.0
+Litlelva,NO,NO_2,nan,,2009.0,1.36,,,1.36
+Litleåna,NO,NO_2,nan,,2013.0,3.2,,,3.2
+Ljotå,NO,NO_2,nan,,2019.0,1.65,,,1.65
+Ljøsåa,NO,NO_2,nan,,2008.0,2.6,,,2.6
+Logna,NO,NO_2,nan,,1961.0,20.2,,,20.2
+Lognavann,NO,NO_2,nan,,1998.0,0.055,,,0.055
+Lomen,NO,NO_2,nan,,1983.0,54.5,,,54.5
+Lomi,NO,NO_2,nan,,1979.0,118.0,,,118.0
+Lomsdalselva,NO,NO_2,nan,,1998.0,0.025,,,0.025
+Longerak,NO,NO_2,nan,,1915.0,1.2999,,,1.2999
+Lothe,NO,NO_2,nan,,2007.0,0.09,,,0.09
+Lotsberg,NO,NO_2,nan,,2010.0,1.45,,,1.45
+Lovik,NO,NO_2,nan,,1952.0,1.2,,,1.2
+Lundsfoss,NO,NO_2,nan,,1915.0,0.7,,,0.7
+Lundsæter,NO,NO_2,nan,,1934.0,0.75,,,0.75
+Luostejok,NO,NO_2,nan,,2020.0,2.58,,,2.58
+Luren,NO,NO_2,nan,,1998.0,0.0026,,,0.0026
+Lutufallet,NO,NO_2,nan,,1964.0,14.1,,,14.1
+Lya,NO,NO_2,nan,,2008.0,5.49,,,5.49
+Lysbotn,NO,NO_2,nan,,1941.0,5.35,,,5.35
+Lysebotn 2,NO,NO_2,nan,,1953.0,370.0,,,370.0
+Lysvatn,NO,NO_2,nan,,1963.0,4.1,,,4.1
+Løa,NO,NO_2,nan,,1999.0,0.35,,,0.35
+Løgjen,NO,NO_2,nan,,2007.0,0.57,,,0.57
+Løkaunet,NO,NO_2,nan,,1926.0,9.3,,,9.3
+Løpet,NO,NO_2,nan,,1971.0,29.0,,,29.0
+Madalen,NO,NO_2,nan,,2003.0,0.12,,,0.12
+Madland,NO,NO_2,nan,,2010.0,1.875,,,1.875
+Mago A,NO,NO_2,nan,,1984.0,0.77,,,0.77
+Mago B,NO,NO_2,nan,,1960.0,0.86,,,0.86
+Mago C,NO,NO_2,nan,,1978.0,0.78,,,0.78
+Mago D,NO,NO_2,nan,,1980.0,1.6,,,1.6
+Makkoren,NO,NO_2,nan,,2012.0,4.0,,,4.0
+Malmo,NO,NO_2,nan,,1997.0,0.7,,,0.7
+Mandelid,NO,NO_2,nan,,2000.0,0.125,,,0.125
+Mannsberg,NO,NO_2,nan,,2016.0,3.52,,,3.52
+Mardal,NO,NO_2,nan,,1975.0,6.0,,,6.0
+Maribu,NO,NO_2,nan,,2008.0,0.09,,,0.09
+Marifjøra,NO,NO_2,nan,,2001.0,0.09,,,0.09
+Markjelkevatn,NO,NO_2,nan,,2007.0,1.2,,,1.2
+Marvik,NO,NO_2,nan,,2008.0,0.786,,,0.786
+Matre H,NO,NO_2,nan,,1957.0,180.0,,,180.0
+Matre M,NO,NO_2,nan,,1962.0,150.0,,,150.0
+Mattisfoss,NO,NO_2,nan,,1993.0,2.3,,,2.3
+Maudal,NO,NO_2,nan,,1930.0,25.5,,,25.5
+Mauranger,NO,NO_2,nan,,1974.0,250.0,,,250.0
+Medåe,NO,NO_2,nan,,2007.0,0.784,,,0.784
+Medås,NO,NO_2,nan,,2000.0,0.02,,,0.02
+Mehammer Mikrokraftverk I,NO,NO_2,nan,,2000.0,0.012,,,0.012
+Mehammer Mikrokraftverk II,NO,NO_2,nan,,2005.0,0.018,,,0.018
+Meierifossen,NO,NO_2,nan,,2008.0,1.36,,,1.36
+Meisal I,NO,NO_2,nan,,1936.0,0.9,,,0.9
+Meisal II,NO,NO_2,nan,,1999.0,4.1,,,4.1
+Mel,NO,NO_2,nan,,1989.0,52.0,,,52.0
+Mela,NO,NO_2,nan,,2017.0,3.74,,,3.74
+Melheim,NO,NO_2,nan,,2013.0,0.05,,,0.05
+Melkefoss,NO,NO_2,nan,,1978.0,22.0,,,22.0
+Mellomjord 2,NO,NO_2,nan,,2008.0,0.018,,,0.018
+Memurubu,NO,NO_2,nan,,1972.0,0.06,,,0.06
+Meråker,NO,NO_2,nan,,1994.0,86.8,,,86.8
+Mesna,NO,NO_2,nan,,1985.0,37.5,,,37.5
+Middagsbukt,NO,NO_2,nan,,2007.0,0.006,,,0.006
+Middyr,NO,NO_2,nan,,1981.0,1.2999,,,1.2999
+Middøla,NO,NO_2,nan,,2015.0,4.36,,,4.36
+Midtlæger,NO,NO_2,nan,,2016.0,3.47,,,3.47
+Midtre Tessa,NO,NO_2,nan,,1954.0,7.0,,,7.0
+Midtun,NO,NO_2,nan,,2014.0,0.65,,,0.65
+Milja,NO,NO_2,nan,,2019.0,0.12,,,0.12
+Misfjord,NO,NO_2,nan,,2012.0,1.4,,,1.4
+Mjeldeelva,NO,NO_2,nan,,2016.0,1.64,,,1.64
+Mjella,NO,NO_2,nan,,2007.0,0.2,,,0.2
+Mo,NO,NO_2,nan,,1908.0,2.3,,,2.3
+Mo,NO,NO_2,nan,,2000.0,10.0,,,10.0
+Mobæk Mølle,NO,NO_2,nan,,1942.0,0.025,,,0.025
+Moe,NO,NO_2,nan,,1995.0,0.005,,,0.005
+Moelv,NO,NO_2,nan,,2001.0,1.2,,,1.2
+Mofjellet,NO,NO_2,nan,,2011.0,0.597,,,0.597
+Moflåt,NO,NO_2,nan,,1954.0,30.0,,,30.0
+Moi,NO,NO_2,nan,,1997.0,0.5,,,0.5
+Moksa,NO,NO_2,nan,,1990.0,15.0,,,15.0
+Molla,NO,NO_2,nan,,2003.0,0.44,,,0.44
+Momrak,NO,NO_2,nan,,2011.0,1.0,,,1.0
+Monabekken,NO,NO_2,nan,,1987.0,0.048,,,0.048
+Mone,NO,NO_2,nan,,2006.0,0.05,,,0.05
+Monge,NO,NO_2,nan,,1975.0,0.8,,,0.8
+Morkenfoss,NO,NO_2,nan,,1986.0,2.1,,,2.1
+Mortensdalelva,NO,NO_2,nan,,2012.0,2.1,,,2.1
+Mosbakka,NO,NO_2,nan,,2010.0,4.05,,,4.05
+Mosbekken,NO,NO_2,nan,,2005.0,0.006,,,0.006
+Moskenes Fiskeindustri,NO,NO_2,nan,,1995.0,0.075,,,0.075
+Mossefossen,NO,NO_2,nan,,1986.0,3.1,,,3.1
+Mosvik,NO,NO_2,nan,,1984.0,37.0,,,37.0
+Mulvik,NO,NO_2,nan,,2010.0,0.365,,,0.365
+Muoidejohka,NO,NO_2,nan,,2014.0,5.49,,,5.49
+Mydalen,NO,NO_2,nan,,1959.0,7.0,,,7.0
+Mydland,NO,NO_2,nan,,1998.0,0.3,,,0.3
+Myklebost,NO,NO_2,nan,,2018.0,5.32,,,5.32
+Myklebust,NO,NO_2,nan,,2009.0,2.0,,,2.0
+Myklebustdalen,NO,NO_2,nan,,2007.0,0.225,,,0.225
+Mykstufoss,NO,NO_2,nan,,1964.0,48.0,,,48.0
+Myra,NO,NO_2,nan,,1988.0,3.7,,,3.7
+Myraelva,NO,NO_2,nan,,2007.0,0.075,,,0.075
+Myrbekk,NO,NO_2,nan,,2005.0,0.2,,,0.2
+Myster,NO,NO_2,nan,,1987.0,107.0,,,107.0
+Mæl,NO,NO_2,nan,,1957.0,37.5,,,37.5
+Mælafoss,NO,NO_2,nan,,1918.0,0.94,,,0.94
+Mærdalsåi,NO,NO_2,nan,,2008.0,0.4,,,0.4
+Mølleelva,NO,NO_2,nan,,2018.0,4.5,,,4.5
+Møllefossen,NO,NO_2,nan,,1991.0,0.95,,,0.95
+Møllen,NO,NO_2,nan,,1977.0,2.0,,,2.0
+Mølnbekken,NO,NO_2,nan,,2015.0,1.55,,,1.55
+Mølnelva,NO,NO_2,nan,,2008.0,1.2,,,1.2
+Mørnbekken,NO,NO_2,nan,,1998.0,0.036,,,0.036
+Mørre,NO,NO_2,nan,,1977.0,13.6,,,13.6
+Møyskrev,NO,NO_2,nan,,1998.0,0.17,,,0.17
+Måge,NO,NO_2,nan,,2009.0,0.55,,,0.55
+Mågeli,NO,NO_2,nan,,1956.0,29.0,,,29.0
+Målset,NO,NO_2,nan,,1967.0,20.0,,,20.0
+Mår,NO,NO_2,nan,,1948.0,180.0,,,180.0
+Måren,NO,NO_2,nan,,2010.0,5.0,,,5.0
+Mårøyfjord,NO,NO_2,nan,,1956.0,4.4,,,4.4
+Naddvik,NO,NO_2,nan,,1987.0,112.0,,,112.0
+Nape,NO,NO_2,nan,,2013.0,1.925,,,1.925
+Nasvatn,NO,NO_2,nan,,2008.0,0.99,,,0.99
+Naurak,NO,NO_2,nan,,2000.0,0.445,,,0.445
+Nea,NO,NO_2,nan,,1960.0,175.0,,,175.0
+Nedalsfoss,NO,NO_2,nan,,1974.0,25.0,,,25.0
+Nedre Bersåvatn,NO,NO_2,nan,,2004.0,4.1,,,4.1
+Nedre Eiane,NO,NO_2,nan,,2002.0,0.04,,,0.04
+Nedre Fiskumfoss,NO,NO_2,nan,,1946.0,41.5,,,41.5
+Nedre Kivfallet,NO,NO_2,nan,,2003.0,0.93,,,0.93
+Nedre Leirfoss,NO,NO_2,nan,,1910.0,2.4,,,2.4
+Nedre Markevatn,NO,NO_2,nan,,1954.0,2.8,,,2.8
+Nedre Mollisjok,NO,NO_2,nan,,1988.0,0.02,,,0.02
+Nedre Nea,NO,NO_2,nan,,1989.0,66.7,,,66.7
+Nedre Neset,NO,NO_2,nan,,2012.0,2.56,,,2.56
+Nedre Porsa,NO,NO_2,nan,,1959.0,12.8,,,12.8
+Nedre Røssåga,NO,NO_2,nan,,1955.0,350.0,,,350.0
+Nedre Svultingen,NO,NO_2,nan,,1965.0,8.8,,,8.8
+Nedre Tessa 1,NO,NO_2,nan,,1942.0,7.0,,,7.0
+Nedre Tessa 2,NO,NO_2,nan,,1963.0,16.0,,,16.0
+Nedre Urdalen,NO,NO_2,nan,,2017.0,0.74,,,0.74
+Nedre Vinstra,NO,NO_2,nan,,1953.0,308.0,,,308.0
+Nedrebø,NO,NO_2,nan,,2000.0,0.1,,,0.1
+Nedrebø,NO,NO_2,nan,,2012.0,1.42,,,1.42
+Nes,NO,NO_2,nan,,1967.0,250.0,,,250.0
+Neselva,NO,NO_2,nan,,2004.0,4.9,,,4.9
+Neselva,NO,NO_2,nan,,2004.0,0.27,,,0.27
+Nessa,NO,NO_2,nan,,2008.0,0.06,,,0.06
+Nesset,NO,NO_2,nan,,1947.0,0.5,,,0.5
+Neverdalsåga,NO,NO_2,nan,,1955.0,2.1,,,2.1
+Nibbedalen,NO,NO_2,nan,,2011.0,1.7,,,1.7
+Niingen,NO,NO_2,nan,,1954.0,17.0,,,17.0
+Nipo,NO,NO_2,nan,,2000.0,0.95,,,0.95
+Nisserdam,NO,NO_2,nan,,1985.0,1.8,,,1.8
+Nivla,NO,NO_2,nan,,2016.0,4.72,,,4.72
+Nomeland,NO,NO_2,nan,,1920.0,28.7,,,28.7
+Nordbekken,NO,NO_2,nan,,2000.0,0.025,,,0.025
+Nordbøåna,NO,NO_2,nan,,2012.0,1.6,,,1.6
+Norddalen,NO,NO_2,nan,,1983.0,7.5,,,7.5
+Nordelva,NO,NO_2,nan,,2008.0,0.11,,,0.11
+Nordfjordbekkan,NO,NO_2,nan,,2007.0,0.21,,,0.21
+Nord-Forså,NO,NO_2,nan,,1957.0,1.1,,,1.1
+Nordlandselva,NO,NO_2,nan,,2006.0,2.0,,,2.0
+Nordre Mangen,NO,NO_2,nan,,2008.0,0.144,,,0.144
+Nordsvorka,NO,NO_2,nan,,2007.0,2.34,,,2.34
+Nordvik,NO,NO_2,nan,,2006.0,4.63,,,4.63
+Nordåni,NO,NO_2,nan,,2006.0,1.2,,,1.2
+Nore I,NO,NO_2,nan,,1928.0,206.0,,,206.0
+Nore II,NO,NO_2,nan,,1946.0,52.0,,,52.0
+Norvald Hestad,NO,NO_2,nan,,1997.0,0.024,,,0.024
+Nottveit Pico,NO,NO_2,nan,,2017.0,0.01,,,0.01
+Novle,NO,NO_2,nan,,1967.0,40.0,,,40.0
+Nunelva,NO,NO_2,nan,,1949.0,0.315,,,0.315
+Nybrufoss,NO,NO_2,nan,,1911.0,3.0,,,3.0
+Nybuelvi,NO,NO_2,nan,,2016.0,3.6,,,3.6
+Nydal,NO,NO_2,nan,,2005.0,1.44,,,1.44
+Nydalselva,NO,NO_2,nan,,2011.0,5.25,,,5.25
+Nye Suvdøla,NO,NO_2,nan,,2019.0,9.0,,,9.0
+Nye Verma,NO,NO_2,nan,,1949.0,23.2,,,23.2
+Nygard,NO,NO_2,nan,,2005.0,56.0,,,56.0
+Nygård,NO,NO_2,nan,,1932.0,25.0,,,25.0
+Nyset,NO,NO_2,nan,,1988.0,5.0,,,5.0
+Nystavnbekken,NO,NO_2,nan,,1999.0,0.022,,,0.022
+Nyvikelva,NO,NO_2,nan,,2015.0,2.1,,,2.1
+Nøringset,NO,NO_2,nan,,2004.0,0.2,,,0.2
+Nørsteteig,NO,NO_2,nan,,2006.0,0.075,,,0.075
+Nørståe,NO,NO_2,nan,,2006.0,1.5,,,1.5
+Nånes & Mele Mikrokraftverk,NO,NO_2,nan,,1997.0,0.096,,,0.096
+Odberg,NO,NO_2,nan,,2012.0,0.075,,,0.075
+Offervann,NO,NO_2,nan,,2015.0,2.2,,,2.2
+Oftedal I,NO,NO_2,nan,,2006.0,3.0,,,3.0
+Oftedal II,NO,NO_2,nan,,2007.0,5.0,,,5.0
+Oksarelva,NO,NO_2,nan,,2011.0,1.2,,,1.2
+Oksebotn,NO,NO_2,nan,,1988.0,11.0,,,11.0
+Oksefjell,NO,NO_2,nan,,2006.0,0.214,,,0.214
+Oksla,NO,NO_2,nan,,1980.0,206.0,,,206.0
+Ola Rise,NO,NO_2,nan,,1981.0,0.02,,,0.02
+Oldereid,NO,NO_2,nan,,1953.0,15.0,,,15.0
+Ole Kristian Sylling,NO,NO_2,nan,,2004.0,0.015,,,0.015
+Oltedal,NO,NO_2,nan,,1909.0,9.3,,,9.3
+Oltesvik,NO,NO_2,nan,,1935.0,5.0,,,5.0
+Oma,NO,NO_2,nan,,2011.0,1.4,,,1.4
+Ormhaugfossen,NO,NO_2,nan,,2008.0,1.2,,,1.2
+Ormsetfoss,NO,NO_2,nan,,1988.0,40.0,,,40.0
+Ortnevik,NO,NO_2,nan,,2004.0,1.2,,,1.2
+Ortnevik Mikrokraftverk,NO,NO_2,nan,,1999.0,0.037,,,0.037
+Osa,NO,NO_2,nan,,1981.0,90.0,,,90.0
+Osavatnet,NO,NO_2,nan,,2012.0,0.6,,,0.6
+Osbu,NO,NO_2,nan,,1958.0,20.0,,,20.0
+Osen,NO,NO_2,nan,,1964.0,4.0,,,4.0
+Osen,NO,NO_2,nan,,1954.0,16.5,,,16.5
+Osfallet,NO,NO_2,nan,,1914.0,5.6,,,5.6
+Osland,NO,NO_2,nan,,2008.0,0.75,,,0.75
+Oslandsbotn,NO,NO_2,nan,,1984.0,2.9,,,2.9
+Osteren,NO,NO_2,nan,,1936.0,2.5,,,2.5
+Osvatn,NO,NO_2,nan,,1951.0,2.3,,,2.3
+Oterbekken,NO,NO_2,nan,,2005.0,0.3,,,0.3
+Oterholtfoss,NO,NO_2,nan,,1932.0,0.85,,,0.85
+Otertjønnbekken,NO,NO_2,nan,,2008.0,0.035,,,0.035
+Otro,NO,NO_2,nan,,1998.0,0.018,,,0.018
+Ottar Holta,NO,NO_2,nan,,1997.0,0.015,,,0.015
+Palmafoss,NO,NO_2,nan,,1919.0,0.31,,,0.31
+Pikerfoss,NO,NO_2,nan,,1982.0,15.8,,,15.8
+Porkegjel,NO,NO_2,nan,,2008.0,0.7,,,0.7
+Pålsbu,NO,NO_2,nan,,2007.0,6.2,,,6.2
+Rabb-bekken,NO,NO_2,nan,,2016.0,0.225,,,0.225
+Rafdal (Heimeelva),NO,NO_2,nan,,2008.0,2.0,,,2.0
+Rafdal (Ø-Rafdal),NO,NO_2,nan,,2008.0,0.7,,,0.7
+Ramberg,NO,NO_2,nan,,2010.0,0.0815,,,0.0815
+Ramfoss,NO,NO_2,nan,,1961.0,30.0,,,30.0
+Ramstaddal,NO,NO_2,nan,,1983.0,1.2,,,1.2
+Rana,NO,NO_2,nan,,1968.0,500.0,,,500.0
+Rasdalen,NO,NO_2,nan,,2009.0,5.2,,,5.2
+Raua,NO,NO_2,nan,,1941.0,1.1,,,1.1
+Raubergfossen,NO,NO_2,nan,,1996.0,2.7,,,2.7
+Raudberget,NO,NO_2,nan,,2007.0,3.8,,,3.8
+Ravnastua,NO,NO_2,nan,,1990.0,0.005,,,0.005
+Ravnåga,NO,NO_2,nan,,2011.0,1.25,,,1.25
+Refsdal,NO,NO_2,nan,,1968.0,90.0,,,90.0
+Refsdal,NO,NO_2,nan,,2000.0,0.493,,,0.493
+Reiersdalen,NO,NO_2,nan,,1996.0,0.0037,,,0.0037
+Reinfossen,NO,NO_2,nan,,1925.0,3.4,,,3.4
+Reingardsåga,NO,NO_2,nan,,2009.0,2.4,,,2.4
+Reinli,NO,NO_2,nan,,2008.0,3.1,,,3.1
+Reinset,NO,NO_2,nan,,1948.0,4.9,,,4.9
+Reinskar,NO,NO_2,nan,,2008.0,9.6,,,9.6
+Reinstaul,NO,NO_2,nan,,1996.0,0.018,,,0.018
+Reinåga,NO,NO_2,nan,,2014.0,3.91,,,3.91
+Reisæter (Bleieelvi),NO,NO_2,nan,,2009.0,0.45,,,0.45
+Reisæter (Strutåni),NO,NO_2,nan,,2009.0,1.0,,,1.0
+Rekvatn,NO,NO_2,nan,,1953.0,23.3,,,23.3
+Rekåa,NO,NO_2,nan,,2009.0,0.558,,,0.558
+Ren Energi Ramsland,NO,NO_2,nan,,2015.0,0.075,,,0.075
+Rendalen,NO,NO_2,nan,,1971.0,100.5,,,100.5
+Rendalselva,NO,NO_2,nan,,2010.0,2.8,,,2.8
+Rensjø,NO,NO_2,nan,,2007.0,1.0,,,1.0
+Reppa,NO,NO_2,nan,,1956.0,10.0,,,10.0
+Repvåg,NO,NO_2,nan,,1953.0,4.2,,,4.2
+Ridøla,NO,NO_2,nan,,2010.0,1.9,,,1.9
+Riksheim,NO,NO_2,nan,,1918.0,5.3,,,5.3
+Riksheimdal,NO,NO_2,nan,,2003.0,4.5,,,4.5
+Rimbareid,NO,NO_2,nan,,2001.0,1.0,,,1.0
+Rime,NO,NO_2,nan,,2014.0,1.5,,,1.5
+Ringdal,NO,NO_2,nan,,2011.0,5.85,,,5.85
+Ringedalen,NO,NO_2,nan,,2017.0,23.0,,,23.0
+Ringheim,NO,NO_2,nan,,2015.0,0.05,,,0.05
+Rise,NO,NO_2,nan,,1979.0,0.035,,,0.035
+Risvollfossen,NO,NO_2,nan,,1995.0,0.012,,,0.012
+Rivedal,NO,NO_2,nan,,2005.0,3.2,,,3.2
+Rodal,NO,NO_2,nan,,2011.0,1.7,,,1.7
+Rogheien,NO,NO_2,nan,,2006.0,0.15,,,0.15
+Rognsfossen,NO,NO_2,nan,,1989.0,6.0,,,6.0
+Rolf Nåden og Ole Jan Naaden,NO,NO_2,nan,,1999.0,0.018,,,0.018
+Rolleivstadvatn,NO,NO_2,nan,,1969.0,0.3,,,0.3
+Romøyri,NO,NO_2,nan,,2017.0,8.63,,,8.63
+Rongkleiv,NO,NO_2,nan,,2006.0,3.0,,,3.0
+Roppa,NO,NO_2,nan,,1976.0,5.0,,,5.0
+Rosendal,NO,NO_2,nan,,1957.0,0.5,,,0.5
+Roskrepp,NO,NO_2,nan,,1979.0,50.0,,,50.0
+Rosten,NO,NO_2,nan,,2018.0,80.0,,,80.0
+Rotnes Bruk,NO,NO_2,nan,,1940.0,0.18,,,0.18
+Rottenvik,NO,NO_2,nan,,1952.0,5.49,,,5.49
+Rovde,NO,NO_2,nan,,2004.0,0.05,,,0.05
+Rud 1,NO,NO_2,nan,,2008.0,0.66,,,0.66
+Rud Gårdskraftverk,NO,NO_2,nan,,1935.0,0.09,,,0.09
+Rui,NO,NO_2,nan,,2000.0,0.4,,,0.4
+Rusdalsåni,NO,NO_2,nan,,2019.0,5.49,,,5.49
+Russagjela,NO,NO_2,nan,,2003.0,0.04,,,0.04
+Ryddøla,NO,NO_2,nan,,2013.0,3.488,,,3.488
+Rygene,NO,NO_2,nan,,1978.0,55.0,,,55.0
+Rygene miniaggregat,NO,NO_2,nan,,1992.0,0.11,,,0.11
+Ryssdal,NO,NO_2,nan,,1999.0,1.25,,,1.25
+Ryssdal,NO,NO_2,nan,,2006.0,1.95,,,1.95
+Ryånda,NO,NO_2,nan,,2008.0,0.85,,,0.85
+Rødberg,NO,NO_2,nan,,2009.0,2.9,,,2.9
+Rødne,NO,NO_2,nan,,2006.0,9.0,,,9.0
+Rødset,NO,NO_2,nan,,2015.0,2.15,,,2.15
+Rødstøl,NO,NO_2,nan,,2001.0,0.07,,,0.07
+Røfsdalselva,NO,NO_2,nan,,2019.0,3.21,,,3.21
+Røldal,NO,NO_2,nan,,1966.0,166.0,,,166.0
+Røneid,NO,NO_2,nan,,2016.0,4.3,,,4.3
+Rønnestad,NO,NO_2,nan,,2006.0,0.018,,,0.018
+Rørheim,NO,NO_2,nan,,2004.0,0.099,,,0.099
+Rørtveit,NO,NO_2,nan,,2003.0,0.07,,,0.07
+Rørvikbekken,NO,NO_2,nan,,1997.0,0.011,,,0.011
+Røssåga Mikrokraftverk,NO,NO_2,nan,,2004.0,0.003,,,0.003
+Røstad,NO,NO_2,nan,,2010.0,2.8,,,2.8
+Røstefoss,NO,NO_2,nan,,1913.0,3.0,,,3.0
+Røylandsfoss,NO,NO_2,nan,,2004.0,1.33,,,1.33
+Røyrvatn,NO,NO_2,nan,,2006.0,2.7,,,2.7
+Røyrvikfoss,NO,NO_2,nan,,1965.0,16.6,,,16.6
+Råfossen,NO,NO_2,nan,,2008.0,0.346,,,0.346
+Rånåsfoss,NO,NO_2,nan,,1921.0,128.4,,,128.4
+Råssåfoss,NO,NO_2,nan,,2010.0,4.945,,,4.945
+Sagabekken 1,NO,NO_2,nan,,2006.0,0.4,,,0.4
+Sagabekken 2,NO,NO_2,nan,,2009.0,0.325,,,0.325
+Sagabekken 3,NO,NO_2,nan,,2009.0,0.15,,,0.15
+Sagbergfossen,NO,NO_2,nan,,1916.0,1.2,,,1.2
+Sage,NO,NO_2,nan,,2001.0,8.9,,,8.9
+Sagefoss,NO,NO_2,nan,,1901.0,2.9,,,2.9
+Sagefossen,NO,NO_2,nan,,1986.0,10.1,,,10.1
+Sagelva,NO,NO_2,nan,,2006.0,0.63,,,0.63
+Sagelva,NO,NO_2,nan,,2007.0,0.65,,,0.65
+Sagelva,NO,NO_2,nan,,2019.0,2.8,,,2.8
+Sagelva 1,NO,NO_2,nan,,2001.0,0.555,,,0.555
+Sagelva 2,NO,NO_2,nan,,2002.0,0.435,,,0.435
+Sagelvi,NO,NO_2,nan,,2012.0,2.3,,,2.3
+Sagevikelv,NO,NO_2,nan,,2004.0,4.45,,,4.45
+Sagfossen,NO,NO_2,nan,,1979.0,11.3,,,11.3
+Sagfossen,NO,NO_2,nan,,2008.0,0.347,,,0.347
+Sagfossen,NO,NO_2,nan,,1988.0,0.8,,,0.8
+Sagnfossen,NO,NO_2,nan,,1943.0,6.2,,,6.2
+Sajå,NO,NO_2,nan,,2001.0,0.112,,,0.112
+Sakrisåga,NO,NO_2,nan,,2004.0,0.96,,,0.96
+Saksenvik,NO,NO_2,nan,,2012.0,2.5,,,2.5
+Salen Mikrokraftverk,NO,NO_2,nan,,2005.0,0.0075,,,0.0075
+Salsbruket,NO,NO_2,nan,,1988.0,1.5,,,1.5
+Saltdalelva,NO,NO_2,nan,,2012.0,5.0,,,5.0
+Saltåno,NO,NO_2,nan,,2011.0,0.25,,,0.25
+Sama,NO,NO_2,nan,,1979.0,7.9,,,7.9
+Sand,NO,NO_2,nan,,1916.0,3.5,,,3.5
+Sandal og Fossheim,NO,NO_2,nan,,2004.0,2.7,,,2.7
+Sanddal,NO,NO_2,nan,,2007.0,2.5,,,2.5
+Sandneselva,NO,NO_2,nan,,2001.0,0.012,,,0.012
+Sandneselva,NO,NO_2,nan,,2018.0,2.29,,,2.29
+Sandvik,NO,NO_2,nan,,2018.0,0.99,,,0.99
+Sarp,NO,NO_2,nan,,1978.0,80.0,,,80.0
+Saupstadfossen,NO,NO_2,nan,,1987.0,0.45,,,0.45
+Saurdal,NO,NO_2,nan,,1985.0,640.0,,,640.0
+Savalen,NO,NO_2,nan,,1971.0,62.0,,,62.0
+Scheldefoss,NO,NO_2,nan,,1994.0,1.3999,,,1.3999
+Seimsdal,NO,NO_2,nan,,2011.0,6.5,,,6.5
+Sekkelva,NO,NO_2,nan,,2015.0,0.74,,,0.74
+Selland,NO,NO_2,nan,,2006.0,0.02,,,0.02
+Selselva,NO,NO_2,nan,,2016.0,5.36,,,5.36
+Sesselva,NO,NO_2,nan,,2016.0,5.0,,,5.0
+Seterkraft,NO,NO_2,nan,,2014.0,4.74,,,4.74
+Seteråa,NO,NO_2,nan,,2006.0,1.0,,,1.0
+Setredalen,NO,NO_2,nan,,2019.0,4.7,,,4.7
+Sevre,NO,NO_2,nan,,2008.0,4.8,,,4.8
+Sigdestad,NO,NO_2,nan,,2018.0,8.99,,,8.99
+Sikkajokk,NO,NO_2,nan,,1950.0,1.9,,,1.9
+Sikkilsdalseter,NO,NO_2,nan,,1997.0,0.085,,,0.085
+Sildhopen,NO,NO_2,nan,,2010.0,0.5,,,0.5
+Sildvik,NO,NO_2,nan,,1982.0,65.0,,,65.0
+Simavik,NO,NO_2,nan,,2015.0,1.25,,,1.25
+Simsfossen,NO,NO_2,nan,,1921.0,0.35,,,0.35
+Sireåne,NO,NO_2,nan,,2004.0,0.08,,,0.08
+Sirkelvann,NO,NO_2,nan,,1999.0,0.7,,,0.7
+Siso,NO,NO_2,nan,,1968.0,180.0,,,180.0
+Sjona,NO,NO_2,nan,,1973.0,52.0,,,52.0
+Sjøfossen,NO,NO_2,nan,,1950.0,3.6,,,3.6
+Sjølingstad Uldvarefabrikk,NO,NO_2,nan,,2000.0,0.065,,,0.065
+Sjølset,NO,NO_2,nan,,2009.0,0.55,,,0.55
+Sjønstå,NO,NO_2,nan,,1983.0,66.0,,,66.0
+Skagen,NO,NO_2,nan,,1959.0,270.0,,,270.0
+Skakadalen,NO,NO_2,nan,,1995.0,0.0,,,0.0
+Skar,NO,NO_2,nan,,1920.0,2.9,,,2.9
+Skarelva,NO,NO_2,nan,,2012.0,5.0,,,5.0
+Skarg,NO,NO_2,nan,,2014.0,24.0,,,24.0
+Skarje,NO,NO_2,nan,,1987.0,9.0,,,9.0
+Skarsfjord,NO,NO_2,nan,,1922.0,4.0,,,4.0
+Skauma,NO,NO_2,nan,,1999.0,0.9,,,0.9
+Skibeli,NO,NO_2,nan,,2003.0,0.03,,,0.03
+Skibotn,NO,NO_2,nan,,1979.0,70.0,,,70.0
+Skinvik,NO,NO_2,nan,,2008.0,1.2,,,1.2
+Skipelva,NO,NO_2,nan,,2011.0,0.38,,,0.38
+Skjefstadfoss I,NO,NO_2,nan,,1910.0,4.0,,,4.0
+Skjefstadfoss II,NO,NO_2,nan,,1972.0,19.8,,,19.8
+Skjeggedal,NO,NO_2,nan,,1986.0,2.6,,,2.6
+Skjelfoss,NO,NO_2,nan,,2011.0,0.25,,,0.25
+Skjenaldfossen,NO,NO_2,nan,,1906.0,5.8,,,5.8
+Skjerdal,NO,NO_2,nan,,2008.0,5.3,,,5.3
+Skjerka,NO,NO_2,nan,,1997.0,206.6,,,206.6
+Skjomen,NO,NO_2,nan,,1973.0,300.0,,,300.0
+Skjærdalselva,NO,NO_2,nan,,2016.0,0.16,,,0.16
+Skjærlivatn,NO,NO_2,nan,,1993.0,2.6,,,2.6
+Skjæveland,NO,NO_2,nan,,2005.0,0.1,,,0.1
+Skjåk I,NO,NO_2,nan,,1965.0,32.0,,,32.0
+Skjåstad,NO,NO_2,nan,,2004.0,2.0,,,2.0
+Skoddeberg,NO,NO_2,nan,,1953.0,6.78,,,6.78
+Skogbuåna,NO,NO_2,nan,,2002.0,0.86,,,0.86
+Skogelva,NO,NO_2,nan,,2015.0,0.42,,,0.42
+Skogfoss,NO,NO_2,nan,,1964.0,48.0,,,48.0
+Skogheim,NO,NO_2,nan,,1987.0,7.7,,,7.7
+Skogkraft,NO,NO_2,nan,,2003.0,0.11,,,0.11
+Skollenborg,NO,NO_2,nan,,1983.0,97.0,,,97.0
+Skoltefoss,NO,NO_2,nan,,1988.0,0.96,,,0.96
+Skolten,NO,NO_2,nan,,2002.0,1.3,,,1.3
+Skonningsfoss,NO,NO_2,nan,,1997.0,2.4,,,2.4
+Skorga,NO,NO_2,nan,,2019.0,2.9,,,2.9
+Skorge,NO,NO_2,nan,,1936.0,1.8,,,1.8
+Skorovasselva,NO,NO_2,nan,,1997.0,0.08,,,0.08
+Skotfoss,NO,NO_2,nan,,1953.0,24.0,,,24.0
+Skotselv,NO,NO_2,nan,,1992.0,1.0,,,1.0
+Skravlåga,NO,NO_2,nan,,2014.0,5.0,,,5.0
+Skree,NO,NO_2,nan,,1995.0,6.9,,,6.9
+Skripelandsfossen,NO,NO_2,nan,,2014.0,2.6,,,2.6
+Skromma,NO,NO_2,nan,,2008.0,2.3,,,2.3
+Skråstadbekken,NO,NO_2,nan,,1999.0,0.006,,,0.006
+Skulafossen,NO,NO_2,nan,,1950.0,4.5,,,4.5
+Skulbørstadfoss,NO,NO_2,nan,,1910.0,0.45,,,0.45
+Skyggeelva,NO,NO_2,nan,,2010.0,4.76,,,4.76
+Skålheim,NO,NO_2,nan,,2008.0,1.4,,,1.4
+Skår,NO,NO_2,nan,,2015.0,1.4,,,1.4
+Slagstad,NO,NO_2,nan,,2002.0,0.075,,,0.075
+Slemmå,NO,NO_2,nan,,2019.0,1.8,,,1.8
+Slettevann,NO,NO_2,nan,,1975.0,0.7,,,0.7
+Sleveåne,NO,NO_2,nan,,2017.0,5.5,,,5.5
+Slind,NO,NO_2,nan,,1985.0,20.0,,,20.0
+Slunkajavrre,NO,NO_2,nan,,1983.0,21.0,,,21.0
+Smeland,NO,NO_2,nan,,1985.0,24.0,,,24.0
+Smørklepp I,NO,NO_2,nan,,1982.0,0.36,,,0.36
+Smørklepp II,NO,NO_2,nan,,1999.0,0.32,,,0.32
+Smådøla,NO,NO_2,nan,,2008.0,1.4,,,1.4
+Smådøla,NO,NO_2,nan,,2015.0,13.7,,,13.7
+Småvatna,NO,NO_2,nan,,1970.0,18.8,,,18.8
+Snefjellå,NO,NO_2,nan,,2014.0,2.7,,,2.7
+Sokna,NO,NO_2,nan,,1964.0,25.0,,,25.0
+Soks,NO,NO_2,nan,,2009.0,0.98,,,0.98
+Solbergfoss,NO,NO_2,nan,,1924.0,208.0,,,208.0
+Solbjørn,NO,NO_2,nan,,1956.0,4.2,,,4.2
+Solhom,NO,NO_2,nan,,1974.0,200.0,,,200.0
+Solnør Gård,NO,NO_2,nan,,1913.0,0.012,,,0.012
+Songa,NO,NO_2,nan,,1964.0,120.0,,,120.0
+Spetal Verk As,NO,NO_2,nan,,1977.0,0.02,,,0.02
+Spigerbruksfallet,NO,NO_2,nan,,1915.0,0.38,,,0.38
+Spilling,NO,NO_2,nan,,2008.0,1.25,,,1.25
+Stadheim,NO,NO_2,nan,,2001.0,4.53,,,4.53
+Staffi,NO,NO_2,nan,,2000.0,3.8,,,3.8
+Stakaldefoss,NO,NO_2,nan,,1954.0,10.0,,,10.0
+Standal,NO,NO_2,nan,,2012.0,5.49,,,5.49
+Stedjeåna,NO,NO_2,nan,,2007.0,1.2,,,1.2
+Stegaros,NO,NO_2,nan,,2002.0,2.4,,,2.4
+Steinbekken,NO,NO_2,nan,,2010.0,0.0072,,,0.0072
+Steindal (Steindal),NO,NO_2,nan,,2019.0,4.2,,,4.2
+Steindal (Støylselva),NO,NO_2,nan,,2019.0,3.1,,,3.1
+Steindøla,NO,NO_2,nan,,2009.0,2.6,,,2.6
+Steine,NO,NO_2,nan,,2006.0,1.9,,,1.9
+Steinsfoss,NO,NO_2,nan,,1957.0,110.0,,,110.0
+Steinsland,NO,NO_2,nan,,1981.0,170.0,,,170.0
+Steinsvik,NO,NO_2,nan,,2009.0,8.2,,,8.2
+Steinåga,NO,NO_2,nan,,2013.0,5.4,,,5.4
+Stend,NO,NO_2,nan,,1985.0,0.95,,,0.95
+Stifoss,NO,NO_2,nan,,1939.0,0.75,,,0.75
+Stokkelandsåna,NO,NO_2,nan,,2010.0,3.12,,,3.12
+Stongfjord,NO,NO_2,nan,,1907.0,2.9,,,2.9
+Stordal,NO,NO_2,nan,,1974.0,26.0,,,26.0
+Storebekk,NO,NO_2,nan,,2004.0,2.0,,,2.0
+Storedalen,NO,NO_2,nan,,2002.0,0.75,,,0.75
+Storelva,NO,NO_2,nan,,1948.0,0.47,,,0.47
+Storelva,NO,NO_2,nan,,1999.0,0.4,,,0.4
+Storelva,NO,NO_2,nan,,2019.0,8.0,,,8.0
+Storelvi,NO,NO_2,nan,,2017.0,4.04,,,4.04
+Storelvvatnet,NO,NO_2,nan,,2015.0,5.0,,,5.0
+Storfallet,NO,NO_2,nan,,1990.0,2.7,,,2.7
+Storli,NO,NO_2,nan,,2009.0,0.62,,,0.62
+Storlivatn,NO,NO_2,nan,,1968.0,48.0,,,48.0
+Storrøvatnet,NO,NO_2,nan,,2002.0,0.648,,,0.648
+Storvatnet,NO,NO_2,nan,,2015.0,2.0,,,2.0
+Storå,NO,NO_2,nan,,2011.0,1.9,,,1.9
+Storåselva,NO,NO_2,nan,,2018.0,25.5,,,25.5
+Storåvatn 1,NO,NO_2,nan,,2019.0,8.0,,,8.0
+Strand I,NO,NO_2,nan,,2008.0,0.004,,,0.004
+Strandeelva,NO,NO_2,nan,,2005.0,0.37,,,0.37
+Strandfossen,NO,NO_2,nan,,1979.0,25.0,,,25.0
+Strandfossen Minikraftverk,NO,NO_2,nan,,1981.0,0.13,,,0.13
+Strandjordselva,NO,NO_2,nan,,2005.0,0.75,,,0.75
+Strandos,NO,NO_2,nan,,2012.0,1.93,,,1.93
+Straumane,NO,NO_2,nan,,2005.0,1.45,,,1.45
+Straume,NO,NO_2,nan,,2017.0,5.0,,,5.0
+Straumsmo,NO,NO_2,nan,,1966.0,130.0,,,130.0
+Straumstøyl,NO,NO_2,nan,,2006.0,0.4,,,0.4
+Strielv,NO,NO_2,nan,,1984.0,1.7,,,1.7
+Strindmoelva,NO,NO_2,nan,,1997.0,0.018,,,0.018
+Strupen,NO,NO_2,nan,,1999.0,0.48,,,0.48
+Strupen,NO,NO_2,nan,,2017.0,1.92,,,1.92
+Strømsfoss,NO,NO_2,nan,,1994.0,0.5,,,0.5
+Stråpa,NO,NO_2,nan,,2007.0,4.4,,,4.4
+Stublielva,NO,NO_2,nan,,2014.0,3.0,,,3.0
+Stuttgongfossen,NO,NO_2,nan,,2007.0,1.2,,,1.2
+Stuvane,NO,NO_2,nan,,1988.0,38.0,,,38.0
+Styggtjønna,NO,NO_2,nan,,2003.0,0.045,,,0.045
+Stølsdal,NO,NO_2,nan,,1986.0,17.0,,,17.0
+Stølsdal,NO,NO_2,nan,,1985.0,6.0,,,6.0
+Stølsdalselva,NO,NO_2,nan,,2009.0,7.5,,,7.5
+Stølskraft,NO,NO_2,nan,,2003.0,1.34,,,1.34
+Stølslia,NO,NO_2,nan,,2007.0,1.5,,,1.5
+Suldal I,NO,NO_2,nan,,1965.0,180.0,,,180.0
+Suldal II,NO,NO_2,nan,,1967.0,150.0,,,150.0
+Sundal,NO,NO_2,nan,,2006.0,4.2,,,4.2
+Sundfossen,NO,NO_2,nan,,1998.0,2.2,,,2.2
+Sundli,NO,NO_2,nan,,2015.0,1.35,,,1.35
+Sundsbarm,NO,NO_2,nan,,1970.0,111.0,,,111.0
+Sundsfjord,NO,NO_2,nan,,1961.0,96.0,,,96.0
+Suvdal (Buvasselva),NO,NO_2,nan,,2004.0,1.35,,,1.35
+Suvdal (Kleppsvatn),NO,NO_2,nan,,2004.0,1.5,,,1.5
+Svabo,NO,NO_2,nan,,1996.0,3.2,,,3.2
+Svandalsflona,NO,NO_2,nan,,1977.0,20.0,,,20.0
+Svanedal,NO,NO_2,nan,,2003.0,0.4,,,0.4
+Svanedal i Gjesdal,NO,NO_2,nan,,1996.0,0.45,,,0.45
+Svardøla,NO,NO_2,nan,,2018.0,9.2,,,9.2
+Svartdalen,NO,NO_2,nan,,2006.0,7.5,,,7.5
+Svartelva,NO,NO_2,nan,,1959.0,15.5,,,15.5
+Svartevatn,NO,NO_2,nan,,2008.0,0.759,,,0.759
+Svartisen,NO,NO_2,nan,,1993.0,600.0,,,600.0
+Svartkulp,NO,NO_2,nan,,2001.0,3.9,,,3.9
+Svarttjern,NO,NO_2,nan,,2008.0,0.135,,,0.135
+Svartvasselva,NO,NO_2,nan,,2006.0,0.898,,,0.898
+Svartvatn,NO,NO_2,nan,,2012.0,1.79,,,1.79
+Svatsum 1,NO,NO_2,nan,,1915.0,0.9,,,0.9
+Svatsum 2,NO,NO_2,nan,,2009.0,1.7,,,1.7
+Svean,NO,NO_2,nan,,1940.0,27.0,,,27.0
+Svelgen I,NO,NO_2,nan,,1921.0,9.1,,,9.1
+Svelgen II,NO,NO_2,nan,,1958.0,29.0,,,29.0
+Svelgen III,NO,NO_2,nan,,1963.0,22.0,,,22.0
+Svelgen IV,NO,NO_2,nan,,1973.0,50.0,,,50.0
+Svelgfoss,NO,NO_2,nan,,1958.0,92.0,,,92.0
+Sviland,NO,NO_2,nan,,1908.0,2.0,,,2.0
+Svorka,NO,NO_2,nan,,1963.0,22.0,,,22.0
+Svorkmo,NO,NO_2,nan,,1983.0,55.0,,,55.0
+Sværa,NO,NO_2,nan,,2003.0,0.019,,,0.019
+Sværen,NO,NO_2,nan,,2010.0,3.2,,,3.2
+Sya,NO,NO_2,nan,,2009.0,1.2,,,1.2
+Sylsjø,NO,NO_2,nan,,2008.0,3.3,,,3.3
+Syrifossen,NO,NO_2,nan,,2010.0,2.84,,,2.84
+Sy-Sima,NO,NO_2,nan,,1981.0,620.0,,,620.0
+Syversætre Foss,NO,NO_2,nan,,2012.0,2.5,,,2.5
+Sæterstad,NO,NO_2,nan,,2004.0,0.035,,,0.035
+Sæteråa,NO,NO_2,nan,,1998.0,0.032,,,0.032
+Sætra,NO,NO_2,nan,,1948.0,0.7,,,0.7
+Sævareid,NO,NO_2,nan,,2006.0,0.8,,,0.8
+Søa,NO,NO_2,nan,,1967.0,37.0,,,37.0
+Søberg,NO,NO_2,nan,,2011.0,5.2,,,5.2
+Søfferud,NO,NO_2,nan,,1914.0,0.02,,,0.02
+Søkkunda,NO,NO_2,nan,,2017.0,9.0,,,9.0
+Sølbergfallet,NO,NO_2,nan,,1900.0,0.3,,,0.3
+Sølia,NO,NO_2,nan,,2016.0,1.96,,,1.96
+Sølna,NO,NO_2,nan,,2016.0,5.35,,,5.35
+Sønnå H,NO,NO_2,nan,,2008.0,212.4,,,212.4
+Sønnå L,NO,NO_2,nan,,2008.0,62.5,,,62.5
+Sønsteby,NO,NO_2,nan,,2010.0,0.1,,,0.1
+Sørbrandal,NO,NO_2,nan,,1951.0,9.5,,,9.5
+Sørdalen,NO,NO_2,nan,,2009.0,0.55,,,0.55
+Sørdalselva,NO,NO_2,nan,,2008.0,1.15,,,1.15
+Sørdalselva,NO,NO_2,nan,,2017.0,2.7,,,2.7
+Sørfjord I,NO,NO_2,nan,,1983.0,75.0,,,75.0
+Sørfjord II,NO,NO_2,nan,,1983.0,4.0,,,4.0
+Sørfjordkraft,NO,NO_2,nan,,1988.0,0.7,,,0.7
+Sør-Forså,NO,NO_2,nan,,1985.0,1.1,,,1.1
+Sørmeland,NO,NO_2,nan,,2003.0,0.0075,,,0.0075
+Søråi (Momrak),NO,NO_2,nan,,2000.0,0.035,,,0.035
+Søråni,NO,NO_2,nan,,2019.0,7.7,,,7.7
+Søtvik,NO,NO_2,nan,,2005.0,0.09,,,0.09
+Såheim,NO,NO_2,nan,,1915.0,189.0,,,189.0
+Tafjord 1,NO,NO_2,nan,,1923.0,25.0,,,25.0
+Tafjord 2,NO,NO_2,nan,,1952.0,29.5,,,29.5
+Tafjord 3,NO,NO_2,nan,,1958.0,22.0,,,22.0
+Tafjord 4,NO,NO_2,nan,,1968.0,110.0,,,110.0
+Tafjord 5,NO,NO_2,nan,,1982.0,82.7,,,82.7
+Tafjord 6,NO,NO_2,nan,,1994.0,1.8,,,1.8
+Tafjord 7 (Fagerbotnvatn),NO,NO_2,nan,,2006.0,1.1,,,1.1
+Tafjord 7 (Fetvatn),NO,NO_2,nan,,2006.0,2.15,,,2.15
+Tafjord 8,NO,NO_2,nan,,2013.0,2.8,,,2.8
+Takle,NO,NO_2,nan,,2000.0,0.99,,,0.99
+Tapstad,NO,NO_2,nan,,2005.0,0.09,,,0.09
+Taraldsvik,NO,NO_2,nan,,1986.0,1.5,,,1.5
+Teitafossen,NO,NO_2,nan,,2009.0,0.89,,,0.89
+Teksdal,NO,NO_2,nan,,1943.0,2.5,,,2.5
+Tendeland,NO,NO_2,nan,,1995.0,0.022,,,0.022
+Tenneelva,NO,NO_2,nan,,2018.0,3.4,,,3.4
+Tennesvatn,NO,NO_2,nan,,1937.0,1.5,,,1.5
+Tesgjolo,NO,NO_2,nan,,2018.0,0.99,,,0.99
+Tesra,NO,NO_2,nan,,2011.0,0.22,,,0.22
+Tevla,NO,NO_2,nan,,1994.0,49.6,,,49.6
+Thue,NO,NO_2,nan,,2011.0,0.075,,,0.075
+Timbra,NO,NO_2,nan,,2018.0,2.9,,,2.9
+Tinfos I,NO,NO_2,nan,,1955.0,41.0,,,41.0
+Tinfos II,NO,NO_2,nan,,1912.0,3.5,,,3.5
+Tinnkraft,NO,NO_2,nan,,2008.0,2.9,,,2.9
+Tisjøen,NO,NO_2,nan,,2009.0,0.075,,,0.075
+Tisleifjord,NO,NO_2,nan,,2014.0,1.65,,,1.65
+Tistedalsfoss,NO,NO_2,nan,,1955.0,20.0,,,20.0
+Tjodan,NO,NO_2,nan,,1984.0,110.0,,,110.0
+Tjodanpollen,NO,NO_2,nan,,1985.0,3.5,,,3.5
+Tjønna,NO,NO_2,nan,,1995.0,0.2,,,0.2
+Tjønnefoss,NO,NO_2,nan,,1966.0,6.0,,,6.0
+Tjørhom,NO,NO_2,nan,,1973.0,120.0,,,120.0
+Tjørn I,NO,NO_2,nan,,2011.0,0.155,,,0.155
+Tjørn II,NO,NO_2,nan,,2011.0,0.045,,,0.045
+Tjøstheim,NO,NO_2,nan,,2005.0,4.16,,,4.16
+Tjøtaelva,NO,NO_2,nan,,2011.0,2.3,,,2.3
+Todøla,NO,NO_2,nan,,2019.0,3.2,,,3.2
+Tokke,NO,NO_2,nan,,1961.0,430.0,,,430.0
+Toklev,NO,NO_2,nan,,1921.0,4.8,,,4.8
+Tonstad,NO,NO_2,nan,,1968.0,960.0,,,960.0
+Tore Holmen,NO,NO_2,nan,,1998.0,0.004,,,0.004
+Torjul,NO,NO_2,nan,,1995.0,0.036,,,0.036
+Torpa,NO,NO_2,nan,,1989.0,150.0,,,150.0
+Torsnes,NO,NO_2,nan,,2013.0,9.1,,,9.1
+Torvikelva,NO,NO_2,nan,,2012.0,1.237,,,1.237
+Tosdalen,NO,NO_2,nan,,2017.0,19.3,,,19.3
+Tossevikelva,NO,NO_2,nan,,2014.0,2.6,,,2.6
+Tou,NO,NO_2,nan,,1987.0,1.1,,,1.1
+Toverud,NO,NO_2,nan,,1915.0,6.0,,,6.0
+Trandal,NO,NO_2,nan,,2005.0,8.0,,,8.0
+Traudalen,NO,NO_2,nan,,2018.0,0.99,,,0.99
+Tredal,NO,NO_2,nan,,2007.0,0.8,,,0.8
+Trengereid,NO,NO_2,nan,,1996.0,3.5,,,3.5
+Trodla-Tysdal,NO,NO_2,nan,,1990.0,0.015,,,0.015
+Trollelva,NO,NO_2,nan,,2006.0,1.25,,,1.25
+Trollfjord I,NO,NO_2,nan,,1952.0,3.2,,,3.2
+Trollfjord II,NO,NO_2,nan,,1956.0,1.3999,,,1.3999
+Trollheim,NO,NO_2,nan,,1968.0,126.6,,,126.6
+Trollkraft,NO,NO_2,nan,,2001.0,0.18,,,0.18
+Tronstad,NO,NO_2,nan,,2012.0,1.26,,,1.26
+Trontveitåna,NO,NO_2,nan,,2019.0,1.24,,,1.24
+Tryland,NO,NO_2,nan,,1921.0,5.4,,,5.4
+Trysilfossen,NO,NO_2,nan,,1980.0,3.2,,,3.2
+Trælandsfos,NO,NO_2,nan,,1917.0,10.0,,,10.0
+Tua,NO,NO_2,nan,,2010.0,1.8,,,1.8
+Tuddal,NO,NO_2,nan,,2011.0,1.599,,,1.599
+Tunnsjø,NO,NO_2,nan,,1963.0,30.4,,,30.4
+Tunnsjødal,NO,NO_2,nan,,1963.0,176.0,,,176.0
+Tunnsjøfoss,NO,NO_2,nan,,1986.0,8.5,,,8.5
+Tussa,NO,NO_2,nan,,1961.0,64.0,,,64.0
+Tveit,NO,NO_2,nan,,1982.0,0.95,,,0.95
+Tveit,NO,NO_2,nan,,1997.0,0.36,,,0.36
+Tveitafoss,NO,NO_2,nan,,1946.0,1.7,,,1.7
+Tveitaskar,NO,NO_2,nan,,2009.0,4.2,,,4.2
+Tveitelva,NO,NO_2,nan,,2011.0,3.3,,,3.3
+Tveitelvfallet,NO,NO_2,nan,,1997.0,0.1,,,0.1
+Tveiten,NO,NO_2,nan,,2004.0,0.037,,,0.037
+Tveitereidfoss,NO,NO_2,nan,,1955.0,2.6,,,2.6
+Tveiteåno,NO,NO_2,nan,,2005.0,1.45,,,1.45
+Tverrelva,NO,NO_2,nan,,1985.0,0.3,,,0.3
+Tverrelva,NO,NO_2,nan,,2017.0,4.98,,,4.98
+Tverrgjuvlo,NO,NO_2,nan,,2016.0,5.7,,,5.7
+Tverrvatn,NO,NO_2,nan,,1969.0,1.2,,,1.2
+Tverråa,NO,NO_2,nan,,2015.0,0.93,,,0.93
+Tverråa,NO,NO_2,nan,,2018.0,4.7,,,4.7
+Tverråga,NO,NO_2,nan,,2014.0,2.9,,,2.9
+Tverråna,NO,NO_2,nan,,2016.0,3.26,,,3.26
+Tverråni,NO,NO_2,nan,,2016.0,3.0,,,3.0
+Tverå,NO,NO_2,nan,,2004.0,0.956,,,0.956
+Tya,NO,NO_2,nan,,1964.0,32.0,,,32.0
+Tyin,NO,NO_2,nan,,2004.0,374.0,,,374.0
+Tynna,NO,NO_2,nan,,1913.0,0.07,,,0.07
+Tyria I,NO,NO_2,nan,,1949.0,3.3,,,3.3
+Tyria II,NO,NO_2,nan,,1958.0,2.2,,,2.2
+Tysseelva,NO,NO_2,nan,,2017.0,5.55,,,5.55
+Tyssefossen,NO,NO_2,nan,,1941.0,2.8,,,2.8
+Tyssehøl,NO,NO_2,nan,,2001.0,0.5,,,0.5
+Tysseland,NO,NO_2,nan,,2002.0,4.8,,,4.8
+Tysso II,NO,NO_2,nan,,1967.0,224.0,,,224.0
+Tyttebærelva,NO,NO_2,nan,,2014.0,1.46,,,1.46
+Tømmerdal,NO,NO_2,nan,,2002.0,0.99,,,0.99
+Tørnes,NO,NO_2,nan,,1930.0,0.055,,,0.055
+Tørrbekken,NO,NO_2,nan,,2010.0,0.7,,,0.7
+Tøsse,NO,NO_2,nan,,1981.0,3.5,,,3.5
+Ufysja,NO,NO_2,nan,,2005.0,1.5,,,1.5
+Ugedal,NO,NO_2,nan,,2006.0,0.6,,,0.6
+Uleberg,NO,NO_2,nan,,2006.0,9.4,,,9.4
+Ulefoss,NO,NO_2,nan,,1931.0,2.1,,,2.1
+Ulefoss,NO,NO_2,nan,,1963.0,6.4,,,6.4
+Ullestad,NO,NO_2,nan,,2016.0,5.42,,,5.42
+Ulset,NO,NO_2,nan,,1985.0,35.0,,,35.0
+Ulsteindal,NO,NO_2,nan,,1917.0,1.3,,,1.3
+Ulvik I,NO,NO_2,nan,,1921.0,1.3999,,,1.3999
+Ulvik II,NO,NO_2,nan,,1974.0,20.0,,,20.0
+Ulvilla,NO,NO_2,nan,,1989.0,1.1,,,1.1
+Ulvund,NO,NO_2,nan,,1939.0,19.5,,,19.5
+Undfossen,NO,NO_2,nan,,1995.0,0.84,,,0.84
+Unhjemskraft,NO,NO_2,nan,,2004.0,0.9,,,0.9
+Unkervatn,NO,NO_2,nan,,2008.0,0.21,,,0.21
+Urdsdalselva,NO,NO_2,nan,,2012.0,2.8,,,2.8
+Urke,NO,NO_2,nan,,2008.0,8.0,,,8.0
+Urlandåga,NO,NO_2,nan,,2005.0,1.6,,,1.6
+Usma,NO,NO_2,nan,,2010.0,5.49,,,5.49
+Usma,NO,NO_2,nan,,2013.0,9.98,,,9.98
+Usta,NO,NO_2,nan,,1965.0,184.0,,,184.0
+Ustekveikja,NO,NO_2,nan,,1983.0,36.5,,,36.5
+Uthusbekken,NO,NO_2,nan,,2000.0,0.009,,,0.009
+Utigardselva,NO,NO_2,nan,,2005.0,0.1,,,0.1
+Utistubekken,NO,NO_2,nan,,1995.0,0.025,,,0.025
+Utne,NO,NO_2,nan,,2008.0,0.4,,,0.4
+Uvdal,NO,NO_2,nan,,1993.0,0.037,,,0.037
+Uvdal I,NO,NO_2,nan,,1967.0,90.0,,,90.0
+Uvdal II,NO,NO_2,nan,,1967.0,40.0,,,40.0
+Vaage,NO,NO_2,nan,,2007.0,0.49,,,0.49
+Vada,NO,NO_2,nan,,2003.0,0.35,,,0.35
+Vafos,NO,NO_2,nan,,1954.0,4.89,,,4.89
+Vaka,NO,NO_2,nan,,2014.0,1.1,,,1.1
+Vaksvik,NO,NO_2,nan,,2019.0,7.74,,,7.74
+Valen,NO,NO_2,nan,,1939.0,3.8,,,3.8
+Valgermo Giskemo,NO,NO_2,nan,,2010.0,0.98,,,0.98
+Valken,NO,NO_2,nan,,2015.0,9.2,,,9.2
+Vallestadfossen,NO,NO_2,nan,,2006.0,0.92,,,0.92
+Valsøyfjord,NO,NO_2,nan,,1942.0,4.277,,,4.277
+Valvatn,NO,NO_2,nan,,2010.0,1.0,,,1.0
+Valåe,NO,NO_2,nan,,2014.0,1.93,,,1.93
+Vamma,NO,NO_2,nan,,1915.0,344.0,,,344.0
+Vangjolo,NO,NO_2,nan,,2018.0,9.5,,,9.5
+Vangpollen,NO,NO_2,nan,,1942.0,3.5,,,3.5
+Vanndøla,NO,NO_2,nan,,2008.0,3.8,,,3.8
+Vannebo,NO,NO_2,nan,,1914.0,0.785,,,0.785
+Vanvik,NO,NO_2,nan,,2003.0,0.27,,,0.27
+Varalden,NO,NO_2,nan,,1985.0,0.6,,,0.6
+Vartdal,NO,NO_2,nan,,1934.0,0.46,,,0.46
+Vassdalselva,NO,NO_2,nan,,2008.0,0.32,,,0.32
+Vassenden,NO,NO_2,nan,,2019.0,8.56,,,8.56
+Vassfossen,NO,NO_2,nan,,2008.0,5.5,,,5.5
+Vassli,NO,NO_2,nan,,1973.0,10.0,,,10.0
+Vasstaket,NO,NO_2,nan,,2000.0,0.65,,,0.65
+Vasstøl,NO,NO_2,nan,,2012.0,4.85,,,4.85
+Vassvikelva,NO,NO_2,nan,,2015.0,2.77,,,2.77
+Vatn 1012,NO,NO_2,nan,,2004.0,0.56,,,0.56
+Vatn 462,NO,NO_2,nan,,1996.0,0.3,,,0.3
+Vatne,NO,NO_2,nan,,1987.0,3.0,,,3.0
+Vedeld,NO,NO_2,nan,,2003.0,3.9,,,3.9
+Veiteberg,NO,NO_2,nan,,2001.0,2.07,,,2.07
+Veiåni,NO,NO_2,nan,,2008.0,0.75,,,0.75
+Veka,NO,NO_2,nan,,2009.0,3.0,,,3.0
+Vemork,NO,NO_2,nan,,1971.0,204.0,,,204.0
+Vemundsbotn,NO,NO_2,nan,,1976.0,45.0,,,45.0
+Vengåa,NO,NO_2,nan,,2018.0,4.55,,,4.55
+Venna,NO,NO_2,nan,,2013.0,2.8,,,2.8
+Verja,NO,NO_2,nan,,2004.0,0.24,,,0.24
+Verket,NO,NO_2,nan,,1951.0,0.425,,,0.425
+Verksfossen,NO,NO_2,nan,,1980.0,0.4,,,0.4
+Veslefallet,NO,NO_2,nan,,2010.0,4.9,,,4.9
+Vesleåni,NO,NO_2,nan,,2009.0,1.65,,,1.65
+Vessingfoss,NO,NO_2,nan,,1971.0,40.0,,,40.0
+Vestbakken,NO,NO_2,nan,,1983.0,1.2,,,1.2
+Vestfossen,NO,NO_2,nan,,1984.0,2.8,,,2.8
+Vestre Neset,NO,NO_2,nan,,2014.0,1.464,,,1.464
+Vestrebotn,NO,NO_2,nan,,1999.0,2.8,,,2.8
+Viddal,NO,NO_2,nan,,2012.0,5.49,,,5.49
+Viervatn,NO,NO_2,nan,,1987.0,1.2,,,1.2
+Vigelandsfoss,NO,NO_2,nan,,1973.0,26.0,,,26.0
+Vigga,NO,NO_2,nan,,2009.0,0.04,,,0.04
+Vik,NO,NO_2,nan,,1952.0,1.2,,,1.2
+Vik,NO,NO_2,nan,,2011.0,1.52,,,1.52
+Vika,NO,NO_2,nan,,2007.0,1.1,,,1.1
+Vika,NO,NO_2,nan,,2008.0,0.099,,,0.099
+Vikaelva,NO,NO_2,nan,,2008.0,4.14,,,4.14
+Vikaelva,NO,NO_2,nan,,2013.0,5.4,,,5.4
+Vikaåne,NO,NO_2,nan,,2011.0,1.25,,,1.25
+Vikdalskraft,NO,NO_2,nan,,2001.0,1.1,,,1.1
+Viken,NO,NO_2,nan,,2008.0,0.227,,,0.227
+Vikeså,NO,NO_2,nan,,2003.0,4.4,,,4.4
+Vindedal,NO,NO_2,nan,,2005.0,5.4,,,5.4
+Vinjadalen,NO,NO_2,nan,,1933.0,0.075,,,0.075
+Vinje,NO,NO_2,nan,,1964.0,300.0,,,300.0
+Vinkelfallet,NO,NO_2,nan,,1983.0,7.1,,,7.1
+Virak,NO,NO_2,nan,,2005.0,1.4,,,1.4
+Virakelva,NO,NO_2,nan,,2009.0,5.0,,,5.0
+Vistvik,NO,NO_2,nan,,1995.0,0.2,,,0.2
+Vittingfoss,NO,NO_2,nan,,1919.0,33.5,,,33.5
+Viulfoss,NO,NO_2,nan,,1958.0,12.5,,,12.5
+Voldsetelva,NO,NO_2,nan,,2013.0,4.942,,,4.942
+Vollabekken,NO,NO_2,nan,,2012.0,1.0,,,1.0
+Vollakvernfallet,NO,NO_2,nan,,2000.0,0.15,,,0.15
+Vollselva,NO,NO_2,nan,,2004.0,0.006,,,0.006
+Vorma,NO,NO_2,nan,,1939.0,1.59,,,1.59
+Vossedalselvi,NO,NO_2,nan,,2017.0,7.1,,,7.1
+Vrangfoss,NO,NO_2,nan,,1962.0,36.0,,,36.0
+Vrenga,NO,NO_2,nan,,1960.0,10.5,,,10.5
+Vuttudal,NO,NO_2,nan,,2005.0,0.09,,,0.09
+Væla,NO,NO_2,nan,,2015.0,0.9,,,0.9
+Vågaåna,NO,NO_2,nan,,2012.0,3.3,,,3.3
+Våge,NO,NO_2,nan,,2003.0,0.099,,,0.099
+Vågen,NO,NO_2,nan,,2007.0,4.9,,,4.9
+Vågen,NO,NO_2,nan,,2008.0,0.39,,,0.39
+Ylja,NO,NO_2,nan,,1973.0,65.0,,,65.0
+Ytre Alsåker,NO,NO_2,nan,,2008.0,4.9,,,4.9
+Ytre Matre,NO,NO_2,nan,,2006.0,3.3,,,3.3
+Ytteråa,NO,NO_2,nan,,2003.0,0.3,,,0.3
+Øgreyfoss,NO,NO_2,nan,,1969.0,15.2,,,15.2
+Øksenelvane,NO,NO_2,nan,,1953.0,28.0,,,28.0
+Økslandselv,NO,NO_2,nan,,1999.0,0.691,,,0.691
+Økstra,NO,NO_2,nan,,2009.0,0.58,,,0.58
+Øljusjøen,NO,NO_2,nan,,1975.0,50.0,,,50.0
+Ølmedal,NO,NO_2,nan,,2010.0,4.3,,,4.3
+Ølselva,NO,NO_2,nan,,2010.0,0.56,,,0.56
+Ørje,NO,NO_2,nan,,1942.0,1.75,,,1.75
+Ørteren,NO,NO_2,nan,,1966.0,10.0,,,10.0
+Ørtvatn,NO,NO_2,nan,,2012.0,4.27,,,4.27
+Østabø,NO,NO_2,nan,,2002.0,0.23,,,0.23
+Østerhus,NO,NO_2,nan,,2003.0,0.018,,,0.018
+Østli,NO,NO_2,nan,,2016.0,0.5,,,0.5
+Østre Neset,NO,NO_2,nan,,2014.0,1.639,,,1.639
+Øverdal,NO,NO_2,nan,,2012.0,0.5,,,0.5
+Øvre Bersåvatn,NO,NO_2,nan,,2004.0,5.5,,,5.5
+Øvre Dørålseter,NO,NO_2,nan,,1998.0,0.0,,,0.0
+Øvre Fiskumfoss,NO,NO_2,nan,,1976.0,7.6,,,7.6
+Øvre Forsland,NO,NO_2,nan,,2015.0,8.58,,,8.58
+Øvre Kivfallet,NO,NO_2,nan,,2009.0,0.82,,,0.82
+Øvre Leirfoss,NO,NO_2,nan,,1901.0,3.1,,,3.1
+Øvre Markevatn,NO,NO_2,nan,,1938.0,5.0,,,5.0
+Øvre Mollisjok,NO,NO_2,nan,,1990.0,0.015,,,0.015
+Øvre Porsa,NO,NO_2,nan,,1962.0,2.6,,,2.6
+Øvre Røssåga,NO,NO_2,nan,,1961.0,175.0,,,175.0
+Øvre Svultingen,NO,NO_2,nan,,1941.0,6.45,,,6.45
+Øvre Tessa,NO,NO_2,nan,,1956.0,16.0,,,16.0
+Øvre Vinstra,NO,NO_2,nan,,1959.0,140.0,,,140.0
+Øvre Åvella,NO,NO_2,nan,,1984.0,0.43,,,0.43
+Øvstedal,NO,NO_2,nan,,2012.0,1.235,,,1.235
+Øyadalen,NO,NO_2,nan,,2008.0,2.0,,,2.0
+Øyberget,NO,NO_2,nan,,2005.0,99.5,,,99.5
+Øynan,NO,NO_2,nan,,2010.0,1.95,,,1.95
+Øyrabekken,NO,NO_2,nan,,2007.0,2.0,,,2.0
+Øystad Mikrokraftverk,NO,NO_2,nan,,2004.0,0.08,,,0.08
+Åbjøra,NO,NO_2,nan,,1951.0,95.0,,,95.0
+Ågjølet,NO,NO_2,nan,,2002.0,1.341,,,1.341
+Ågskar,NO,NO_2,nan,,2011.0,2.4,,,2.4
+Åkraelva,NO,NO_2,nan,,2013.0,5.31,,,5.31
+Åkvisla,NO,NO_2,nan,,2016.0,3.6,,,3.6
+Ål,NO,NO_2,nan,,1914.0,3.2,,,3.2
+Ålgård,NO,NO_2,nan,,1912.0,0.25,,,0.25
+Ålmo,NO,NO_2,nan,,2006.0,0.99,,,0.99
+Åmdal,NO,NO_2,nan,,1953.0,21.0,,,21.0
+Åmela,NO,NO_2,nan,,1977.0,32.0,,,32.0
+Åmli-Gjøv,NO,NO_2,nan,,1983.0,18.4,,,18.4
+Åmli-Nidelv,NO,NO_2,nan,,1983.0,5.8,,,5.8
+Åmot,NO,NO_2,nan,,1986.0,1.8,,,1.8
+Åmot,NO,NO_2,nan,,2012.0,2.2,,,2.2
+Åna-Sira,NO,NO_2,nan,,1971.0,150.0,,,150.0
+Årdal Nedre,NO,NO_2,nan,,2009.0,2.8,,,2.8
+Årdal Øvre,NO,NO_2,nan,,2008.0,3.5,,,3.5
+Årlifoss,NO,NO_2,nan,,1915.0,22.2,,,22.2
+Årteigelva,NO,NO_2,nan,,2001.0,0.1303,,,0.1303
+Årvik,NO,NO_2,nan,,2008.0,5.25,,,5.25
+Årøy,NO,NO_2,nan,,1983.0,90.0,,,90.0
+Årøy I,NO,NO_2,nan,,1943.0,4.0,,,4.0
+Åsa,NO,NO_2,nan,,1912.0,1.44,,,1.44
+Åsebotn,NO,NO_2,nan,,1994.0,15.0,,,15.0
+Åsedøla,NO,NO_2,nan,,2001.0,1.49,,,1.49
+Åselva,NO,NO_2,nan,,2011.0,3.5,,,3.5
+Åsgårdselva,NO,NO_2,nan,,2007.0,0.227,,,0.227
+Åskåra 1,NO,NO_2,nan,,1970.0,85.0,,,85.0
+Åskåra 2,NO,NO_2,nan,,1973.0,42.0,,,42.0
+Åsmulfoss,NO,NO_2,nan,,1971.0,12.0,,,12.0
+Åvedal,NO,NO_2,nan,,2004.0,0.25,,,0.25
+Åvella,NO,NO_2,nan,,1924.0,4.1,,,4.1
+Bio-El Fredrikstad,NO,NO_2,nan,,2008.0,5.5,,,5.5
+Bjølvefossen,NO,NO_2,nan,,1978.0,11.5,,,11.5
+Bærheim/Forus,NO,NO_2,nan,,2012.0,3.0,,,3.0
+Bø,NO,NO_2,gas,CCGT,2001.0,0.8,0.55,,0.8
+Fana,NO,NO_2,nan,,1999.0,27.0,,,27.0
+Finnfjord,NO,NO_2,nan,,2012.0,39.3,,,39.3
+Forus,NO,NO_2,nan,,2012.0,5.0,,,5.0
+FREVAR,NO,NO_2,nan,,1984.0,1.1,,,1.1
+Grautneset,NO,NO_2,nan,,2009.0,4.8,,,4.8
+Klemetsrud,NO,NO_2,nan,,1985.0,26.9,,,26.9
+Knivåsen,NO,NO_2,nan,,2006.0,,,,
+Kollsnes Kogenereringsanlegg,NO,NO_2,gas,CCGT,2003.0,10.4,0.55,,10.4
+Kogen Sund,NO,NO_2,gas,CCGT,2003.0,0.15,0.55,,0.15
+Kårstø terminalen,NO,NO_2,gas,CCGT,1985.0,35.0,0.52,,35.0
+Melkøya,NO,NO_2,gas,CCGT,2007.0,248.0,0.58,,248.0
+Mongstad,NO,NO_2,gas,CCGT,2010.0,179.0,0.58,,179.0
+"Norske Skog, Skogn",NO,NO_2,nan,,2012.0,11.5,,,11.5
+Nyhamna reservekraftverk,NO,NO_2,gas,CCGT,2008.0,150.0,0.58,,150.0
+Returkraft/Langemyr,NO,NO_2,nan,,2010.0,14.3,,,14.3
+Senja Avfall,NO,NO_2,nan,,2007.0,0.3,,,0.3
+Sløvåg kogen,NO,NO_2,nan,,2007.0,1.0,,,1.0
+Thamshavn verk,NO,NO_2,nan,,1981.0,24.8,,,24.8
+Tjeldbergodden,NO,NO_2,nan,,1998.0,22.0,,,22.0
+Tjeldbergodden reservekraftverk,NO,NO_2,gas,CCGT,2008.0,150.0,0.58,,150.0
+Trehørningen energisentral,NO,NO_2,nan,,2011.0,6.6,,,6.6
+Øye varmekraftverk/Kleven,NO,NO_2,nan,,1981.0,14.0,,,14.0
+Åby (Örebro) G3,SE,SE_4,gas,CCGT,,106.0,0.55,,106.0
+Aros (Västerås) G3,SE,SE_4,oil,Oil,,243.0,0.36,,243.0
+Aros (Västerås) G4,SE,SE_4,nan,,,192.0,,,192.0
+Bastusel G1,SE,SE_4,nan,,,100.0,,,100.0
+Forsmark G11+G12,SE,SE_4,nan,,,984.0,,,984.0
+Forsmark G21+G22,SE,SE_4,nan,,,1120.0,,,1120.0
+Forsmark G3,SE,SE_4,nan,,,1187.0,,,1187.0
+Fyris (Uppsala) G1,SE,SE_4,gas,CCGT,,120.0,0.55,,120.0
+Gallejaur G1,SE,SE_4,nan,,,113.0,,,113.0
+Gallejaur G2,SE,SE_4,nan,,,101.0,,,101.0
+Harsprånget G1,SE,SE_4,nan,,,120.0,,,120.0
+Harsprånget G3,SE,SE_4,nan,,,120.0,,,120.0
+Harsprånget G4,SE,SE_4,nan,,,175.0,,,175.0
+Harsprånget G5,SE,SE_4,nan,,,440.0,,,440.0
+Karlshamn G1,SE,SE_4,oil,Oil,,334.0,0.36,,334.0
+Karlshamn G2,SE,SE_4,oil,Oil,,334.0,0.36,,334.0
+Karlshamn G3,SE,SE_4,oil,Oil,,328.0,0.36,,328.0
+Letsi G1,SE,SE_4,nan,,,145.0,,,145.0
+Letsi G2,SE,SE_4,nan,,,145.0,,,145.0
+Letsi G3,SE,SE_4,nan,,,145.0,,,145.0
+Ligga G3,SE,SE_4,nan,,,175.0,,,175.0
+Messaure G1 ,SE,SE_4,nan,,,150.0,,,150.0
+Messaure G2 ,SE,SE_4,nan,,,150.0,,,150.0
+Messaure G3 ,SE,SE_4,nan,,,150.0,,,150.0
+Öresundsverket (Malmö) G1+G2,SE,SE_4,gas,CCGT,,448.0,0.55,,448.0
+Oskarshamn G1,SE,SE_4,nan,,,473.0,,,473.0
+Oskarshamn G2,SE,SE_4,nan,,,638.0,,,638.0
+Oskarshamn G3,SE,SE_4,nan,,,1400.0,,,1400.0
+Porjus G11 ,SE,SE_4,nan,,,235.0,,,235.0
+Porjus G12 ,SE,SE_4,nan,,,220.0,,,220.0
+Porsi G3 ,SE,SE_4,nan,,,107.0,,,107.0
+Ringhals G11+G12,SE,SE_4,nan,,,865.0,,,865.0
+Ringhals G21+G22,SE,SE_4,nan,,,865.0,,,865.0
+Ringhals G31+G32,SE,SE_4,nan,,,1062.0,,,1062.0
+Ringhals G41+G42,SE,SE_4,nan,,,938.0,,,938.0
+Ritsem G1 ,SE,SE_4,nan,,,320.0,,,320.0
+Rya kraftvärmeverk (Göteborg),SE,SE_4,gas,CCGT,,260.0,0.55,,260.0
+Seitevare G1 ,SE,SE_4,nan,,,225.0,,,225.0
+Stalon G1,SE,SE_4,nan,,,130.0,,,130.0
+Stenungsund G3,SE,SE_4,oil,Oil,,260.0,0.36,,260.0
+Stenungsund G4,SE,SE_4,oil,Oil,,260.0,0.36,,260.0
+Stornorrfors G1,SE,SE_4,nan,,,135.0,,,135.0
+Stornorrfors G2,SE,SE_4,nan,,,135.0,,,135.0
+Stornorrfors G3,SE,SE_4,nan,,,135.0,,,135.0
+Stornorrfors G4,SE,SE_4,nan,,,170.0,,,170.0
+Trängslet G1,SE,SE_4,nan,,,100.0,,,100.0
+Trängslet G2,SE,SE_4,nan,,,100.0,,,100.0
+Trängslet G3,SE,SE_4,nan,,,130.0,,,130.0
+Värtan (Stockholm) G1,SE,SE_4,nan,,,190.0,,,190.0
+Värtan (Stockholm) G6,SE,SE_4,hardcoal,Hardcoal,,130.0,0.4,,130.0
+Vietas G1 ,SE,SE_4,nan,,,165.0,,,165.0
+Vietas G2 ,SE,SE_4,nan,,,165.0,,,165.0
+Abwinden-Asten,AT,AT,nan,,1979.0,168.0,,,168.0
+Altenmarkt,AT,AT,nan,,1960.0,26.0,,,26.0
+Altenwörth,AT,AT,nan,,1976.0,328.0,,,328.0
+Annabrücke,AT,AT,nan,,1981.0,90.0,,,90.0
+Arnstein,AT,AT,nan,,1925.0,30.0,,,30.0
+Aschach,AT,AT,nan,,1964.0,287.0,,,287.0
+Bischofshofen,AT,AT,nan,,1986.0,16.0,,,16.0
+Bodendorf-Mur,AT,AT,nan,,1982.0,7.0,,,7.0
+Bodendorf-Paal,AT,AT,nan,,1982.0,27.0,,,27.0
+Bösdornau,AT,AT,nan,,1940.0,25.0,,,25.0
+Dionysen,AT,AT,nan,,1949.0,16.0,,,16.0
+Edling,AT,AT,nan,,1962.0,87.0,,,87.0
+Egglfing-Obernberg,AT,AT,nan,,1950.0,84.0,,,84.0
+Erzbach,AT,AT,nan,,1986.0,1.0,,,1.0
+Feistritz-Ludmannsdorf,AT,AT,nan,,1968.0,88.0,,,88.0
+Ferlach-Maria Rain,AT,AT,nan,,1975.0,75.0,,,75.0
+Fisching,AT,AT,nan,,1994.0,22.0,,,22.0
+Freudenau,AT,AT,nan,,1998.0,172.0,,,172.0
+Friesach,AT,AT,nan,,1998.0,12.0,,,12.0
+Gabersdorf,AT,AT,nan,,1974.0,15.0,,,15.0
+Garsten-St.Ulrich,AT,AT,nan,,1967.0,38.0,,,38.0
+Gemeinschaftskraftwerk Inn,AT,AT,nan,,2020.0,89.0,,,89.0
+Gerlos,AT,AT,nan,,1949.0,200.0,,,200.0
+Gralla,AT,AT,nan,,1964.0,15.0,,,15.0
+Graz-Puntigam,AT,AT,nan,,,18.0,,,18.0
+Greifenstein,AT,AT,nan,,1985.0,293.0,,,293.0
+Gries,AT,AT,nan,,2019.0,9.0,,,9.0
+Großraming,AT,AT,nan,,1950.0,72.0,,,72.0
+Gstatterboden,AT,AT,nan,,2009.0,2.0,,,2.0
+Gunggl,AT,AT,nan,,1992.0,4.0,,,4.0
+Gössendorf,AT,AT,nan,,2012.0,19.0,,,19.0
+Hieflau,AT,AT,nan,,1956.0,63.0,,,63.0
+Hieflau-Erzbach,AT,AT,nan,,1956.0,1.0,,,1.0
+Hirzbach,AT,AT,nan,,2012.0,1.0,,,1.0
+Häusling,AT,AT,nan,,1988.0,360.0,,,360.0
+Kalsdorf,AT,AT,nan,,2013.0,19.0,,,19.0
+Kaprun Hauptstufe,AT,AT,nan,,1953.0,260.0,,,260.0
+Kaprun-Klammsee,AT,AT,nan,,1947.0,1.0,,,1.0
+Kellerberg,AT,AT,nan,,1985.0,25.0,,,25.0
+Klaus,AT,AT,nan,,1975.0,20.0,,,20.0
+Kreuzbergmaut,AT,AT,nan,,1996.0,18.0,,,18.0
+Kreuzeck,AT,AT,nan,,1960.0,45.0,,,45.0
+Krippau,AT,AT,nan,,1965.0,30.0,,,30.0
+Landl,AT,AT,nan,,1967.0,25.0,,,25.0
+Laufnitzdorf,AT,AT,nan,,1931.0,18.0,,,18.0
+Lavamünd,AT,AT,nan,,1949.0,28.0,,,28.0
+Leoben,AT,AT,nan,,2005.0,10.0,,,10.0
+Losenstein,AT,AT,nan,,1962.0,39.0,,,39.0
+Malta-Hauptstufe (Rottau),AT,AT,nan,,1979.0,730.0,,,730.0
+Malta-Oberstufe (Kölnbreinsperre),AT,AT,nan,,1979.0,120.0,,,120.0
+Malta-Unterstufe (Möllbrücke),AT,AT,nan,,1979.0,41.0,,,41.0
+Mandling,AT,AT,nan,,1985.0,6.0,,,6.0
+Mayrhofen,AT,AT,nan,,1970.0,355.0,,,355.0
+Melk,AT,AT,nan,,1982.0,187.0,,,187.0
+Mellach Fernheizkraftwerk,AT,AT,hardcoal,Hardcoal,1986.0,246.0,0.37,,246.0
+Mellach Gaskombikraftwerk,AT,AT,hardcoal,Hardcoal,2011.0,832.0,0.43,,832.0
+Mellach Laufkraftwerk,AT,AT,nan,,1985.0,16.0,,,16.0
+Mühldorf,AT,AT,nan,,1925.0,1.0,,,1.0
+Niklai,AT,AT,nan,,1960.0,2.0,,,2.0
+Nußdorf bei Wien,AT,AT,nan,,2005.0,5.0,,,5.0
+Obervogau,AT,AT,nan,,1978.0,13.0,,,13.0
+Ottensheim-Wilhering,AT,AT,nan,,1974.0,179.0,,,179.0
+Pack,AT,AT,nan,,1931.0,1.0,,,1.0
+Paternion,AT,AT,nan,,1988.0,24.0,,,24.0
+Peggau-Deutschfeistritz,AT,AT,nan,,1965.0,13.0,,,13.0
+Pernegg,AT,AT,nan,,1927.0,26.0,,,26.0
+Pichlern,AT,AT,nan,,2005.0,2.0,,,2.0
+Pöls,AT,AT,nan,,1904.0,2.0,,,2.0
+Rabenstein,AT,AT,nan,,1987.0,14.0,,,14.0
+Ramsaubach,AT,AT,nan,,1985.0,1.0,,,1.0
+Reißeck 2,AT,AT,nan,,2016.0,430.0,,,430.0
+Reißeck Jahresspeicher,AT,AT,nan,,1962.0,68.0,,,68.0
+Reißeck Tagesspeicher,AT,AT,nan,,1953.0,23.0,,,23.0
+Retznei,AT,AT,nan,,1992.0,1.0,,,1.0
+Rosegg-St.Jakob,AT,AT,nan,,1974.0,80.0,,,80.0
+Rosenau,AT,AT,nan,,1953.0,34.0,,,34.0
+Roßhag,AT,AT,nan,,1972.0,231.0,,,231.0
+Salza,AT,AT,nan,,1949.0,9.0,,,9.0
+Schwabeck,AT,AT,nan,,1943.0,79.0,,,79.0
+Schwarzach,AT,AT,nan,,1960.0,120.0,,,120.0
+Schönau,AT,AT,nan,,1972.0,30.0,,,30.0
+Spielfeld,AT,AT,nan,,1982.0,13.0,,,13.0
+St.Georgen,AT,AT,nan,,1985.0,6.0,,,6.0
+St.Johann,AT,AT,nan,,1991.0,17.0,,,17.0
+St.Martin,AT,AT,nan,,1965.0,10.0,,,10.0
+St.Pantaleon,AT,AT,nan,,1965.0,51.0,,,51.0
+St.Veit,AT,AT,nan,,1989.0,17.0,,,17.0
+Steinfeld,AT,AT,nan,,1963.0,1.0,,,1.0
+Sölk,AT,AT,nan,,1978.0,61.0,,,61.0
+Talbach,AT,AT,nan,,1926.0,1.0,,,1.0
+Teigitschmühle,AT,AT,nan,,1926.0,1.0,,,1.0
+Ternberg,AT,AT,nan,,1949.0,42.0,,,42.0
+Thurnsdorf,AT,AT,nan,,1965.0,3.0,,,3.0
+Triebenbach,AT,AT,nan,,1995.0,10.0,,,10.0
+Tuxbach,AT,AT,nan,,1930.0,1.0,,,1.0
+Unterer Tuxbach  Kleinkraftwerk Stillupp,AT,AT,nan,,,2.0,,,2.0
+Urreiting,AT,AT,nan,,1986.0,17.0,,,17.0
+Villach,AT,AT,nan,,1984.0,25.0,,,25.0
+Vordernberg,AT,AT,nan,,1987.0,1.0,,,1.0
+Wallnerau-Salzach,AT,AT,nan,,1990.0,13.0,,,13.0
+Wallnerau-Unterwasser,AT,AT,nan,,1989.0,5.0,,,5.0
+Wallsee-Mitterkirchen,AT,AT,nan,,1968.0,210.0,,,210.0
+Weinzödl,AT,AT,nan,,1982.0,18.0,,,18.0
+Weißenegg,AT,AT,nan,,1985.0,1.0,,,1.0
+Werfen/Pfarrwerfen,AT,AT,nan,,2009.0,16.0,,,16.0
+Weyer,AT,AT,nan,,1969.0,37.0,,,37.0
+Ybbs-Persenbeug,AT,AT,nan,,1959.0,237.0,,,237.0
+Mellach Gas-Kombikraftwerk,AT,AT,gas,CCGT,2011.0,832.0,0.58,,832.0
+TheiÃ,AT,AT,gas,OCGT,2000.0,800.0,0.37,,800.0
+Simmering 1,AT,AT,gas,CCGT,2009.0,710.0,0.58,,710.0
+Timelkam,AT,AT,gas,CCGT,2008.0,405.0,0.58,,405.0
+Donaustadt,AT,AT,gas,OCGT,2001.0,395.0,0.37,,395.0
+Simmering 3,AT,AT,gas,CCGT,2009.0,350.0,0.58,,350.0
+Mellach Fernheizkraftwerk,AT,AT,nan,,1986.0,246.0,,,246.0
+Linz-Mitte Fernheizkraftwerk,AT,AT,gas,CCGT,1970.0,217.0,0.52,,217.0
+Linz-SÃ¼d Fernheizkraftwerk,AT,AT,gas,CCGT,1993.0,192.0,0.52,,192.0
+Korneuburg,AT,AT,gas,CCGT,1958.0,150.0,0.52,,150.0
+Salzburg-Mitte Heizkraftwerk,AT,AT,gas,CCGT,2001.0,83.7,0.55,,83.7
+Laakirchen,AT,AT,gas,CCGT,1993.0,61.0,0.52,,61.0
+Simmering 2,AT,AT,gas,CCGT,2009.0,60.0,0.58,,60.0
+Wels Fernheizkraftwerk,AT,AT,gas,CCGT,2000.0,47.0,0.55,,47.0
+Salzburg-Nord Heizkraftwerk,AT,AT,gas,GT+ST,1994.0,13.5,0.45,,13.5
+Amager Power Station (Unit 1),DK ,DK_2,gas,CCGT,2009.0,70.0,0.58,,70.0
+Amager Power Station (Unit 3),DK ,DK_2,nan,,1989.0,263.0,,,263.0
+Asnæs Power Station (Unit 2),DK ,DK_1,nan,,1961.0,147.0,,,147.0
+Avedøre Power Station (Unit 1),DK ,DK_2,nan,,1990.0,254.0,,,254.0
+Avedøre Power Station (Unit 2),DK ,DK_2,nan,,2002.0,394.0,,,394.0
+Esbjerg Power Station (Unit 3),DK ,DK_1,nan,,1992.0,407.0,,,407.0
+Fyn Power Station (Unit 7),DK ,DK_1,hardcoal,Hardcoal,1991.0,410.0,0.37,,410.0
+Fyn Power Station (Unit 8),DK ,DK_1,gas,CCGT,2009.0,35.0,0.58,,35.0
+H.C. Ørsted Power Station (Unit 7),DK ,DK_2,gas,CCGT,1985.0,75.0,0.52,,75.0
+H.C. Ørsted Power Station (Unit 8),DK ,DK_2,gas,CCGT,2004.0,25.0,0.55,,25.0
+Herning Power Station,DK ,DK_1,gas,CCGT,1982.0,89.0,0.52,,89.0
+Kyndby Power Station (Unit 21),DK ,DK_2,oil,Oil,1974.0,260.0,0.35,,260.0
+Kyndby Power Station (Unit 22),DK ,DK_2,oil,Oil,1976.0,260.0,0.35,,260.0
+Kyndby Power Station (Unit 41),DK ,DK_2,oil,Oil,1974.0,20.0,0.35,,20.0
+Kyndby Power Station (Unit 51+52),DK ,DK_2,oil,Oil,1973.0,125.0,0.35,,125.0
+Masnedø Power Station (Unit 31),DK ,DK_2,nan,,1975.0,70.0,,,70.0
+Nordjylland Power Station (Gas Turbine Unit),DK ,DK_1,hardcoal,Hardcoal,1976.0,25.0,0.37,,25.0
+Nordjylland Power Station (Unit 3),DK ,DK_1,hardcoal,Hardcoal,1998.0,415.0,0.4,,415.0
+Østkraft,DK ,DK_2,nan,,2014.0,90.0,,,90.0
+Skærbæk Power Station (Unit 3),DK ,DK_1,gas,CCGT,1997.0,392.0,0.55,,392.0
+Studstrup Power Station (Unit 3),DK ,DK_1,hardcoal,Hardcoal,1984.0,375.0,0.37,,375.0
+Studstrup Power Station (Unit 5),DK ,DK_1,hardcoal,Hardcoal,1986.0,15.0,0.37,,15.0
+BNA0024,AT,AT,nan,,1989.0,60.0,,,60.0
+BNA0496,AT,AT,nan,,1956.0,89.0,,,89.0
+BNA0505,AT,AT,nan,,1927.0,79.0,,,79.0
+BNA0567a,AT,AT,nan,,1981.0,144.5,,,144.5
+BNA0567b,AT,AT,nan,,1981.0,144.5,,,144.5
+BNA0583,CH,CH,nan,,1914.0,104.4,,,104.4
+BNA0777,AT,AT,nan,,1969.0,247.0,,,247.0
+BNA0778,AT,AT,nan,,2008.0,525.0,,,525.0
+BNA0779,AT,AT,nan,,1943.0,29.0,,,29.0
+BNA0780,AT,AT,nan,,1930.0,158.0,,,158.0
+BNA0816,AT,AT,nan,,1964.0,392.0,,,392.0
+BNA0906,AT,AT,nan,,1981.0,500.0,,,500.0
+BNA0917,AT,AT,nan,,1961.0,96.0,,,96.0
+BNA0954,AT,AT,nan,,1957.0,238.0,,,238.0
+BNA0974,AT,AT,nan,,1943.0,198.0,,,198.0
+BNA0975,AT,AT,nan,,2011.0,295.0,,,295.0
+BNA0978,LU,DE_LU,nan,,1962.0,100.0,,,100.0
+BNA0979,LU,DE_LU,nan,,1962.0,100.0,,,100.0
+BNA0980,LU,DE_LU,nan,,1963.0,100.0,,,100.0
+BNA0981,LU,DE_LU,nan,,1963.0,100.0,,,100.0
+BNA0982,LU,DE_LU,nan,,1963.0,100.0,,,100.0
+BNA0983,LU,DE_LU,nan,,1964.0,100.0,,,100.0
+BNA0984,LU,DE_LU,nan,,1964.0,100.0,,,100.0
+BNA0985,LU,DE_LU,nan,,1963.0,100.0,,,100.0
+BNA0986,LU,DE_LU,nan,,1964.0,100.0,,,100.0
+BNA0987,LU,DE_LU,nan,,1975.0,196.0,,,196.0
+BNA1672,AT,AT,nan,,1984.0,86.0,,,86.0
+BNA1675,LU,DE_LU,nan,,2015.0,195.0,,,195.0
+BNA1869,AT,AT,nan,,2017.0,12.0,,,12.0
+BNA1910,AT,AT,nan,,2018.0,360.0,,,360.0

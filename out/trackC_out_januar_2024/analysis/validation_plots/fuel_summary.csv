@@ -1,0 +1,6 @@
+marginal_fuel,mean_mef_g_per_kwh,std_mef_g_per_kwh,count_mef_g_per_kwh,mean_marginal_srmc_eur_per_mwh,std_marginal_srmc_eur_per_mwh,mean_abs_error,median_abs_error
+Braunkohle,1907.37,0.0,2,134.56,2.12,65.06,65.06
+Erdgas,480.98,77.15,104,103.64,16.58,55.5,51.87
+Heizöl leicht / Diesel,1152.79,36.55,574,259.52,9.31,174.88,176.32
+Heizöl schwer,770.05,,1,167.9,,114.61,114.61
+Steinkohle,884.78,67.55,62,92.44,6.56,51.31,45.69

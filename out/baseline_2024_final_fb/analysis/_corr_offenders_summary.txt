@@ -1,0 +1,4 @@
+Filtered corr (Pearson): 0.1978
+nN points after filter: 7987
+Cap mode: peaker_min
+Drop negative prices: True

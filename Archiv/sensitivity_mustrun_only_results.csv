@@ -1,0 +1,6 @@
+mustrun_quantile,correlation,duration,outdir
+0.1,0.6769353840102893,146.81034135818481,out/sensitivity_mustrun_only_0.10
+0.2,0.6769353840102893,165.34299898147583,out/sensitivity_mustrun_only_0.20
+0.3,0.6769353840102893,130.2492220401764,out/sensitivity_mustrun_only_0.30
+0.4,0.6769353840102893,131.24952936172485,out/sensitivity_mustrun_only_0.40
+0.5,0.6769353840102893,151.23843550682068,out/sensitivity_mustrun_only_0.50

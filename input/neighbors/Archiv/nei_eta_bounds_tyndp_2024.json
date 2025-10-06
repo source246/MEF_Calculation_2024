@@ -1,0 +1,27 @@
+{
+  "Nuclear": {
+    "eta_min": 0.3,
+    "eta_max": 0.35,
+    "eta_mean": 0.33
+  },
+  "Hard coal": {
+    "eta_min": 0.3,
+    "eta_max": 0.46,
+    "eta_mean": 0.39875
+  },
+  "Lignite": {
+    "eta_min": 0.3,
+    "eta_max": 0.46,
+    "eta_mean": 0.39875
+  },
+  "Gas": {
+    "eta_min": 0.25,
+    "eta_max": 0.6,
+    "eta_mean": 0.43244140625
+  },
+  "Oil": {
+    "eta_min": 0.25,
+    "eta_max": 0.43,
+    "eta_mean": 0.36125
+  }
+}

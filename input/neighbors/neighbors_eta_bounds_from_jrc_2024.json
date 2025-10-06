@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "created": "2025-10-02T17:53:10.772496",
+    "basis": "LHV/NCV (lower heating value)",
+    "note": "Bounds intended for --nei_eta_mode bounds"
+  },
+  "data": {
+    "Fossil Gas": {
+      "min": 0.39,
+      "max": 0.6,
+      "mean": 0.52,
+      "basis": "LHV/NCV",
+      "source": "JRC (2012)"
+    },
+    "Fossil Hard coal": {
+      "min": 0.33,
+      "max": 0.46,
+      "mean": 0.41,
+      "basis": "LHV/NCV",
+      "source": "JRC (2012)"
+    },
+    "Fossil Brown coal/Lignite": {
+      "min": 0.3,
+      "max": 0.43,
+      "mean": 0.4,
+      "basis": "LHV/NCV",
+      "source": "JRC (2012)"
+    },
+    "Fossil Oil": {
+      "min": 0.3,
+      "max": 0.4,
+      "mean": 0.35,
+      "basis": "LHV/NCV",
+      "source": "JRC (2012)"
+    },
+    "Fossil Coal-derived gas": {
+      "min": 0.39,
+      "max": 0.46,
+      "mean": 0.43,
+      "basis": "LHV/NCV (proxy)",
+      "source": "JRC (2012) – IGCC/syngas proxy"
+    },
+    "Nuclear": {
+      "min": 0.3,
+      "max": 0.35,
+      "mean": 0.33,
+      "basis": "LHV/NCV",
+      "source": "JRC (2012)"
+    }
+  }
+}

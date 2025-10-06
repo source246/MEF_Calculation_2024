@@ -1,0 +1,19 @@
+Run parameters:
+domestic_ee_after_mustrun: False
+ee_surplus_order: ee_before_mu
+end: 2024-01-16 12:00
+epsilon: 0.01
+eta_col: Imputed_Effizienz_binned
+fleet: input/de/fleet/Kraftwerke_eff_binned.csv
+flow_mode: scheduled
+flows: flows/flows_scheduled_DE_LU_2024_net.csv
+fuel_prices: input/de/fuels/prices_2024.csv
+jao_fb_enable: True
+jao_fb_tolerance: 100.0
+neighbor_gen_dir: input/neighbors/gen_2024
+neighbor_load_dir: input/neighbors/out_load/2024
+neighbor_prices: input/neighbors/prices/neighbor_prices_2024.csv
+outdir: out/debug_one_day_ee_first
+price_anchor: threshold
+price_tol: 12.0
+start: 2024-01-15 12:00

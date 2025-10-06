@@ -1,0 +1,68 @@
+{
+  "description": "MEF Optimized Parameters - Kleine Deltas, Großer Effekt",
+  "version": "1.0_optimized",
+  "hash": "21594d51a56d3848",
+  "base": "Opt3_MUSegmented + Optimierungen",
+  "performance": "+3.5% Price-SRMC Korrelation",
+  "status": "Production Ready (mit mu_cost_alpha Kalibrierung)",
+  
+  "parameters": {
+    "fleet": "input/de/fleet/Kraftwerke_eff_binned.csv",
+    "eta_col": "Imputed_Effizienz_binned", 
+    "fuel_prices": "input/de/fuels/prices_2024.csv",
+    "flows": "flows/flows_scheduled_DE_LU_2024_net.csv",
+    "neighbor_gen_dir": "input/neighbors/gen_2024",
+    "neighbor_load_dir": "input/neighbors/out_load/2024", 
+    "neighbor_prices": "input/neighbors/prices/neighbor_prices_2024.csv",
+    "year": 2024,
+    
+    "price_anchor": "closest",
+    "epsilon": 0.01,
+    
+    "corr_cap_tol": 2.5,
+    "corr_drop_neg_prices": true,
+    "corr_cap_mode": "peaker_min",
+    
+    "mu_cost_mode": "q_vs_cost",
+    "mu_cost_alpha": 0.50,
+    "mu_cost_q": 0.20,
+    "mu_cost_monthly": true,
+    "mu_cost_use_peak": true,
+    "de_fossil_mustrun_from_cost": true,
+    
+    "mustrun_neg_pricing_enable": true,
+    "mustrun_neg_share": 0.8,
+    "mustrun_neg_price_value": -10.0,
+    
+    "mustrun_mode": "off",
+    "mustrun_lignite_q": 0.20,
+    "mustrun_quantile": 0.20,
+    "mustrun_peak_hours": "08-20",
+    "lignite_price_floor": 30.0,
+    
+    "peak_switch": true,
+    "peak_eta_ocgt": 0.39,
+    "peak_eta_oil": 0.33,
+    "apply_non_availability": true,
+    
+    "therm_avail": 0.95,
+    "psp_srmc_floor_eur_mwh": 60.0,
+    "nuclear_srmc_eur_mwh": 15.0,
+    "biomass_srmc_eur_mwh": 45.0,
+    "waste_srmc_eur_mwh": 25.0
+  },
+  
+  "validation_metrics": {
+    "price_srmc_correlation_target": 0.628,
+    "mustrun_target_gw": "15-20 (mit mu_cost_alpha=0.50)",
+    "negativstunden_2024": 457,
+    "mef_negative_target": "< 50 g/kWh"
+  },
+  
+  "compliance_notes": {
+    "bnetzA_component_A": "4-7 GW Mindesterzeugung (netzbedingt)",
+    "bnetzA_component_B": "13-17 GW konventioneller Sockel (KWK/Waste)",
+    "bnetzA_total": "17-24 GW Gesamt-Must-Run (Extremlagen 2019/20)",
+    "source_references": ["BNetzA", "Consentec/ÜNB", "Agora", "SMARD/EPEX SPOT"]
+  }
+}

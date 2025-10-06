@@ -1,0 +1,22 @@
+MEF Validation Summary
+=========================
+
+Total hours processed: 24
+Hours with finite prices: 24
+Hours with positive residual: 21
+
+MEF Statistics:
+Mean MEF: 728.4 g/kWh
+Median MEF: 876.4 g/kWh
+Min MEF: 335.0 g/kWh
+Max MEF: 1021.3 g/kWh
+
+Price Statistics:
+Mean price: 17.45 EUR/MWh
+Median price: 1.50 EUR/MWh
+Price-SRMC correlation: 0.444
+
+Marginal Fuel Mix:
+  Braunkohle: 16 hours (66.7%)
+  Erdgas: 5 hours (20.8%)
+  mix: 3 hours (12.5%)

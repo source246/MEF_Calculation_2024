@@ -1,0 +1,16 @@
+MU-before-EE Experimental Run Summary
+========================================
+
+Total hours processed: 24
+Mean MEF: 728.4 g/kWh
+Mean price: 17.45 EUR/MWh
+Mean residual: 5076.2 MW
+
+Experimental settings:
+- Oil MU export suppressed: True
+- MU-before-EE logic: Active in exportable_blocks_for_zone
+- mustrun_quantile: 0.1
+- mu_cost_alpha: 0.4
+- fossil_mustrun_mode: off
+- DE nuclear mustrun share: 0.092
+- DE biomass mustrun share: 0.109

@@ -1,0 +1,3 @@
+marginal_fuel,mean_mef_g_per_kwh,std_mef_g_per_kwh,count_mef_g_per_kwh,mean_marginal_srmc_eur_per_mwh,std_marginal_srmc_eur_per_mwh,mean_abs_error,median_abs_error
+Erdgas,424.28,39.61,15,104.76,17.93,4.62,2.86
+Steinkohle,842.0,85.62,9,89.14,9.25,4.74,4.64

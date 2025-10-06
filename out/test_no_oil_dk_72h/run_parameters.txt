@@ -1,0 +1,21 @@
+Run parameters:
+end: 2024-04-14 00:00
+epsilon: 0.01
+eta_col: Imputed_Effizienz_binned
+fb_np_csv: input/fb/fb_core_DE_2024.csv
+fleet: input/de/fleet/Kraftwerke_eff_binned.csv
+flows: flows/flows_scheduled_DE_LU_2024_net.csv
+fossil_mustrun_fuels: Erdgas,Steinkohle
+fuel_prices: input/de/fuels/prices_2024.csv
+jao_fb_enable: True
+jao_fb_tolerance: 100.0
+mustrun_bid_eur_mwh: 35.0
+neighbor_gen_dir: input/neighbors/gen_2024
+neighbor_load_dir: input/neighbors/out_load/2024
+neighbor_prices: input/neighbors/prices/neighbor_prices_2024.csv
+outdir: out\test_no_oil_dk_72h
+price_anchor: threshold
+price_tol: 3.0
+psp_srmc_floor_eur_mwh: 0.0
+start: 2024-04-11 00:00
+year: 2024
